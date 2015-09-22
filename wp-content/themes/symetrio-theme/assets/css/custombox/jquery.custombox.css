@@ -1,0 +1,111 @@
+/*
+ *  jQuery Custombox v1.1.3 - 2014/02/18
+ *  jQuery Modal Window Effects.
+ *  http://dixso.github.io/custombox/
+ *  (c) 2014 Julio De La Calle - http://dixso.net - @dixso9
+ *
+ *  Under MIT License - http://www.opensource.org/licenses/mit-license.php
+ */
+
+/*
+ -------------------------------------------------
+ Overlay
+ -------------------------------------------------
+ */
+.custombox-overlay {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+/*
+ -------------------------------------------------
+ Modal
+ -------------------------------------------------
+ */
+.custombox-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+
+.custombox-modal {
+    height: auto;
+    visibility: hidden;
+}
+
+.custombox-modal-content{
+    margin-right: 15px;
+}
+
+/*
+ -------------------------------------------------
+ Error
+ -------------------------------------------------
+ */
+.custombox-error {
+    padding: 20px;
+    text-align: center;
+    color: #F00;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #FFF;
+    border-radius: 5px;
+}
+
+/*
+ -------------------------------------------------
+ Actions
+ -------------------------------------------------
+ */
+.custombox-show {
+    visibility: visible;
+}
+.custombox-show ~ .custombox-overlay {
+    opacity: 1;
+    visibility: visible;
+}
+.custombox-perspective,
+.custombox-perspective body {
+    height: 100%;
+    overflow: hidden;
+}
+.custombox-perspective body  {
+    -webkit-perspective: 600px;
+    perspective: 600px;
+}
+.custombox-container {
+    min-height: 100%;
+}
+
+.custombox-hide-scrollbar body {
+    position: relative;
+    overflow: hidden;
+}
+
+/*
+ -------------------------------------------------
+ Fade in and scale up
+ -------------------------------------------------
+ */
+.custombox-fadein .custombox-modal-content {
+    -webkit-transform: scale(0.7);
+    -ms-transform: scale(0.7);
+    transform: scale(0.7);
+    -webkit-transition-property: all;
+    -ms-transition-property: all;
+    transition-property: all;
+    opacity: 0;
+}
+.custombox-show.custombox-fadein .custombox-modal-content {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+}

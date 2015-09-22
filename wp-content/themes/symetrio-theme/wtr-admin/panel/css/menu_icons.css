@@ -1,0 +1,22 @@
+/**
+ * Icons for side navigation in Wordpress Admin Panel
+ * @package Symetrio
+ * @author Wonster
+ * @link http://wonster.co/
+ */
+
+#menu-posts-gallery .menu-icon-post div.wp-menu-image:before{ content: '\f161'; }
+#menu-posts-clients .menu-icon-post div.wp-menu-image:before { content: '\f307'; }
+#menu-posts-portfolio .menu-icon-post div.wp-menu-image:before { content: "\f330"; }
+#menu-posts-testimonial .menu-icon-post div.wp-menu-image:before { content: "\f122"; }
+#menu-posts-gym_location .menu-icon-post div.wp-menu-image:before { content: "\f230"; }
+#menu-posts-pass .menu-icon-post div.wp-menu-image:before { content: "\f323"; }
+#menu-posts-rooms .menu-icon-post div.wp-menu-image:before { content: "\f180"; }
+#menu-posts-trainer .menu-icon-post div.wp-menu-image:before { content: "\f488"; }
+#menu-posts-classes .menu-icon-post div.wp-menu-image:before { content: "\f483"; }
+#menu-posts-events .menu-icon-post div.wp-menu-image:before { content: "\f145"; }
+#toplevel_page_wpcf7 .toplevel_page_wpcf7 div.wp-menu-image:before { content: "\f119"; }
+.wp-admin #wpwrap #adminmenu #menu-posts-product .menu-icon-post div.wp-menu-image:before { font-family: dashicons !important; content: "\f174" !important; font-size: 20px !important}
+#toplevel_page_wtr_classes_schedule .dashicons-admin-generic:before{ content: "\f469"; font-size: 22px; margin-top: -1px; margin-left: -1px;}
+#toplevel_page_wonster-options .dashicons-admin-generic:before{ content: "\f511"; }
+#wp-admin-bar-wtr_options .ab-item:before { content: '\f100'; top: 2px; }

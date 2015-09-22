@@ -1,0 +1,2134 @@
+/**
+ * @package Symetrio
+ * @author Wonster
+ * @link http://wonster.co/
+ */
+
+
+/*------------------------------------*\
+$Globals
+\*------------------------------------*/
+
+body{}
+
+.wtrUIContener h1,
+.wtrUIContener h2,
+.wtrUIContener h3,
+.wtrUIContener h4,
+.wtrUIContener h5,
+.wtrUIContener h6{
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.wtrUIContener h1 {
+  font-size: 30px;
+  line-height: 50px;
+}
+
+.wtrUIContener h2 {
+  font-size: 22px;
+  line-height: 42px;
+}
+
+.wtrUIContener h3 {
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.wtrUIContener h4 {
+  font-size: 14px;
+  line-height: 27px;
+}
+
+.wtrUIContener h5 {
+  font-size: 12px;
+  line-height: 22px;
+}
+
+.wtrUIContener h6 {
+  font-size: 10px;
+  line-height: 18px;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+a:focus {
+  outline:0 none;
+}
+
+a:-moz-any-link:focus {
+  outline: none;
+}
+
+p{
+  line-height: 1.5
+}
+
+/*ul, ol {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}*/
+
+textarea{
+  background-color: #fff !important;
+}
+
+.noResize{
+  resize: none;
+}
+/*
+* {
+  margin: 0;
+  padding: 0;
+}*/
+
+
+
+/*------------------------------------*\
+$Architecture
+\*------------------------------------*/
+
+.clear{
+  clear: both;
+}
+
+.floatRight{
+  float: right;
+}
+
+.container{
+  width: 100%;
+  float: left;
+}
+
+.wonsterFrame{
+  min-width: 800px;
+  max-width: 1200px;
+  margin: 15px 15px 15px 0px;
+  height: auto;
+}
+
+.roundBor{
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+
+
+/*-- Header -----------------------*/
+
+.head{
+  background-color: #318fce;
+  -webkit-border-top-left-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  -moz-border-radius-topleft: 5px;
+  -moz-border-radius-topright: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.headLinks{
+  /*background-color: #318fce;*/
+  margin-left: 200px;
+}
+
+.logoSec{
+  float: left;
+  margin: 23px 0px 20px 22px;
+  width: 128px;
+  padding: 5px 0px 5px 50px ;
+  background: url('../images/ico_admin_logo.png') no-repeat left center;
+}
+
+.themeName{
+  display: block;
+  font-size: 20px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.themeName:hover{
+  color: #fff;
+}
+
+.softVersion{
+  display: block;
+  color: #98c9ea;
+  font-size: 12px;
+}
+
+.wonsterLogo{
+  background: url('../images/wonsterLogo.png') no-repeat top center;
+  width: 206px;
+  height: 33px;
+  margin: 30px 20px 0px 0px;
+}
+
+.moreLinks{
+  padding-top: 0px;
+  margin: 30px 0px 0px 0px;
+  float: left;
+}
+
+.moreLinks li{
+  float: left;
+  padding-top: 0px;
+  margin: 0px 10px 0px 0px;
+}
+
+
+
+/*-- Save info -----------------------*/
+
+.saveInfo{
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: 9999;
+  background: rgba(255, 255, 255, .8);
+}
+
+.wonsterLoader{
+  position: inherit;
+  top: 50%;
+  left: 50%;
+  margin-top: -20px;
+  width: 50px;
+  margin-left: -20px
+}
+
+.wonsterLoaderElement{
+  background: url('../images/loader.gif') no-repeat center center;
+  width: 50px;
+  height: 50px;
+}
+
+.saveInfoNag{
+  position: inherit;
+  top: 45%;
+  left: 0;
+  right: 0;
+  text-align: center;
+  }
+
+.infoError{
+  display: inline-block;
+  text-align: center;
+  font-weight: bold;
+  color: #666;
+  font-size: 20px;
+  padding: 20px 40px 20px 0px;
+  background: url('../images/ico_error_red.png') no-repeat center right;
+}
+
+.btnInfo{
+  margin: 40px 0px 0px 0px;
+}
+
+.infoErrorBtn{
+  width: 120px;
+}
+
+.infoOk{
+  display: inline-block;
+  text-align: center;
+  font-weight: bold;
+  color: #666;
+  font-size: 20px;
+  padding: 20px 40px 20px 0px;
+  background: url('../images/ico_checked_green.png') no-repeat center right;
+}
+
+
+
+/*-- Copy -----------------------*/
+
+.copy{
+  text-align: center;
+  padding: 20px 0px 20px 0px;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+  color: #ddd;
+}
+
+.miniLogo{
+  font-size: 12px;
+  padding: 5px 20px 5px 0px;
+  color: #bbb;
+  background: url('../images/ico_wonster.png') no-repeat right -47px;
+}
+
+.miniLogo:hover{
+  color: #f5686e;
+  background-position: right 1px;
+}
+
+
+
+/*-- Navigation -----------------------*/
+
+.main{
+  position: relative;
+}
+
+.nav{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  padding: 0px;
+  margin: 0px;
+  width: 200px;
+  background-color: #318fce;
+  height: 100%;
+  -webkit-border-bottom-left-radius: 5px;
+  -moz-border-radius-bottomleft: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.mainNav{
+  margin: 0px 0px 0px 20px;
+}
+
+.mainNav li{
+  margin: 0px 0px 5px 0px;
+  line-height: 1.0;
+}
+
+.mainNav li a{
+  font-size: 14px;
+  display: block;
+  padding: 10px 0px 10px 38px;
+  color: #fff;
+  -webkit-border-top-left-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-radius-topleft: 3px;
+  -moz-border-radius-bottomleft: 3px;
+  border-top-left-radius: 3px;
+  line-height: 1.3;
+  font-weight: normal;
+  border-bottom-left-radius: 3px;
+}
+
+.mainNav li:focus,
+.mainNav li a:focus {outline:0 !important;}
+
+.flagIco{
+  background: url('../images/ico_nav.png') no-repeat 15px 10px;
+}
+
+.wtr_SocialMediaGroup{
+  background: url('../images/ico_nav.png') no-repeat 15px -402px;
+}
+
+.wtr_DataBackupGroup{
+  background: url('../images/ico_nav.png') no-repeat 15px -26px;
+}
+
+.wtr_GeneralGroup{
+  background: url('../images/ico_nav.png') no-repeat 15px -113px;
+}
+
+.wtr_ColorGroup{
+  background: url('../images/ico_nav.png') no-repeat 15px -158px;
+}
+
+.wtr_LayoutGroup{
+  background: url('../images/ico_nav.png') no-repeat 15px -198px;
+}
+
+.wtr_FontsGroup{
+  background: url('../images/ico_nav.png') no-repeat 15px -240px;
+}
+
+.wtr_TranslateGroup{
+  background: url('../images/ico_nav.png') no-repeat 15px -279px;
+}
+
+.wtr_SliderGroup{
+  background: url('../images/ico_nav.png') no-repeat 15px -321px;
+}
+
+.wtr_WoocommerceGroup{
+  background: url('../images/ico_nav.png') no-repeat 15px -489px;
+}
+
+.wtr_PayPalGroup {
+  background: url('../images/ico_nav.png') no-repeat 15px -531px;
+}
+
+.wtr_bbPressGroup{
+  background: url('../images/ico_nav.png') no-repeat 15px -575px;
+}
+
+.mainNav li a:hover, .navActive{
+  background-color: #fff;
+  color: #1c5c86;
+}
+
+.navActive{
+  color: #1c5c86 !important;
+}
+
+.secNav a{
+  -webkit-transition-duration: 0 !important;
+  -moz-transition-duration: 0 !important;
+  transition-duration: 0 !important;
+}
+
+.secNav{
+/*  display: none;*/
+  background-color: #fff;
+  margin: 0px;
+  padding: 0px 0px 7px 0px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-radius-bottomleft: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.secNav li{
+  margin: -2px 0px 0px 0px;
+  padding: 0px;
+  line-height: 1.2;
+}
+
+.secNav li a:hover, .secNavAct{
+  background: url('../images/bg_navi_hover.png') no-repeat -2px center;
+  color: #729bb6;
+  -webkit-transition-duration: 0 !important;
+  -moz-transition-duration: 0 !important;
+  transition-duration: 0 !important;
+}
+
+.secNav li a{
+  color: #729bb6;
+  font-size: 13px;
+  font-weight: normal;
+  margin: 0px;
+  padding: 8px 0px 8px 16px;
+}
+
+
+
+/*-- Grid -----------------------*/
+
+.wtrUIContener .content{
+  border-bottom: 1px solid #e5e5e5;
+  border-right: 1px solid #e5e5e5;
+  background-color: #fff;
+  margin-left: 200px;
+  -webkit-border-bottom-right-radius: 5px;
+  -moz-border-radius-bottomright: 5px;
+  border-bottom-right-radius: 5px;
+  margin-top: -1px;
+}
+
+.settings{
+  padding: 30px 30px 30px 30px;
+  margin: 0px;
+  min-height: 550px;
+}
+
+.setNag{
+  font-size: 18px;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+  color: #318fce;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+}
+
+.setNag .slash{
+  color: #a4cee9;
+  padding: 0px 8px;
+}
+
+.setNag .underCat{
+  font-weight: normal;
+  font-size: 14px;
+  padding: 0px;
+  margin: 0px;
+  color: #a4cee9;
+}
+
+.WtrNoneSidebarDataInfo{
+  background-color: #F5F5F5;
+  border: 1px solid #cecece !important;
+  line-height: 1.2;
+  height: auto !important;
+  text-align: center;
+  height: 14px;
+  padding: 6px 20px 6px 10px;
+  font-size: 11px;
+  font-weight: bold;
+  color: #999;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.wonsterFiled{
+  width: 100%;
+  border-bottom: 1px dashed #c8c8c8;
+  min-height: 55px;
+  margin: 20px 0px 0px 0px;
+}
+
+.wonsterFiled.last{
+  border-bottom: none;
+}
+
+.wfSett{
+  float: left;
+  width: 65%;
+  position: relative;
+}
+
+.wfSettFullWidth{
+  float: left;
+  width: 100%;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.setCol-one-three{
+  float: left;
+  width: 35%;
+}
+
+.setCol-two-three{
+  float: left;
+  width: 65%;
+}
+
+.setCol{
+  float: left;
+  width: 35%;
+}
+
+.setCol-2{
+  float: left;
+  width: 65%;
+}
+
+.rangeSlide{
+  width: 200px;
+  float: left;
+  margin: 15px 30px 0px 0px;
+}
+
+.wfImageCol{
+  width: 50%;
+}
+
+.wfImagePrev{
+  float: left;
+  margin: 0px;
+}
+
+.imgContener{
+  position: relative;
+  float: left;
+  width: 95%;
+}
+
+.imgContener img{
+  margin-bottom: 30px;
+}
+
+.wtfUrlUpdateField{
+  /*margin-top: 20px;*/
+}
+
+.wonsterImgSortableContener{
+  margin: 20px 0px;
+  padding: 0;
+  width: 100%;
+}
+
+.wr_ImgSortableArea li {
+  margin: 10px;
+  padding: 0px;
+  float: left;
+  width: 80px;
+  height: 80px;
+}
+
+.wr_ImgSortableArea  .ui-state-default{
+  margin: 0px 20px 20px 0px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  border: 0px solid #fff;
+}
+.wr_ImgSortableArea  .ui-state-highlight{
+  margin: 0px 20px 20px 0px;
+  -webkit-border-radius: 3px !important;
+  -moz-border-radius: 3px !important;
+  border-radius: 3px !important;
+  border: 0px solid #fff !important;
+  background-color: #ccc;
+}
+
+.imgThumbContainerImgSortable{
+  width: 80px;
+  height: 80px;
+  position: relative;
+}
+
+.imgThumbContainerImgSortable img{
+  cursor: move;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.delItemImgSortable{
+  background: url(../images/ico_close_btn.png) no-repeat top left;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  z-index: 100;
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
+}
+
+.delItemImgSortable:hover{
+  background-position: bottom left;
+}
+
+.wtrWpModal .wtrUrlUpdateEntry {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.wtrWpModal .wtr_admin_imgContener{
+  margin: 20px 0px 0px !important;
+}
+
+.wtrWpModal .wtrUrlInput{
+  width: 100% !important;
+}
+
+.deleteFoto{
+  background: url(../images/ico_close_btn.png) no-repeat top left;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  z-index: 100;
+  top: 0px;
+  right: -25px;
+  cursor: pointer;
+}
+
+.deleteFoto:hover{
+  background-position: bottom left;
+}
+
+.wfImagePrev img{
+  width: 100%;
+  display: block;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.inputRadio-wrapper{
+  margin-top: 10px;
+}
+
+.inputRadio-wrapper{
+  font-size: 13px;
+}
+
+.wtr_admin_color_field {
+  width: 75px !important;
+}
+
+.one-col{
+  width: 100%;
+  margin-bottom: 20px;
+  float: left;
+  padding-bottom: 20px;
+  border-bottom: 1px dashed #c8c8c8;
+}
+.col-one-three{
+  width: 45%;
+  float: left;
+}
+
+.col-two-three{
+  width: 55%;
+  float: left;
+  max-width: 400px;
+}
+
+.padded{
+  margin-left: 30px;
+}
+
+.padded .WonButton{
+  margin-right: 10px;
+}
+
+.bordered{
+  border-right: 1px solid #e5e5e5;
+}
+
+.WonButton.rateUs{
+  padding-left: 15px !important;
+  background-color: #CAF3DB;
+  color: #49976A;
+  border-color: #9AE9BC;
+}
+
+.WonButton.rateUs:hover{
+  background-color: #fff !important;
+  color: #49976A;
+}
+
+
+/*-- End architecture -----------------------*/
+
+/*------------------------------------*\
+$Globals
+\*------------------------------------*/
+
+/*-- Buttons -----------------------*/
+
+
+input[type="button"], input[type="submit"] {
+  font-size: 13px;
+  font-weight: bold;
+  padding: 0 20px;
+  height: 31px;
+  vertical-align: middle;
+}
+
+.WonButton,
+.WonButton:visited {
+  display: inline-block;
+  text-decoration: none !important;
+  text-align: center;
+  font-family: Helvetica, Arial, Sans-serif;
+  text-shadow: 0 1px 0 rgba(255,255,255,1.0);
+  font-size: 13px;
+  outline: none;
+  font-weight: bold;
+  line-height: 1em;
+  padding: 9px 15px 8px;
+  cursor: pointer;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -o-border-radius: 3px;
+  box-shadow: 0 1px 0px rgba(0,0,0,0.1), inset 0 1px 0 rgba(255,255,255,0.2);
+  -webkit-box-shadow: 0 1px 0px rgba(0,0,0,0.1), inset 0 1px 0 rgba(255,255,255,0.2);
+  -moz-box-shadow: 0 1px 0px rgba(0,0,0,0.1), inset 0 1px 0 rgba(255,255,255,0.2);
+  -o-box-shadow: 0 1px 0px rgba(0,0,0,0.1), inset 0 1px 0 rgba(255,255,255,0.2);
+  vertical-align: middle;
+}
+
+.WonButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.headBtn{
+  padding-left: 38px !important;
+  border: 1px solid #9ecbe8;
+  color: #367faf;
+}
+
+.headBtn:hover{
+  color: #367faf;
+}
+
+.headBtn:hover{
+  background-color: #fff;
+}
+
+.support{
+  background: #e1f3ff url('../images/ico_head_nav.png') no-repeat 12px 6px;
+}
+.manual{
+  background: #e1f3ff url('../images/ico_head_nav.png') no-repeat 12px -36px;
+}
+.xml{
+  background: #e1f3ff url('../images/ico_head_nav.png') no-repeat 12px -77px;
+}
+
+.blue{
+  background-color: #e1f3ff;
+  border: 1px solid #9ecbe8;
+  color: #367faf !important;
+}
+.blue:hover{
+  background-color: #edf8ff;
+}
+
+.yellow{
+  background-color: #f8ebb7;
+  border: 1px solid #d0c184;
+  color: #816d1c !important;
+}
+.yellow:hover{
+  background-color: #fff7d8;
+}
+
+.red{
+  background-color: #ff787e;
+  border: 1px solid #de383f;
+  color: #fff !important;
+  text-shadow: 0 1px 0 rgba(222,56,63,1.0) !important;
+
+}
+.red:hover{
+  background-color: #f68a8f;
+}
+
+.btnModalSpace{
+  margin: 30px 0px 0px 0px;
+  height: 50px;
+}
+
+.AlternativButton{
+  color: #999 !important;
+  font-weight: normal !important;
+  margin-left: 20px;
+  font-size: 13px;
+}
+
+.btnImpExpSec{
+  height: 35px;
+}
+
+.footBtns{
+  /*border-top: 1px solid #ccc;*/
+  padding: 30px 0px 0px 0px;
+  height: 35px;
+  margin: 0px 0px 0px 0px;
+}
+
+.footBtns #dialog_link:hover{
+color: #4F4F4F;
+}
+
+/*-- End buttons -----------------------*/
+
+/*-- End Globals -----------------------*/
+
+
+
+/*------------------------------------*\
+$Settings Elements
+\*------------------------------------*/
+
+/*-- Custome select --*/
+
+.textDivBox{
+  width: 100%;
+  margin-bottom: 0px;
+  line-height: 1.5;
+}
+
+.textDivBoxMargin{
+  margin-bottom: 20px;
+}
+
+.inputDivBox{
+  width: 96%;
+}
+
+.wfSett input.inputDivBox{
+  width: 100%;
+}
+
+.wfSett input.variableInp{
+  width: 70px;
+}
+
+.wfSett input[readonly].variableInp{
+  background-color: #fff;
+}
+
+.selectdiv {
+  width:96%;
+  border:1px solid #cecece;
+  line-height: 1.5;
+  padding: 6px 10px 6px 10px;
+  background: url('../images/ico_arrows.png') no-repeat right;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -o-border-radius: 3px;
+  box-shadow: 0 1px 0px rgba(0,0,0,0.1), inset 0 1px 0 rgba(255,255,255,0.4);
+  -webkit-box-shadow: 0 1px 0px rgba(0,0,0,0.1), inset 0 1px 0 rgba(255,255,255,0.4);
+  -moz-box-shadow: 0 1px 0px rgba(0,0,0,0.1), inset 0 1px 0 rgba(255,255,255,0.4);
+  -o-box-shadow: 0 1px 0px rgba(0,0,0,0.1), inset 0 1px 0 rgba(255,255,255,0.4);
+  cursor:pointer;
+}
+
+.selectdiv:hover, .selectdiv:focus {
+  border:1px solid #bdbdbd;
+  background: url('../images/ico_arrows.png') no-repeat right;
+  border-radius:3px;
+  cursor:pointer;
+}
+
+.selectdiv div {
+  font-size: 13px;
+  font-weight: bold;
+  z-index:-1;
+  color: #666;
+  border:0px solid #000;
+  overflow:hidden;
+  padding:1px 0px 0px 0px;
+  cursor:pointer;
+}
+
+.selectboxdiv {
+  left: 0px;
+  margin-top: 0;
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+  -khtml-opacity: 0;
+  -moz-opacity: 0;
+  opacity: 0;
+  cursor:pointer;
+}
+
+.setCol-one-three{
+  position: relative;
+}
+
+.setCol-one-three .selectdiv{
+  width: 85%;
+}
+
+
+.wtrSelectMultiple{
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.fontPrev{
+  margin-bottom: 10px;
+  margin-left: 20px;
+  line-height: 1.5;
+  max-width: 600px;
+  min-width: 180px;
+  border: 1px solid #e5e5e5;
+  padding:10px 20px;
+}
+.fontPrevNag{
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  float: left;
+  font-size: 11px;
+  font-weight: bold;
+  color: #999;
+
+}
+
+/*-- Footer cols seter --*/
+
+.footerColSetter{
+  width: 120px;
+  height: 56px;
+  margin-right: 3%;
+  position: relative;
+  margin-top: 15px;
+  float: left;
+  cursor: pointer;
+  background: url('../images/bg_footer_cols.png') no-repeat;
+}
+
+.footerColSetter.last{
+  margin-right: 0px;
+}
+
+.setOne{
+  background-position: 0px 0px;
+}
+
+.setTwo{
+  background-position: -140px 0px;
+}
+
+.setThree{
+  background-position: -420px 0px;
+}
+
+.setFour{
+  background-position: -280px 0px;
+}
+
+.colsChecked{
+  background: url('../images/ico_checked.png') no-repeat;
+  width: 15px;
+  height: 15px;
+  display: block;
+  position: absolute;
+  bottom: 5px;
+  right: 11px;
+}
+
+
+
+/*-- Sidebar seter --*/
+
+.sideSetter{
+  width: 120px;
+  height: 56px;
+  margin-right: 3%;
+  margin-top: 15px;
+  position: relative;
+  float: left;
+  cursor: pointer;
+  background: url('../images/bg_sidebar_position.png') no-repeat;
+}
+
+.sideSetter.last{
+  margin-right: 0px;
+}
+
+.setLeftSide{
+  background-position: 0px 0px;
+}
+
+.setRightSide{
+  background-position: -280px 0px;
+}
+
+.setBothSides{
+  background-position: -140px 0px;
+}
+
+.setNone{
+  background-position: -420px 0px;
+}
+
+.sideChecked{
+  background: url('../images/ico_checked.png') no-repeat;
+  width: 15px;
+  height: 15px;
+  display: block;
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+}
+
+
+
+/*-- Default button setter --*/
+
+.buttonItemSet{
+  width: 110px;
+  border: 1px solid #e5e5e5;
+  padding: 10px 30px 10px 10px;
+  position: relative;
+  float: left;
+  margin: 0px 5px 5px 0px;
+  cursor: pointer;
+}
+
+.buttonSetter{
+  width: 100px;
+  height: 39px;
+  background: url('../images/bg_buttons.png') no-repeat;
+}
+
+.buttonSetterTr{
+  width: 100px;
+  height: 44px;
+  background: url('../images/bg_buttons.png') no-repeat;
+}
+
+.buttonSetter.last{
+  margin-right: 0px;
+}
+
+.btnChecked{
+  background: url('../images/ico_checked.png') no-repeat;
+  width: 15px;
+  height: 15px;
+  display: block;
+  position: absolute;
+  bottom: 35%;
+  right: 11px;
+}
+
+.pinkBtnBg{
+  background-position: 0px 0px;
+}
+
+.redBtnBg{
+  background-position: -154px 0px;
+}
+
+.yellowBtnBg{
+  background-position: -309px 0px;
+}
+
+.greenBtnBg{
+  background-position: -462px 0px;
+}
+
+.greyBtnBg{
+  background-position: 0px -93px;
+}
+
+.darkgreyBtnBg{
+  background-position: -154px -93px;
+}
+
+.lightblueBtnBg{
+  background-position: -309px -93px;
+}
+
+.blueBtnBg{
+  background-position: -462px -93px;
+}
+
+
+.pinkBtnTr{
+  background-position: 0px -185px;
+}
+
+.redBtnTr{
+  background-position: -153px -185px;
+}
+
+.yellowBtnTr{
+  background-position: -309px -185px;
+}
+
+.greenBtnTr{
+  background-position: -462px -185px;
+}
+
+.greyBtnTr{
+  background-position: 0px -275px;
+}
+
+.darkgreyBtnTr{
+  background-position: -153px -275px;
+}
+
+.lightblueBtnTr{
+  background-position: -309px -275px;
+}
+
+.blueBtnTr{
+  background-position: -462px -275px;
+}
+
+
+
+/*-- Description --*/
+
+.setDesc{
+  font-size: 11px;
+  padding-bottom: 20px;
+  margin-left: 20px;
+  color: #999;
+}
+
+.setDescUnder{
+  font-size: 11px;
+  margin: 10px 0px 0px 0px;
+  padding-bottom: 20px;
+  color: #999;
+}
+
+.setDescObok{
+  margin: 0px 0px 20px 20px;
+  display: inline-block;
+  font-size: 11px;
+  padding-bottom: 20px;
+  color: #999;
+}
+
+.wonsterUpload{
+  margin: 0px 0px 20px 0px;
+}
+
+.wfDesc{
+  float: left;
+  width: 35%;
+}
+
+.wfDesc .wfTitle{
+  font-size: 15px;
+  color: #666;
+  margin: 5px 0px 5px 0px;
+}
+
+#wtr_FontsFontSizeSection_section .wfTitle{
+  margin: 5px 35px 5px 0px;
+}
+
+.wfDescFullWidth{
+  float: left;
+  width: 100%;
+}
+
+.wfDescFullWidth .wfTitle{
+  font-size: 15px;
+  color: #666;
+  margin: 5px 0px 5px 0px;
+}
+
+.setDescNag{
+  padding-right: 20px;
+  font-size: 11px;
+  padding-bottom: 20px;
+  color: #999;
+}
+
+
+
+
+/*-- Import --*/
+
+.importBtn{
+  float: right;
+}
+
+
+
+/*-- Backup list --*/
+
+.backupList{
+  margin: 0px 0px 0px 0px;
+}
+
+.noBackupData{
+  margin: 20px 30px 20px 0px;
+  border: 2px dashed #cecece;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: bold;
+  color: #999;
+  padding: 9px 20px 9px 10px;
+}
+
+.backupList .has-pretty-child label{
+  color: #999 !important;
+  font-size: 12px;
+}
+
+.backupList .has-pretty-child label span{
+  width: 10px;
+  height: 10px;
+  margin: 0px 5px;
+  color: #ccc;
+}
+
+.backupsNag{
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 0px;
+  font-weight: normal;
+}
+
+.backupBtns{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.backupBtns a:active{}
+
+.prettyradio a{
+  transition-duration:          0s;
+  -webkit-transition-duration:  0s;
+  -moz-transition-duration:     0s;
+  -o-transition-duration:       0s;
+}
+
+
+/*-- Sidebar Adder --*/
+
+.sidebarInp{
+  width: 55%;
+  margin: 0px 10px 0px 0px
+}
+
+.sidebarBtn{
+  width: 25%;
+  float: right;
+  margin-top: 2px;
+}
+
+.sidebarBtn:active{
+  top: 1px;
+}
+
+.fileSelect{
+  background: #e1f3ff url(../images/ico_upload.png) no-repeat  88%  6px;
+  padding-right: 40px;
+  float: left;
+}
+
+.sidebarList{
+  font-size: 11px;
+  margin: 10px 0px 0px 0px;
+  padding-bottom: 20px;
+  color: #777;
+}
+
+.sidebarList ul li{
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 8px;
+  display: block;
+  width: 100%;
+}
+
+.noSidebar{
+  background-color: #fff;
+  border: 2px dashed #cecece;
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  height: 14px;
+  padding: 9px 20px 9px 10px;
+  font-size: 11px;
+  font-weight: bold;
+  color: #999;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+    border-radius: 3px;
+
+}
+
+.sidebarName{
+  background-color: #f5f5f5;
+  border: 1px solid #cecece;
+  line-height: 1.2;
+  height: 14px;
+  padding: 8px 20px 9px 10px;
+  font-size: 12px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.delSidebar{
+  border: 1px solid #666;
+  position: absolute;
+  padding: 15px 17px 16px;
+  right: 0px;
+  top: 0px;
+  background: #666 url('../images/ico_close.png') no-repeat 12px -28px;
+  cursor: pointer;
+  text-shadow: 0 1px 0 rgba(222,56,63,1.0) !important;
+  -webkit-border-bottom-right-radius: 3px;
+  -moz-border-radius-bottomright: 3px;
+  border-bottom-right-radius: 3px;
+  -webkit-border-top-right-radius: 3px;
+  -moz-border-radius-topright: 3px;
+  border-top-right-radius: 3px;
+  -webkit-transition-duration: 0 !important;
+  -moz-transition-duration: 0 !important;
+  transition-duration: 0 !important;
+}
+
+.delSidebar:hover{
+  background-color: #ff787e;
+  border-color: #e86369;
+  background-position: 12px 10px;
+}
+
+
+
+/*-- End settings elements -----------------------*/
+
+/*-- Modal window --*/
+
+#lean_overlay {
+  position: fixed;
+  z-index:100;
+  top: 0px;
+  left: 0px;
+  height:100%;
+  width:100%;
+  background: #68A6E0;
+  display: none;
+}
+
+.wonsterModal {
+  width: 550px;
+  display:none;
+  background: #FFF;
+  border: 10px solid #318fce;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
+.modalNag{
+  padding: 25px 30px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.modal_tittle{
+  float: left;
+  color: #666;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.modal_close{
+  float: right;
+  display: block;
+  height: 15px;
+  width: 15px;
+  background: url('../images/ico_modal_close.png')no-repeat center center;
+}
+
+.modalContent{
+  padding: 30px 30px 10px 30px;
+}
+
+.modalContent p{
+  line-height: 1.5;
+  font-size: 14px;
+  color: #4F4F4F;
+  margin: 0px;
+}
+
+
+
+/* -- Wordpress Page Option -- */
+
+.wtrWpFrame .wonsterFiled {
+  width: 100%;
+}
+
+.wtrWpFrame .setCol{ /* column resizer for Wordpress mobile view */
+  width: 100%;
+}
+
+.wtrWpFrame .wonsterFiled .wfSett .inputDivBox{
+  width: 100%;
+  font-size: 12px;
+  color: #666;
+  font-family: Helvetica;
+  padding: 10px;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -o-border-radius: 3px;
+  border: 1px solid #cecece;
+  outline: none;
+  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.1) inset, 0 1px 0 rgba(255,255,255,0.2);
+  -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.1) inset, 0 1px 0 rgba(255,255,255,0.2);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1) inset, 0 1px 0 rgba(255,255,255,0.2);
+}
+
+.wtrWpFrame .wonsterFiled .wfSett .inputDivBox:focus{
+  border: 1px solid #95bdd4;
+  -webkit-box-shadow: 0 2px 3px rgba(161,202,226,0.5) inset, 0 1px 0 rgba(255,255,255,0.2);
+  -moz-box-shadow: 0 2px 3px rgba(161,202,226,0.5) inset, 0 1px 0 rgba(255,255,255,0.2);
+  box-shadow: 0 2px 3px rgba(161,202,226,0.5) inset, 0 1px 0 rgba(255,255,255,0.2);
+}
+
+.wtrWpFrame .wonsterFiled .wfSett .textDivBox{
+  width: 100%;
+}
+
+.wtrWpFrame .wonsterFiled .wfSettFullWidth .textDivBox{
+  width: 100%;
+}
+
+.wtrWpFrame .wonsterFiled .wfSett .selectdiv{
+  width: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+
+.wtrWpFrame .wonsterFiled .wfSett .setCol-one-three{
+  width: 150px;
+}
+
+.wtrWpFrame .wonsterFiled .wfSett .setCol-two-three{
+  width: 240px;
+}
+
+.wtrWpFrame .wonsterFiled .wfSett .setCol-one-three .selectdiv{
+  width: 120px;
+}
+
+.wtrWpFrame .wonsterFiled .wfSett .setCol-two-three .fontPrev{
+  width: 80px;
+}
+
+.wtrWpFrame .wonsterFiled:last-child {
+  border-bottom: none !important;
+}
+
+.wtrWpFrame .sideSetter{
+  width: 120px;
+  height: 56px;
+  margin-right: 3%;
+  margin-top: 15px;
+  position: relative;
+  float: left;
+  cursor: pointer;
+  background: url('../images/bg_sidebar_position.png') no-repeat;
+}
+
+.wtrWpFrame .sideSetter.last{
+  margin-right: 0px;
+}
+
+.wtrWpFrame .setLeftSide{
+  background-position: 0px 0px !important;
+}
+
+.wtrWpFrame .setRightSide{
+  background-position: -280px 0px !important;
+}
+
+.wtrWpFrame .setBothSides{
+  background-position: -140px 0px !important;
+}
+
+.wtrWpFrame .setNone{
+  background-position: -420px 0px !important;
+}
+
+.wtrWpFrame .sideSetter .sideChecked{
+  background: url('../images/ico_checked.png') no-repeat;
+  width: 15px;
+  height: 15px;
+  display: block;
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+}
+
+
+
+/* custom wtr media file - attachment - on */
+.media-frame-content .button-group{
+  white-space : normal !important;
+}
+
+.media-frame-content .button-group .button{
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+
+.wtr-custom-media-frame-att-on .media-frame-menu  {
+  display: none;
+}
+
+.wtr-custom-media-frame-att-on .media-frame-title {
+  left: 0px;
+}
+
+.wtr-custom-media-frame-att-on .media-frame-router {
+  left: 0px;
+}
+
+.wtr-custom-media-frame-att-on .media-frame-content {
+  left: 0px;
+}
+
+.wtr-custom-media-frame-att-on .media-frame-toolbar {
+  left: 0px;
+}
+.wtr-custom-media-frame-att-on .attachment-details .setting {
+  display: none;
+}
+.wtr-custom-media-frame-att-on .attachment-display-settings div{
+  display: none !important;
+}
+.wtr-custom-media-frame-att-on .attachment-display-settings label{
+  display: none !important;
+}
+.wtr-custom-media-frame-att-on .attachment-display-settings label:last-child {
+  display: block !important;
+}
+.wtr-custom-media-frame-att-on .attachment-display-settings label.setting span {
+  text-align: left !important;
+  float: none !important;
+}
+.wtr-custom-media-frame-att-on .attachment-display-settings label.setting select {
+  min-width: 80% !important;
+}
+
+
+
+/* custom wtr media file - attachment - off */
+
+.wtr-custom-media-frame-att-off .media-frame-menu  {
+  display: none;
+}
+
+.wtr-custom-media-frame-att-off .media-frame-title {
+  left: 0px;
+}
+
+.wtr-custom-media-frame-att-off .media-frame-router {
+  left: 0px;
+}
+.wtr-custom-media-frame-att-off .media-frame-content {
+  left: 0px;
+}
+.wtr-custom-media-frame-att-off .media-frame-toolbar {
+  left: 0px;
+}
+.wtr-custom-media-frame-att-off .attachment-details .setting {
+  display: none;
+}
+.wtr-custom-media-frame-att-off .attachment-display-settings {
+  display: none !important;
+}
+
+
+
+/* Full width alert in wonsterField section */
+
+.wonsterFiledAlert{
+  font-size: 14px;
+  text-align: center;
+  color: #8a6d3b;
+  background-color: #FFFCEC;
+  border-color: #faebcc !important;
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.wtr_radio_thumbnail{
+  margin-top: 20px;
+}
+
+.wtr-overwrite-skin{
+  float:left;
+  width:55%;
+  position:relative;
+}
+
+.wtr-one-click-skin{
+  float:left;
+  width:55%;
+  position:relative;
+}
+
+.wtrAlertAlignLeft{
+  text-align: left !important;
+}
+
+.alertUlImportOneClick{
+  list-style-type: disc;
+  margin-left: 35px;
+}
+
+.wtrAlertTextImportant{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+/* Page Options Tabs */
+
+.wtrOptionPanel .inside{
+  padding: 0px;
+  margin: 0px !important;
+}
+
+.wtrPageOptionsInner{
+  height: 70px;
+  position: relative;
+  background-color: #318fce;
+  margin-top: -1px;
+}
+
+.wtrPageOptionsBranding{
+  position: absolute;
+  left: 25px;
+  bottom: 15px;
+}
+
+.wtrPageOptionsBrandingItem{
+  width: 170px;
+  font-size: 16px;
+  padding: 10px 0px 10px 50px;
+  background: url('../images/ico_admin_logo.png') no-repeat left center;
+  color: #ffffff;
+  display: block;
+}
+
+.wtrPageOptionsTabsInsider{
+  position: absolute;
+  right: 10px;
+  bottom: 19px;
+  margin: 0;
+  padding: 0;
+}
+
+.wtrPageOptionsTabsInsider li{
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.wtrPageOptionsTabsInsider li span {
+  font-size: 14px;
+  padding: 7px 12px;
+  color: #ffffff;
+}
+
+.wtrPageOptionsTabsInsider li span.wtrActivePageOptionTab{
+  background-color: #ffffff;
+  color: #456;
+  padding: 12px 20px 28px 20px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.wtrPageOptionsTabsInsider li span.wtrNonActivePageOptionTab:hover{
+  padding: 6px 12px 7px;
+  color: #fff;
+  background-color: #1d74af;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.wtrPageOptionsTabsContent{ padding: 0px 25px 20px; }
+
+.wtrPageOptionsTabsContent div.wfDescFullWidth:first-child{ margin-top: 0px; }
+.wtrPageOptionsTabContentInner div.wonsterFiled:first-child{ margin-top: 30px; }
+.wtrPageOptionsTabContentInner div:last-child{ border-bottom: 0px; }
+
+.wtrOptionPanel .wonsterFiled textarea,
+.wtrOptionPanel .wonsterFiled input{
+  font-size: 12px;
+  color: #666;
+  font-family: Helvetica;
+  padding: 10px;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -o-border-radius: 3px;
+  border: 1px solid #cecece;
+  outline: none;
+  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.1) inset, 0 1px 0 rgba(255,255,255,0.2);
+  -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.1) inset, 0 1px 0 rgba(255,255,255,0.2);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1) inset, 0 1px 0 rgba(255,255,255,0.2);
+}
+
+.wtrOptionPanel .wonsterFiled textarea:hover,
+.wtrOptionPanel .wonsterFiled input:hover {
+  border: 1px solid #bdbdbd;
+  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.2) inset, 0 1px 0 rgba(255,255,255,0.2);
+  -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.2) inset, 0 1px 0 rgba(255,255,255,0.2);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2) inset, 0 1px 0 rgba(255,255,255,0.2);
+}
+
+.wtrOptionPanel .wonsterFiled textarea:focus,
+.wtrOptionPanel .wonsterFiled input:focus{
+  border: 1px solid #95bdd4;
+  -webkit-box-shadow: 0 2px 3px rgba(161,202,226,0.5) inset, 0 1px 0 rgba(255,255,255,0.2);
+  -moz-box-shadow: 0 2px 3px rgba(161,202,226,0.5) inset, 0 1px 0 rgba(255,255,255,0.2);
+  box-shadow: 0 2px 3px rgba(161,202,226,0.5) inset, 0 1px 0 rgba(255,255,255,0.2);
+}
+
+/* Responsive grid for page options tabs */
+
+@media only screen and (max-width: 1170px) {
+
+  .wtrPageOptionsTabsInsider li span.wtrActivePageOptionTab{ padding: 12px 10px 28px 10px; }
+  .wtrPageOptionsBranding{ text-indent: -9999em; }
+
+}
+
+@media only screen and (max-width: 580px) {
+
+  .wtrOptionPanel .setCol{ width: 100%; }
+
+  .wtrOptionPanel .wfSett,
+  .wtrOptionPanel .wfDesc{ width: 50%; }
+
+  .wtrOptionPanel .wtrPageOptionsBranding{ display: none; }
+
+}
+
+@media only screen and (max-width: 430px) {
+
+  .wtrOptionPanel .setCol{ width: 100%; }
+
+  .wtrOptionPanel .wfSett,
+  .wtrOptionPanel .wfDesc{ width: 50%; }
+
+  .wtrOptionPanel .wtrPageOptionsBranding{ display: none; }
+  .wtrOptionPanel .wtrPageOptionsTabsInsider li{ margin-right: 8px; }
+
+}
+
+.wtr-media-icon{
+  padding-right: 24px;
+}
+
+/* .wp-media-buttons-icon:before{
+  font: 400 18px/1 dashicons;
+  speak: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  content: '\f104';
+  position: absolute;
+  top: 4px;
+} */
+
+.blueExportToFile{
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+
+.wtrDatepickerField{
+  width: 100px !important;
+  text-align: center;
+}
+
+.wtrDatepickerIco{
+  cursor: pointer;
+  font-size: 25px;
+  margin: 5px 20px 0px 0px;
+  color: #318fce;
+  float: left;
+}
+
+/* Date picker custom CSS */
+
+.pika-title .pika-label{
+  font-size: 18px;
+}
+
+.pika-table thead{
+  text-transform: uppercase;
+}
+
+.pika-table tbody .pika-button{
+  text-align: center !important;
+}
+
+.pika-table th{
+  padding-bottom: 10px !important;
+}
+
+.pika-table .is-today .pika-button{
+  color: #318fce !important;
+}
+
+.pika-table .pika-button:hover{
+  background-color: #318fce !important;
+  color: #ffffff !important;
+  border-radius: 1px !important;
+}
+
+.pika-table .is-selected .pika-button{
+  background-color: #318fce !important;
+  color: #ffffff !important;
+  border-radius: 1px !important;
+}
+
+.pika-single.is-bound{
+  border-radius: 3px;
+  margin-top: 5px;
+}
+
+
+/* Callendar */
+
+.wtrCalendarHeadline{
+  margin-top: 20px;
+}
+
+.wtrCalendarHeadline h2{
+  font-size: 23px;
+  font-weight: 400;
+  padding: 0;
+  line-height: 1px;
+  display: inline-block !important;
+}
+
+.wtrCalendarHeadline .WonButton{
+  margin: -10px 0px 0px 20px;
+}
+
+.wtrPageOptionsDateSlider{
+  position: absolute;
+  left: 25px;
+  bottom: 15px;
+  top: 14px;
+  background-color: #fff;
+  width: 300px;
+  border-radius: 3px;
+}
+
+.wtrCalClickBack{
+  float: left;
+  padding: 12px 0px;
+}
+
+.wtrCalClickForward{
+  float: right;
+  padding: 12px 0px;
+}
+
+.wtrCalClickBack,
+.wtrCalClickForward{
+  text-align: center;
+  width: 20%;
+  cursor: pointer;
+  color: #cccccc;
+}
+
+.wtrCalClickBack:hover,
+.wtrCalClickForward:hover{
+  color: #507A97;
+}
+
+.wtrCalDateRoller{
+  float: left;
+  width: 59%;
+  text-align: center;
+  padding: 12px 0;
+  font-weight: bold;
+  font-size: 15px;
+  color: #666666;
+}
+
+.wtrCalendarInside{
+  margin-right: 15px;
+  margin-top: 20px;
+}
+
+.wtrCalendarContainer{
+  background-color: #ffffff;
+  width: 100%;
+  margin-right: 20px;
+}
+
+.pure-table{
+  margin-top: 25px;
+  border-collapse: collapse;
+  border-spacing: 0;
+  empty-cells: show;
+  border: 1px solid #e5e5e5;
+}
+
+.pure-table thead {
+  background: #f1f9ff;
+  color: #507A97;
+  font-weight: 18px !important;
+  text-align: left;
+  vertical-align: bottom;
+  border: 1px solid #cee8ff;
+}
+
+.pure-table thead tr th{
+  padding: 18px 20px;
+  width: 20%;
+  font-weight: bold;
+  text-align: center;
+  font-size: 14px;
+  color: #507A97;
+  text-transform: uppercase;
+}
+
+.pure-table thead tr {
+  border-bottom: 1px solid #cee8ff;
+}
+
+.time{
+  width: 12% !important;
+}
+
+.class{
+  width: 15% !important
+}
+
+.trainer{
+  width: 5% !important;
+}
+
+.desc{
+  width: 55% !important
+}
+
+.room{
+  width: 7% !important
+}
+
+.option{
+  width: 10% !important
+}
+
+.pure-table tr{
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.pure-table th{
+  border-left: 1px solid #cee8ff;
+}
+
+.pure-table td{
+  border-left: 1px solid #e5e5e5;
+  border-width: 0 0 0 1px;
+  margin: 0;
+  overflow: visible;
+
+}
+
+
+.pure-table-odd{
+  background-color: #f9f9f9;
+}
+
+/*  */
+
+.stdRow{
+  color: #777777;
+  font-size: 14px;
+  font-family: "Open Sans",sans-serif;
+}
+
+.stdRow td{
+  padding: 15px 10px;
+}
+
+.stdRow .time{
+  text-align: center;
+  font-size: 12px;
+}
+
+.stdRow .trainer{
+  text-align: center;
+}
+
+.stdRow .option{
+  position: relative;
+}
+
+.stdRow .class{
+  text-align: center;
+  font-size: 14px;
+}
+
+.stdRow .room{
+  text-align: center;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.stdRow .class a{
+  color: #507A97;
+  font-weight: 700;
+  font-size: 14px;
+  padding-bottom: -1px;
+  border-bottom: 1px solid #AEC1CE;
+}
+
+.wtrAdminCalSett{}
+
+.wtrAdminCalSettBtn{
+  width: 49.1%;
+  float: left;
+  text-align: center;
+  padding: 8px 0;
+  border-radius: 3px;
+}
+
+.wtrAdminCalSettBtn i{
+  color: #999;
+  font-size: 20px;
+  text-align: center;
+}
+
+.wtrAdminCalSettBtn:hover{
+  border-radius: 3px;
+  top: 8px;
+  right: 10px;
+  left: 10px;
+}
+
+.settingBtn:hover{
+  background: #27ae60;
+}
+
+.settingBtn:hover i{
+  color: #fff;
+}
+
+.settingBtn i{
+  color: #27ae60
+}
+
+.deleteBtn:hover{
+  background: #ff6a6a;
+}
+
+.deleteBtn:hover i{
+  color: #fff;
+}
+
+.deleteBtn i{
+  color: #ff6a6a
+}
+
+.wfGoogleMapDiv{
+  margin-top: 25px;
+  margin-bottom: 25px;
+  border: 1px solid #bdbdbd;
+  -webkit-border-radius: 3px;
+  margin-right: 15px !important;
+}
+
+.wtrCustomFF .setCol-one-three{
+  width: 100%;
+}
+
+.wtrCustomFF .wonsterUpload{
+  width: 25%;
+  float: left;
+}
+
+.wtrCustomFF .wtfUrlUpdate{
+  width: 75%;
+  float: left
+}
+
+.wtrCustomFF .wtrUrlInput input,
+.wtrCustomFF .wfImagePrev,
+.wtrCustomFF .imgContener{
+  width: 100% !important;
+}

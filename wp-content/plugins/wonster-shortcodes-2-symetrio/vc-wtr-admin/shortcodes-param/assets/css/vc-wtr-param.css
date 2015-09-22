@@ -1,0 +1,109 @@
+/* 	MODIFICATION CSS VC STYLES */
+.vc_row.wpb_edit_form_elements .vc_settings .vc_background-image,
+.vc_row.wpb_edit_form_elements .vc_settings .vc_background-style
+{
+	display:none;
+}
+
+.vc_row.wpb_edit_form_elements .vc_settings label:nth-child(4)
+{
+	display:none;
+}
+
+.vc_row.wpb_edit_form_elements .vc_settings .color-group:nth-child(5)
+{
+	display:none;
+}
+
+
+
+
+
+/* icon set */
+	.wtrVcIconItemPos{
+		float: left;
+		margin-left: -1px;
+		margin-right: 0px;
+		margin-top: -1px;
+		text-align: center;
+		font-size: 30px;
+		color: #666;
+		line-height: 1.5;
+		width: 45px;
+		background: #fff;
+		display: block;
+		border: 1px solid #eee;
+		cursor: pointer;
+		position: relative;
+	}
+
+	.wtrVcIconItemPos:hover{
+		z-index: 100;
+		background-color: #e1f3ff;
+		border: 1px solid #9ecbe8;
+		color: #0f4e79;
+		transform: scale(1.3);
+		-webkit-transform: scale(1.3);
+		-moz-transform: scale(1.3);
+		-o-transform: scale(1.3);
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+		border-radius: 3px;
+	}
+
+	.wtrVcIconList{
+		overflow-y: scroll  !important;
+	}
+
+	.wtrVcIconList .iconList{
+		margin: 0;
+	}
+
+	.wtrVcIconList .wtrVcIconItemPos{
+		width: 46.5px;
+	}
+
+
+/* google mpas */
+
+	.clearfix:after {
+		content:"";
+		display:table;
+		clear:both;
+	}
+
+	.wtrVcCol{
+		float: left;
+	}
+
+	.wtrVcColThreeFourth{
+		width: 78%;
+		margin-right: 4%;
+	}
+
+	.wtrVcColOneFourth{
+		width: 18%;
+	}
+
+	.wtrVcColLast{
+		margin-right: 0;
+	}
+
+	.wtrFullWidthButton{
+		width: 100%;
+		margin-top: 4px !important;
+	}
+
+	.wtrGoogleMapToolSet{
+		margin-bottom: 10px;
+	}
+
+	.wtrGoogleMapsElements{
+		padding-top: 4px;
+		padding-left: 10px;
+		display: inline-block
+	}
+
+	.wfGoogleMapDiv{
+		margin-bottom: 12px !important;
+	}

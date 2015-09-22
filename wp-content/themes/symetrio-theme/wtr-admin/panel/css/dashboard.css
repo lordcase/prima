@@ -1,0 +1,110 @@
+/* Rate us */
+
+#wtrRateUs.postbox {
+	background: #2ea2cc !important;
+	border-color: #1F8EB6 !important;
+}
+
+#wtrRateUs.postbox.closed .hndle{
+	border-width: 0px !important;
+}
+
+#wtrRateUs h3.hndle.ui-sortable-handle span{
+	color: #fff !important;
+}
+
+#wtrRateUs .inside{
+	color: #fff !important;
+}
+
+#wtrRateUs .inside span{
+	font-size: 18px;
+}
+
+#wtrRateUs .inside a:hover{
+	text-decoration: none;
+}
+
+#wtrRateUs .inside a{
+	color: #fff !important;
+	text-decoration: underline;
+}
+
+#wtrRateUs a.button{
+	text-decoration: none !important;
+	background-color: #0074a2 !important;
+	border: 1px solid #0074a2 !important;
+	color: #ffffff !important;
+	box-shadow: inset 0 0px 0 rgba(120,200,230,.5),0 0px 0 rgba(0,0,0,.15);
+}
+
+#wtrRateUs a.button:hover{
+	background-color: #ffffff !important;
+	border: 1px solid #ffffff !important;
+	color: #000 !important;
+}
+
+#wtrRateUs .hndle,
+#wtrRateUs .hndle{
+	border-bottom: 1px solid #1B85AB !important;
+}
+
+#wtrRateUs .handlediv{
+	color: #0074a2 !important;
+}
+
+
+/* Help box */
+
+#wtrSupport.postbox {
+	background: #89C75C !important;
+	border-color: #78BD44 !important;
+}
+
+#wtrSupport.postbox.closed .hndle{
+	border-width: 0px !important;
+}
+
+#wtrSupport h3.hndle.ui-sortable-handle span{
+	color: #fff !important;
+}
+
+#wtrSupport .inside{
+	color: #fff !important;
+}
+
+#wtrSupport .inside span{
+	font-size: 18px;
+}
+
+#wtrSupport .inside a:hover{
+	text-decoration: none;
+}
+
+#wtrSupport .inside a{
+	color: #fff !important;
+	text-decoration: underline;
+}
+
+#wtrSupport a.button{
+	text-decoration: none !important;
+	background-color: #64A038 !important;
+	border: 1px solid #64A038 !important;
+	color: #ffffff !important;
+	box-shadow: inset 0 0px 0 rgba(120,200,230,.5),0 0px 0 rgba(0,0,0,.15);
+}
+
+#wtrSupport a.button:hover{
+	background-color: #ffffff !important;
+	border: 1px solid #ffffff !important;
+	color: #000 !important;
+}
+
+#wtrSupport .hndle,
+#wtrSupport .hndle{
+	border-bottom: 1px solid #73B63F !important;
+}
+
+#wtrSupport .handlediv{
+	color: #67B030 !important;
+}

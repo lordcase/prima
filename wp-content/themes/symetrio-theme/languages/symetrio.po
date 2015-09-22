@@ -1,0 +1,3888 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Symetrio\n"
+"POT-Creation-Date: 2015-08-28 09:38+0100\n"
+"PO-Revision-Date: 2015-08-28 09:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_n_noop\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../extensions/bbPress/functions.php:42
+msgid "Sidebar position on bbPress"
+msgstr ""
+
+#: ../extensions/bbPress/functions.php:56
+#: ../extensions/woocommerce/functions.php:160
+#: ../functions/meta/meta-page.php:38 ../functions/meta/meta-page.php:372
+#: ../functions/meta/meta-post.php:37 ../functions/meta/meta-post.php:171
+#: ../wtr-admin/wtr_init.php:3576
+msgid "Sidebar"
+msgstr ""
+
+#: ../extensions/bbPress/functions.php:64
+#: ../extensions/bbPress/functions.php:99
+msgid "bbPress"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:54
+msgid "Shop icon inside main navigation"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:67
+msgid "Number of Products per Page"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:80
+msgid "Sidebar position on Shop archive pages"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:94
+msgid "Sidebar position on Shop product pages"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:108
+msgid "Sidebar position on Shop Cart pages"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:122
+msgid "Sidebar position on Shop Checkou pages"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:136
+msgid "Sidebar position on Shop Account pages"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:150
+#: ../functions/meta/meta-post.php:190 ../wtr-admin/wtr_init.php:3719
+#: ../wtr-admin/wtr_init.php:3782 ../wtr-admin/wtr_init.php:4018
+msgid "General"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:172
+msgid "Woocommerce"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:224
+msgid "Woocommerce Shop  Page"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:225
+msgid "Woocommerce Product Page"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:226
+msgid "Woocommerce Cart Page"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:227
+msgid "Woocommerce Checkout Page"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:228
+msgid "Woocommerce Account Page"
+msgstr ""
+
+#: ../extensions/woocommerce/functions.php:267
+#: ../extensions/woocommerce/functions.php:292
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../extensions/wpml/functions.php:111
+msgid "404 is a \"Page\" now, there are missing translations in languages:"
+msgstr ""
+
+#: ../functions/helpers/helper-function.php:324
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: ../functions/helpers/helper-function.php:334
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions/helpers/helper-function.php:336
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions/helpers/helper-header.php:374
+#: ../wtr-admin/panel/class/fields/wtr_select.php:139
+msgid "(no title)"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:145
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:149
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:162
+msgid "sub item"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:194
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:203
+#: ../functions/widget/widget-todays-open-hours.php:143
+msgid "URL"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:210
+msgid "Navigation Label"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:216
+msgid "Title Attribute"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:223
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:228
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:234
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:240 ../wtr-admin/wtr_init.php:264
+msgid "Description"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:242
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:252
+msgid "Enable Wonster Mega Menu"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:258
+msgid "Mega Menu Number of Columns"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:269
+msgid "Background image"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:272
+msgid "Remove image"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:284
+msgid "This item should start a new row"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:290
+msgid "Don't generate headline"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:300
+msgid "Don't generate Link"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:305
+#: ../functions/plugins/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:311
+msgid "Status color"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:313
+msgid "Style 1"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:314
+msgid "Style 2"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:315
+msgid "Style 3"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:316
+msgid "Style 4"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:323
+msgid ""
+"Icon (from: <a target=\"_blank\" href=\"http://fortawesome.github.io/Font-"
+"Awesome/icons/\">Font Awesome</a>) | eg. <b>fa</b> fa-code"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:333
+msgid "Move"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:334
+msgid "Up one"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:335
+msgid "Down one"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:338
+msgid "To the top"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:345
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:358
+msgid "Remove"
+msgstr ""
+
+#: ../functions/helpers/helper-megamenu.php:359
+msgid "Cancel"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:24 ../functions/meta/meta-post.php:23
+msgid "Sidebar position"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:45 ../functions/meta/meta-post.php:44
+msgid ""
+"To set sidebar use \"Siedebar management\". Go to: Apperance > Theme Options "
+"> General > Sidebar"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:54
+msgid "None"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:55
+msgid "Default"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:65 ../wtr-admin/wtr_init.php:62
+msgid "Boxed style"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:78
+msgid "Enable clean menu mode"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:79
+msgid ""
+"This option allows you to hide additional menu icons like: </br> Search "
+"icon, WooCommerce cart (if installed), WPML select (if installed)"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:91
+msgid "Enable transparent mode"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:104
+msgid "Animated background item"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:105 ../wtr-admin/wtr_init.php:152
+msgid ""
+"Select the photos to appear in the background of the page. If you select "
+"more than one photo will be used fade effect between them."
+msgstr ""
+
+#: ../functions/meta/meta-page.php:113 ../wtr-admin/wtr_init.php:159
+msgid "Insert image url or select file from media library"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:118
+msgid "Page menu"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:132 ../wtr-admin/wtr_init.php:974
+msgid "Header settings"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:140 ../functions/meta/meta-page.php:202
+#: ../wtr-admin/wtr_init.php:982 ../wtr-admin/wtr_init.php:1170
+msgid "Off"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:141
+msgid "Show menu"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:142
+msgid "Show menu &#43; socials"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:143
+msgid "Simplified menu"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:151 ../wtr-admin/wtr_init.php:991
+msgid "Header type"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:159 ../wtr-admin/wtr_init.php:999
+msgid "Standard"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:160 ../wtr-admin/wtr_init.php:1000
+msgid "Boxed"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:168 ../wtr-admin/wtr_init.php:714
+#: ../wtr-admin/wtr_init.php:1125
+msgid "Breadcrumbs container"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:181 ../wtr-admin/wtr_init.php:726
+#: ../wtr-admin/wtr_init.php:1137 ../wtr-admin/wtr_init.php:2806
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:194
+msgid "Footer Settings"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:203 ../wtr-admin/wtr_init.php:1171
+msgid "Show widget"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:204 ../wtr-admin/wtr_init.php:1172
+msgid "Show copyright"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:205 ../wtr-admin/wtr_init.php:1173
+msgid "Show copyright &#43; widget"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:213
+msgid "Section background image"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:214
+msgid "If you set a background image background color is igonred"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:220
+#: ../wtr-admin/panel/class/wtr_avatar.php:83 ../wtr-admin/wtr_init.php:1060
+#: ../wtr-admin/wtr_init.php:1072 ../wtr-admin/wtr_init.php:1084
+#: ../wtr-admin/wtr_init.php:1156 ../wtr-admin/wtr_init.php:1187
+msgid "Insert image"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:225
+msgid "Settings for OnePage type pages"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:251
+msgid "Vertical centered content"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:264
+msgid "Invert navigation color"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:277
+msgid "Selector ID"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:289 ../functions/meta/meta-post.php:52
+msgid "SEO tittle"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:301 ../functions/meta/meta-post.php:64
+msgid "SEO description"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:313 ../functions/meta/meta-post.php:76
+msgid "SEO keywords"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:324 ../functions/meta/meta-post.php:142
+msgid "Robots meta tag"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:332 ../functions/meta/meta-post.php:150
+msgid "Site has No Robot attribute "
+msgstr ""
+
+#: ../functions/meta/meta-page.php:340 ../functions/meta/meta-post.php:158
+msgid "Custom css for page"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:353 ../wtr-admin/wtr_init.php:4043
+msgid "Layout"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:383
+msgid "OnePage "
+msgstr ""
+
+#: ../functions/meta/meta-page.php:398 ../functions/meta/meta-post.php:181
+msgid "CSS"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:409
+msgid "Page Options"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:425 ../functions/meta/meta-post.php:220
+#: ../wtr-admin/wtr_init.php:3553
+msgid "SEO"
+msgstr ""
+
+#: ../functions/meta/meta-post.php:87 ../wtr-admin/wtr_init.php:573
+#: ../wtr-admin/wtr_init.php:586
+msgid "Blog style"
+msgstr ""
+
+#: ../functions/meta/meta-post.php:100
+#: ../wtr-admin/panel/class/wtr_translate.php:31 ../wtr-admin/wtr_init.php:672
+#: ../wtr-admin/wtr_init.php:2153
+msgid "Related posts"
+msgstr ""
+
+#: ../functions/meta/meta-post.php:112 ../wtr-admin/wtr_init.php:684
+msgid "Related posts by"
+msgstr ""
+
+#: ../functions/meta/meta-post.php:120 ../wtr-admin/wtr_init.php:692
+msgid "Tags "
+msgstr ""
+
+#: ../functions/meta/meta-post.php:121
+#: ../wtr-admin/panel/class/wtr_translate.php:144
+#: ../wtr-admin/wtr_init.php:693 ../wtr-admin/wtr_init.php:3251
+msgid "Category"
+msgstr ""
+
+#: ../functions/meta/meta-post.php:122 ../wtr-admin/wtr_init.php:694
+msgid "Tags and Category"
+msgstr ""
+
+#: ../functions/meta/meta-post.php:129 ../wtr-admin/wtr_init.php:701
+msgid "Related posts order by"
+msgstr ""
+
+#: ../functions/meta/meta-post.php:136 ../wtr-admin/wtr_init.php:708
+msgid " Lastest "
+msgstr ""
+
+#: ../functions/meta/meta-post.php:136 ../wtr-admin/wtr_init.php:708
+msgid "Random"
+msgstr ""
+
+#: ../functions/meta/meta-post.php:205
+msgid "Post Options"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:399
+#: ../functions/plugins/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:400
+#: ../functions/plugins/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2438
+#: ../wtr-admin/wtr_init.php:2841
+msgid "Type"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../functions/plugins/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/widget/register-widget.php:39
+msgid "Footer column One"
+msgstr ""
+
+#: ../functions/widget/register-widget.php:40
+msgid "Footer column Two"
+msgstr ""
+
+#: ../functions/widget/register-widget.php:41
+msgid "Footer column Three"
+msgstr ""
+
+#: ../functions/widget/register-widget.php:42
+msgid "Footer column Four"
+msgstr ""
+
+#: ../functions/widget/register-widget.php:43
+msgid "Footer column Five"
+msgstr ""
+
+#: ../functions/widget/widget-facebook-like-box.php:24
+msgid "facebook like box "
+msgstr ""
+
+#: ../functions/widget/widget-facebook-like-box.php:25
+msgid "You can link You Facebook fanpage here"
+msgstr ""
+
+#: ../functions/widget/widget-facebook-like-box.php:108
+#: ../functions/widget/widget-menu.php:107
+#: ../functions/widget/widget-open-hours.php:105
+#: ../functions/widget/widget-promo-box.php:84
+#: ../functions/widget/widget-recent-comments.php:98
+#: ../functions/widget/widget-recent-posts.php:117
+#: ../functions/widget/widget-social-links.php:81
+#: ../functions/widget/widget-todays-open-hours.php:135
+#: ../functions/widget/widget-tweets.php:130 ../wtr-admin/wtr_init.php:252
+#: ../wtr-admin/wtr_init.php:2793
+msgid "Title"
+msgstr ""
+
+#: ../functions/widget/widget-facebook-like-box.php:112
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../functions/widget/widget-facebook-like-box.php:117
+msgid "Height"
+msgstr ""
+
+#: ../functions/widget/widget-facebook-like-box.php:119
+msgid "The pixel height of the embed (Min. 70)"
+msgstr ""
+
+#: ../functions/widget/widget-facebook-like-box.php:122
+msgid "Width"
+msgstr ""
+
+#: ../functions/widget/widget-facebook-like-box.php:124
+msgid "The pixel width of the embed (Min. 180 to Max. 500)"
+msgstr ""
+
+#: ../functions/widget/widget-facebook-like-box.php:128
+msgid "Adapt to plugin container width"
+msgstr ""
+
+#: ../functions/widget/widget-facebook-like-box.php:132
+msgid "Hide Cover Photo"
+msgstr ""
+
+#: ../functions/widget/widget-facebook-like-box.php:136
+msgid "Show faces"
+msgstr ""
+
+#: ../functions/widget/widget-facebook-like-box.php:140
+msgid "Show stream"
+msgstr ""
+
+#: ../functions/widget/widget-facebook-like-box.php:144
+msgid "Use Small Header"
+msgstr ""
+
+#: ../functions/widget/widget-menu.php:25
+msgid "menu"
+msgstr ""
+
+#: ../functions/widget/widget-menu.php:26
+msgid "You can create custome navigation"
+msgstr ""
+
+#: ../functions/widget/widget-menu.php:112
+msgid "Use current page title"
+msgstr ""
+
+#: ../functions/widget/widget-menu.php:117
+msgid "Show page siblings"
+msgstr ""
+
+#: ../functions/widget/widget-menu.php:120
+msgid "Show page children"
+msgstr ""
+
+#: ../functions/widget/widget-menu.php:123
+msgid "Show page children (if there is no children, show siblings)"
+msgstr ""
+
+#: ../functions/widget/widget-menu.php:127
+msgid "Enable nested menu"
+msgstr ""
+
+#: ../functions/widget/widget-menu.php:130
+#: ../functions/widget/widget-menu.php:144
+#: ../functions/widget/widget-promo-box.php:103
+msgid "Yes"
+msgstr ""
+
+#: ../functions/widget/widget-menu.php:132
+#: ../functions/widget/widget-menu.php:146
+#: ../functions/widget/widget-promo-box.php:105
+msgid "No"
+msgstr ""
+
+#: ../functions/widget/widget-menu.php:135
+msgid "Exclude"
+msgstr ""
+
+#: ../functions/widget/widget-menu.php:138
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: ../functions/widget/widget-menu.php:141
+msgid "Exclude page childrens "
+msgstr ""
+
+#: ../functions/widget/widget-menu.php:148
+msgid "If nested menu is enabled"
+msgstr ""
+
+#: ../functions/widget/widget-menu.php:369
+#, php-format
+msgid "#%d (no title)"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:26
+msgid "Label ( Monday )"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:27
+msgid "Label ( Tuesday )"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:28
+msgid "Label ( Wednesday )"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:29
+msgid "Label ( Thursday )"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:30
+msgid "Label ( Friday )"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:31
+msgid "Label ( Saturday )"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:32
+msgid "Label ( Sunday )"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:36
+msgid "open hours"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:37
+msgid "Opening hours for a whole week"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:69
+#: ../functions/widget/widget-open-hours.php:71
+#: ../functions/widget/widget-open-hours.php:123
+#: ../functions/widget/widget-open-hours.php:130
+#: ../functions/widget/widget-todays-open-hours.php:79
+#: ../functions/widget/widget-todays-open-hours.php:81
+#: ../functions/widget/widget-todays-open-hours.php:174
+#: ../functions/widget/widget-todays-open-hours.php:181
+msgid "PM"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:69
+#: ../functions/widget/widget-open-hours.php:71
+#: ../functions/widget/widget-open-hours.php:124
+#: ../functions/widget/widget-open-hours.php:131
+#: ../functions/widget/widget-todays-open-hours.php:79
+#: ../functions/widget/widget-todays-open-hours.php:81
+#: ../functions/widget/widget-todays-open-hours.php:175
+#: ../functions/widget/widget-todays-open-hours.php:182
+msgid "AM"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:103
+msgid "Fields left blank will be ignored"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:116
+#: ../functions/widget/widget-todays-open-hours.php:167
+msgid "Opening time"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:117
+#: ../functions/widget/widget-todays-open-hours.php:168
+msgid "Closing time"
+msgstr ""
+
+#: ../functions/widget/widget-open-hours.php:122
+#: ../functions/widget/widget-open-hours.php:129
+#: ../functions/widget/widget-todays-open-hours.php:173
+#: ../functions/widget/widget-todays-open-hours.php:180
+msgid "--"
+msgstr ""
+
+#: ../functions/widget/widget-promo-box.php:25
+msgid "promo box"
+msgstr ""
+
+#: ../functions/widget/widget-promo-box.php:26
+msgid "You can Use this section to write some conspicuous text"
+msgstr ""
+
+#: ../functions/widget/widget-promo-box.php:88
+msgid "Subtitle"
+msgstr ""
+
+#: ../functions/widget/widget-promo-box.php:92
+msgid "Button Link"
+msgstr ""
+
+#: ../functions/widget/widget-promo-box.php:96
+msgid "Button Label"
+msgstr ""
+
+#: ../functions/widget/widget-promo-box.php:100
+msgid "Open Link in new Window"
+msgstr ""
+
+#: ../functions/widget/widget-recent-comments.php:24
+msgid "recent comments"
+msgstr ""
+
+#: ../functions/widget/widget-recent-comments.php:25
+msgid "This section shows  last comments"
+msgstr ""
+
+#: ../functions/widget/widget-recent-comments.php:102
+msgid "Number of comments to show"
+msgstr ""
+
+#: ../functions/widget/widget-recent-posts.php:24
+msgid "recent post"
+msgstr ""
+
+#: ../functions/widget/widget-recent-posts.php:25
+msgid "This section shows  last posts"
+msgstr ""
+
+#: ../functions/widget/widget-recent-posts.php:121
+msgid "Count"
+msgstr ""
+
+#: ../functions/widget/widget-recent-posts.php:125
+msgid "Choose the categories you want to display (multiple selection possible)"
+msgstr ""
+
+#: ../functions/widget/widget-recent-posts.php:127
+msgid "Select category"
+msgstr ""
+
+#: ../functions/widget/widget-recent-posts.php:140
+msgid "Order "
+msgstr ""
+
+#: ../functions/widget/widget-recent-posts.php:142
+msgid "Last"
+msgstr ""
+
+#: ../functions/widget/widget-recent-posts.php:143
+msgid "Number of comments"
+msgstr ""
+
+#: ../functions/widget/widget-social-links.php:24
+msgid "social links "
+msgstr ""
+
+#: ../functions/widget/widget-social-links.php:25
+msgid "You can link Your social profiles here"
+msgstr ""
+
+#: ../functions/widget/widget-tag-cloud.php:21
+msgid "tag cloud "
+msgstr ""
+
+#: ../functions/widget/widget-tag-cloud.php:22
+msgid "This section shows used tags "
+msgstr ""
+
+#: ../functions/widget/widget-tag-cloud.php:34
+msgid "Tags"
+msgstr ""
+
+#: ../functions/widget/widget-tag-cloud.php:70
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widget/widget-tag-cloud.php:72
+msgid "Taxonomy:"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:27
+msgid "20.10"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:28
+msgid "10.20"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:29
+msgid "20/10"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:30
+msgid "10/20"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:31
+msgid "19 Oct"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:32
+msgid "Oct 19"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:33
+msgid "19 October"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:34
+msgid "October 19"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:38
+#: ../wtr-admin/panel/class/wtr_translate.php:130
+#: ../wtr-admin/wtr_init.php:3083
+msgid "Monday"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:39
+#: ../wtr-admin/panel/class/wtr_translate.php:131
+#: ../wtr-admin/wtr_init.php:3095
+msgid "Tuesday"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:40
+#: ../wtr-admin/panel/class/wtr_translate.php:132
+#: ../wtr-admin/wtr_init.php:3107
+msgid "Wednesday"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:41
+#: ../wtr-admin/panel/class/wtr_translate.php:133
+#: ../wtr-admin/wtr_init.php:3119
+msgid "Thursday"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:42
+#: ../wtr-admin/panel/class/wtr_translate.php:134
+#: ../wtr-admin/wtr_init.php:3131
+msgid "Friday"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:43
+#: ../wtr-admin/panel/class/wtr_translate.php:135
+#: ../wtr-admin/wtr_init.php:3143
+msgid "Saturday"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:44
+#: ../wtr-admin/panel/class/wtr_translate.php:136
+#: ../wtr-admin/wtr_init.php:3155
+msgid "Sunday"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:49
+msgid "todays open hours"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:50
+msgid "Opening hours for the current day of the week"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:139
+msgid "Label URL"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:147
+msgid "Text"
+msgstr ""
+
+#: ../functions/widget/widget-todays-open-hours.php:152
+msgid "Date format"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:24
+msgid "twitter"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:25
+msgid "You can link Twitter account here to display your last twitts on site"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:57
+msgid "Fill all widget settings "
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:97
+msgid "Ago"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:115
+msgid "Recent Tweets"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:128
+msgid "Find or Create your Twitter App"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:134
+msgid "Consumer Key"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:138
+msgid "Consumer Secret"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:142
+msgid "Access Token"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:146
+msgid "Access Token Secret"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:150
+msgid "Twitter username"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:153
+msgid "Number of Tweets"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:157
+msgid "Refresh time"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:159
+msgid "1 min"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:160
+msgid "2 min"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:161
+msgid "5 min"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:162
+msgid "10 min"
+msgstr ""
+
+#: ../functions/widget/widget-tweets.php:163
+msgid "15 min"
+msgstr ""
+
+#: ../functions/wtr_theme_init.php:19
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions/wtr_theme_init.php:65
+#: ../wtr-admin/panel/class/wtr_theme_page.php:43
+#: ../wtr-admin/panel/class/wtr_theme_page.php:44
+#, php-format
+msgid "Theme Option -  %1$s"
+msgstr ""
+
+#: ../wtr-admin/customizer/class/fields/wtr_customize_setting.php:45
+msgid "Option "
+msgstr ""
+
+#: ../wtr-admin/customizer/class/wtr_customize.php:95
+msgid ""
+"To see changes in the public area be sure to set: General Theme Skin on "
+"<strong>\"Custom\"</strong>. <br> To make it happen please go to: Color &gt; "
+"General, field: \"Theme Skin\""
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:28
+msgid "Body and loader background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:40
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1064
+msgid "Navigation background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:51
+msgid "Quick contact font colors"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:61
+msgid "Quick contact link colors"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:71
+msgid "Quick contact link background color on hover"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:83
+msgid "Quick contact link font color on hover"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:94
+msgid "Quick contact border color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:104
+msgid "First level navigation font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:114
+msgid "First level navigation font color on hover"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:126
+msgid "Second level navigation background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:136
+msgid "Color for arrow in second level navigation - in boxed navigation mode"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:146
+msgid "Second level navigation headline color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:156
+msgid "Second level navigation link color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:166
+msgid "Third level navigation link color "
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:176
+msgid "Active position and third level navigation link color on hover"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:188
+msgid "Mobile and smart navigation background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:202
+msgid "Breadcrumbs background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:212
+msgid "Breadcrumbs headline font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:222
+msgid "Breadcrumbs patch font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:232
+msgid "Breadcrumb active site font colors"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:242
+msgid "Breadcrumb active site background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:255
+msgid "Distinctive font color for valid elemnts"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:267
+msgid "Distinctive Background color for valid elements"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:279
+msgid "Distinctive border color for valid elements"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:291
+msgid "Second distinctive background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:301
+msgid "Font color for distinctive elements on colored backgrounds"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:313
+msgid "Second font color for distinctive elements on colored backgrounds"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:323
+msgid "Button font color for items placed on distinctive sections"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:333
+msgid "Button background color for items placed on distinctive sections"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:343
+msgid "Woo Commerce Sale badage colors "
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:354
+msgid "Woo Commerce Sale badage background colors "
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:365
+msgid "Pricing table price section background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:376
+msgid "Pricing table price section font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:387
+msgid "Pricing table plan name font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:398
+msgid "Pricing table border color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:409
+msgid "Pricing table description section font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:420
+msgid "Pricing table description section background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:431
+msgid " Pricing table featured column background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:442
+msgid "Pricing table featured column price section background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:453
+msgid "Featured column font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:465
+msgid "Container background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:475
+msgid "Conatiner background color for elements like tables, tabs and others"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:486
+msgid "Background color for conatiner elemnts like tabs and tables"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:496
+msgid "Headline font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:507
+msgid "Paragraph font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:517
+msgid "Font color on transparent backgrounds"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:528
+msgid "Border color for site elements"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:539
+msgid "Distinctive overlay background color for elements on hover"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:551
+msgid "Second overlay background color for elemnts and text holders"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:562
+msgid "Background color for text holder"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:572
+msgid ""
+"Background color for clickable elements like arrows in content slider full "
+"width tabs container"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:584
+msgid "Secondary overlay background color for elements on hover"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:596
+msgid "Border color for input fields"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:606
+msgid "Background color for input fields"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:618
+msgid "Font color for input fields"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:628
+msgid "Background color for primary buttons"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:640
+msgid "Font color for primary buttons"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:651
+msgid "Background color for primary buttons on hover"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:663
+msgid "Font color for primary buttons on hover "
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:674
+msgid "Background color for secondary buttons"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:685
+msgid "Font color for secondary buttons"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:696
+msgid "Background color for secondary buttons on hover"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:708
+msgid "Font color for secondary buttons on hover"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:719
+msgid "Text link font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:730
+msgid "Third font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:741
+msgid ""
+"Border color for valid elements on colored backgrounds like avatars, "
+"pagination dots"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:753
+msgid "Sidebar - Widget headline font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:763
+msgid "Sidebar - Widget primary font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:773
+msgid "Sidebar - Widget paragraph and lead font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:783
+#: ../wtr-admin/customizer/wtr_customizer_init.php:805
+msgid "Sidebar - Widget text color for text holders"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:795
+msgid "Sidebar - Widget background color for text holders"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:815
+msgid ""
+"Sidebar - Distinctive background color for valid elements and hover for "
+"clicable elements"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:826
+msgid "Sidebar - Border color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:837
+msgid "Sidebar - Distinctive color for valid elements, icons and links"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:847
+msgid "Sidebar - Widget background color for clicable elements"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:859
+msgid "Sidebar - Widget font color for clicable elements"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:870
+msgid "Sidebar - Widget overlay background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:881
+msgid "Sidebar - Widget second overlay background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:893
+msgid "Foot - Widget headline font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:903
+msgid "Footer background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:913
+msgid "Foot - Widget primary font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:923
+msgid "Foot - Widget paragraph and lead font color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:934
+msgid "Foot - Widget background color for text holders"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:944
+msgid "Foot - Widget text color for text holders"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:954
+msgid "Foot - Widget background color for clicable elements"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:968
+msgid "Foot - Distinctive background color on hover for clicable elements"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:979
+msgid "Foot - Widget text color for clickable elements"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:990
+msgid "Foot - Border color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1002
+msgid "Foot - Distinctive color for valid text and links"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1012
+msgid "Foot - Distinctive overlay background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1023
+msgid "Copyrights background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1033
+msgid "Copyrights font and link color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1043
+msgid "Copyrights link color on hover"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1054
+msgid "Standard mobile navigation header"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1075
+msgid "Navigation border color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1085
+msgid "Navigation icon color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1096
+msgid "Navigation second icon color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1107
+msgid "Navigation menu item color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1117
+msgid "Navigation search input background color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1127
+msgid "Navigation search input text color"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1137
+msgid "Global colors"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1150
+msgid "Header colors"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1177
+msgid "Breadcrumbs colors"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1194
+msgid "Others colors"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1225
+msgid "Container colors"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1263
+msgid "Sidebar colors"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1288
+msgid "Footer colors"
+msgstr ""
+
+#: ../wtr-admin/customizer/wtr_customizer_init.php:1315
+msgid "Standard mobile navigation colors"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/parsers.php:42
+#: ../wtr-admin/importer/class/wordpress-importer/parsers.php:72
+#: ../wtr-admin/importer/class/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/parsers.php:84
+#: ../wtr-admin/importer/class/wordpress-importer/parsers.php:89
+#: ../wtr-admin/importer/class/wordpress-importer/parsers.php:279
+#: ../wtr-admin/importer/class/wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:134
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:143
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:194
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:198
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:511
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wordpress-importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../wtr-admin/importer/class/wtr_import_revslider.php:228
+#: ../wtr-admin/importer/class/wtr_import_revslider.php:264
+msgid " not found!<br>"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_icon.php:57
+msgid "You selected:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_img_sortable.php:39
+#: ../wtr-admin/panel/class/fields/wtr_update_settings.php:60
+#: ../wtr-admin/panel/class/fields/wtr_upload.php:60
+#: ../wtr-admin/panel/class/fields/wtr_upload.php:106
+msgid "Select file"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_map.php:31
+msgid "Entry name of the town / street / company"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_map.php:33
+msgid "Find place"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_select.php:125
+msgid "Font preview"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_select.php:206
+msgid "Your animation"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_select.php:207
+msgid "Preview"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_select.php:211
+msgid "Css Animation doesn't work on IE 9 and older"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_select.php:225
+msgid "Overwrite"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_select.php:237
+#: ../wtr-admin/panel/class/wtr_theme_page.php:449
+msgid "Import data"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_sidebar.php:24
+msgid "Sidebar name"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_sidebar.php:25
+#: ../wtr-admin/wtr_init.php:346 ../wtr-admin/wtr_init.php:374
+#: ../wtr-admin/wtr_init.php:402 ../wtr-admin/wtr_init.php:430
+#: ../wtr-admin/wtr_init.php:458 ../wtr-admin/wtr_init.php:486
+#: ../wtr-admin/wtr_init.php:513 ../wtr-admin/wtr_init.php:541
+msgid "Add sidebar"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_sidebar.php:52
+msgid "Type sidebar name above and press the button"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_table.php:31
+msgid "Need help with tables?"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_table.php:103
+msgid "Click to fill field"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_table.php:118
+msgid "Add"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_update_settings.php:27
+msgid "Five last admin data backups:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_update_settings.php:38
+msgid "Export"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_update_settings.php:39
+msgid "Restore"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_update_settings.php:46
+msgid "Export admin data"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_update_settings.php:54
+msgid "Select file with import settings (txt file)"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_update_settings.php:79
+msgid "Import form file"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_update_settings.php:81
+msgid "Export data to file"
+msgstr ""
+
+#: ../wtr-admin/panel/class/fields/wtr_upload.php:97
+msgid "Avatar"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_avatar.php:74
+msgid "Image"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_export.php:116
+msgid "No admin data backups here!"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_social_media.php:9
+#: ../wtr-admin/wtr_init.php:779
+msgid "Facebook"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_social_media.php:10
+#: ../wtr-admin/wtr_init.php:791
+msgid "Google +"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_social_media.php:11
+#: ../wtr-admin/wtr_init.php:803
+msgid "Twitter"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_social_media.php:12
+#: ../wtr-admin/wtr_init.php:815
+msgid "Vimeo"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_social_media.php:13
+msgid "Youtube"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_social_media.php:14
+#: ../wtr-admin/wtr_init.php:839
+msgid "Flickr"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_social_media.php:15
+msgid "Pinterest:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_social_media.php:16
+#: ../wtr-admin/wtr_init.php:876
+msgid "Tumblr"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_social_media.php:17
+#: ../wtr-admin/wtr_init.php:864
+msgid "Instagram"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_social_media.php:18
+#: ../wtr-admin/wtr_init.php:888
+msgid "VKontakte"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_social_media.php:19
+#: ../wtr-admin/wtr_init.php:900
+msgid "LinkedIn"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:212
+msgid "ver."
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:218
+msgid "Support"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:221
+msgid "Manual"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:224
+msgid "XML Demo"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:227
+msgid "Rate Symetrio"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:266
+#: ../wtr-admin/panel/class/wtr_theme_page.php:288
+msgid "Save"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:286
+#: ../wtr-admin/panel/class/wtr_theme_page.php:287
+#: ../wtr-admin/panel/class/wtr_theme_page.php:393
+msgid "Default Settings"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:338
+msgid "Save error"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:340
+msgid "Ok, I understand"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:346
+msgid "Restored default settings"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:351
+msgid "Exported data"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:356
+msgid "Imported settings"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:361
+msgid "Dummy data successfully imported"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:366
+msgid "Save success"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:386
+msgid "Restore default settings"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:391
+msgid ""
+"Are you sure you want to reset all settings for this theme? <br />All "
+"entered data will be lost"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:404
+#: ../wtr-admin/panel/class/wtr_theme_page.php:422
+msgid "Restore settings"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:409
+#: ../wtr-admin/panel/class/wtr_theme_page.php:427
+msgid ""
+"Are you sure you want to restore all settings for this theme? <br />All "
+"entered data will be lost"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:411
+msgid "Restore Settings"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:429
+#: ../wtr-admin/panel/class/wtr_theme_page.php:440
+msgid "Import dummy data"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:445
+msgid ""
+"Are you sure you want to import dummy data? All entered data will be lost."
+"<br /><br /><b>\n"
+"\t\t\t\t\t\t\t\t\t\t   Data import can take from several seconds to several "
+"minutes.\n"
+"\t\t\t\t\t\t\t\t\t\t   Import time depends on server performance and the "
+"amount of data needed to be processed.</b>"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:460
+msgid "Delete sidebar item"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:465
+msgid ""
+"Are you sure you want to permanently delete sidebar: <b id=\"sideBarNameDel"
+"\"></b>"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:467
+msgid "Ok, delete"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:467
+msgid "No, cancel"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:478
+#: ../wtr-admin/wtr_init.php:1320
+msgid "Theme custom skin overwrite"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:483
+msgid "Are you sure you want to overwrite custom style?"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_page.php:485
+msgid "Yes, overwrite"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_skins.php:10
+msgid "Basic - White / Black / Green"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_skins.php:11
+msgid "Trainer - White / Black / Blue"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_skins.php:12
+msgid "Hardcore - Black / White / Red"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_skins.php:13
+msgid "Event - White / Yellow / Gray"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_skins.php:14
+msgid "Martial art - Purple / Orange / White"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_skins.php:15
+msgid "Extreme event - Orange / Gray"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_skins.php:16
+msgid "One Page"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_theme_skins.php:17
+msgid "Dance - Purple / Pink / Grey"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:10
+msgid "Main page"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:11
+#: ../wtr-admin/wtr_init.php:3602 ../wtr-admin/wtr_init.php:3806
+msgid "Blog"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:12
+msgid "Archive for:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:13
+msgid "&larr; Older comments"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:14
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:15
+#: ../wtr-admin/wtr_init.php:1984
+msgid "Comments are closed"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:16
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:17
+#: ../wtr-admin/panel/class/wtr_translate.php:61
+#: ../wtr-admin/wtr_init.php:2480
+msgid "Comment"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:18
+msgid ""
+"This content is password protected. <br> To view it please enter your "
+"password"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:19
+msgid "Site tittle - Premium Wordpress Theme"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:20
+msgid "Submit"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:21
+msgid "- Page"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:22
+msgid "Loading..."
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:23
+#: ../wtr-admin/wtr_init.php:2068
+msgid "Buy"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:24
+msgid "Menu"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:26
+#: ../wtr-admin/panel/class/wtr_translate.php:109
+#: ../wtr-admin/panel/class/wtr_translate.php:116
+#: ../wtr-admin/panel/class/wtr_translate.php:118
+#: ../wtr-admin/wtr_init.php:2951 ../wtr-admin/wtr_init.php:3275
+msgid "Read more"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:27
+msgid "By:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:28
+#: ../wtr-admin/panel/class/wtr_translate.php:114
+#: ../wtr-admin/wtr_init.php:2927
+msgid "By"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:29
+#: ../wtr-admin/panel/class/wtr_translate.php:32
+#: ../wtr-admin/panel/class/wtr_translate.php:115
+msgid "author:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:30
+#: ../wtr-admin/wtr_init.php:2141
+msgid "Tags for this post"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:33
+msgid "Sticky"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:36
+msgid "Archive for category:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:37
+msgid "Tag archive for:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:38
+msgid "Author archive:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:39
+msgid "Archive for date:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:40
+msgid "Archive for month:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:41
+msgid "Archive for year:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:44
+#: ../wtr-admin/wtr_init.php:2493
+msgid "Select event"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:45
+msgid "current"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:46
+msgid "outdated"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:47
+#: ../wtr-admin/panel/class/wtr_translate.php:73
+msgid "No items here"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:48
+#: ../wtr-admin/wtr_init.php:2541
+msgid "Event category"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:49
+#: ../wtr-admin/wtr_init.php:2553
+msgid "Venue"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:50
+#: ../wtr-admin/panel/class/wtr_translate.php:52
+msgid "Phone:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:51
+#: ../wtr-admin/wtr_init.php:2577
+msgid "Orgaznizer"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:53
+#: ../wtr-admin/wtr_init.php:2601
+msgid "Details"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:54
+msgid "Sign ups:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:55
+msgid "Limits:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:56
+msgid "participants"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:58
+#: ../wtr-admin/wtr_init.php:2396
+msgid "Name"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:59
+#: ../wtr-admin/wtr_init.php:2408
+msgid "E-mail"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:60
+#: ../wtr-admin/wtr_init.php:2420
+msgid "Url"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:62
+msgid "Leave a reply"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:63
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:64
+msgid "Cancel reply"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:65
+msgid "Send"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:68
+msgid "it's a"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:69
+#: ../wtr-admin/panel/class/wtr_translate.php:92
+msgid "New search"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:70
+msgid "Search me now!"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:71
+msgid "Search"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:72
+msgid "Search results for:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:74
+#: ../wtr-admin/wtr_init.php:2805
+msgid "Search results"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:77
+#: ../wtr-admin/panel/class/wtr_translate.php:117
+#: ../wtr-admin/wtr_init.php:2817 ../wtr-admin/wtr_init.php:2963
+msgid "Comments"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:78
+msgid "by:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:79
+msgid "Type:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:80
+#: ../wtr-admin/panel/class/wtr_translate.php:81
+msgid "Page"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:82
+msgid "Post"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:83
+msgid "Rooms"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:84
+#: ../wtr-admin/panel/class/wtr_translate.php:143
+#: ../wtr-admin/wtr_init.php:3239 ../wtr-admin/wtr_init.php:3849
+msgid "Classes"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:85
+msgid "Trainer"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:86
+msgid "Events"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:89
+msgid "ups ... Site title"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:90
+msgid "Looks like we lost some... </br> hopefully that's not a muscle mass "
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:91
+msgid "Go to main site"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:93
+msgid "Custom text"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:94
+msgid ""
+"Ut libero est distinctio perspiciatis blanditiis molestias esse ea similique "
+"alias, adipisci!"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:95
+msgid "Custom text 2"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:96
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit adipisci!"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:99
+msgid "minutes"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:100
+msgid "kcal burned"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:101
+msgid "Level:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:102
+msgid "Easy"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:103
+msgid "Normal"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:104
+msgid "Hard"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:105
+msgid "Very hard"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:106
+msgid "Intense"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:107
+#: ../wtr-admin/wtr_init.php:2358
+msgid "Limit of participants"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:108
+msgid "Trainers:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:112
+msgid "meet:"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:119
+msgid "min"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:120
+msgid "kcal"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:121
+#: ../wtr-admin/wtr_init.php:2999
+msgid "Years"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:122
+#: ../wtr-admin/wtr_init.php:3011
+msgid "Months"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:123
+#: ../wtr-admin/wtr_init.php:3023
+msgid "Weeks"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:124
+#: ../wtr-admin/wtr_init.php:3035
+msgid "Days"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:125
+#: ../wtr-admin/wtr_init.php:3047
+msgid "Hours"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:126
+#: ../wtr-admin/wtr_init.php:2262 ../wtr-admin/wtr_init.php:2987
+#: ../wtr-admin/wtr_init.php:3059
+msgid "Minutes"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:127
+#: ../wtr-admin/wtr_init.php:3071
+msgid "Seconds"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:137
+#: ../wtr-admin/wtr_init.php:3167
+msgid "Time / Day"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:138
+#: ../wtr-admin/wtr_init.php:3179
+msgid "Select classes"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:139
+#: ../wtr-admin/wtr_init.php:3191
+msgid "Show all"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:140
+msgid "Sorry, no results in selected week"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:141
+#: ../wtr-admin/wtr_init.php:771 ../wtr-admin/wtr_init.php:3215
+msgid "All"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:142
+#: ../wtr-admin/wtr_init.php:3227
+msgid "Categories"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:145
+#: ../wtr-admin/wtr_init.php:3263
+msgid "Class"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:147
+#: ../wtr-admin/wtr_init.php:3287
+msgid "Promotion"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:148
+#: ../wtr-admin/wtr_init.php:3299
+msgid "New"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:149
+#: ../wtr-admin/wtr_init.php:3311
+msgid "Featured"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:150
+#: ../wtr-admin/wtr_init.php:3323
+msgid "Price"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:151
+#: ../wtr-admin/wtr_init.php:3335
+msgid "Step"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:152
+msgid "Symetrio"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_translate.php:153
+msgid "Daily schedule"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_update.php:111
+#, php-format
+msgid "Compatibility with WordPress %1$s: Unknown"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_update.php:112
+#, php-format
+msgid "Compatibility with WordPress %1$s: 100%% (according to its author)"
+msgstr ""
+
+#: ../wtr-admin/panel/class/wtr_user_social.php:25
+msgid "Social media "
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:38
+msgid "Responsive"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:50
+msgid "Social MetaTag"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:51
+msgid ""
+"Specify whether you want to add to the single post meta tags social eg. og: "
+"title, og: image"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:74
+msgid "Accelerate custom css"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:75
+msgid ""
+"If you have problem with generating Custom CSS using Appearance > Customize "
+"turn off this option"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:86
+msgid "Avatar image"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:87
+msgid "Additional image field in Users > Your profile"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:98
+msgid "Page loader animation"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:112
+msgid "Space before &#60;/head&#62;"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:113
+msgid "Add code before the &#60;/head&#62; tag."
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:125
+msgid "Space before &#60;/body&#62;"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:126
+msgid "Add code before the &#60;/body&#62; tag."
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:136
+msgid "404 page"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:143
+msgid "Standard 404 Page"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:151
+msgid "Page Background images"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:164
+msgid "Pagination arrow"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:165
+msgid "Arrows in pagination next / previous post "
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:178
+msgid "Rooms slug:"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:190
+msgid "Trainers slug:"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:202
+msgid "Classes slug:"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:214
+msgid "Classes category slug:"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:226
+msgid "Events slug:"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:239
+msgid "Use SEO fileds"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:253
+msgid "This functions only work when blog posts are on the main page"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:265 ../wtr-admin/wtr_init.php:277
+msgid "This setting may be overridden by single posts & pages"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:276
+msgid "Keywords"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:288
+msgid "Google Analytics module"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:302
+msgid "Google Analytics code"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:314
+msgid "Sidebar management"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:325
+msgid "Sidebar position on search pages"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:339
+msgid "Set sidebar on search pages"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:353
+msgid "Sidebar position on archive pages"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:367
+msgid "Set sidebar on archive pages"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:381
+msgid "Sidebar position on blog page"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:395
+msgid "Set sidebar on blog page"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:409
+msgid "Sidebar position on blog post page"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:410 ../wtr-admin/wtr_init.php:424
+msgid "This setting may be overridden by single posts"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:423
+msgid "Set sidebar on blog post page"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:437
+msgid "Sidebar position on single page"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:438 ../wtr-admin/wtr_init.php:452
+#: ../wtr-admin/wtr_init.php:466 ../wtr-admin/wtr_init.php:480
+#: ../wtr-admin/wtr_init.php:493 ../wtr-admin/wtr_init.php:535
+msgid "This setting may be overridden by single pages"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:451
+msgid "Set sidebar  on single page"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:465
+msgid "Sidebar position on trainer"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:479
+msgid "Set sidebar  on trainer"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:492
+msgid "Sidebar position on room"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:506
+msgid "Set sidebar  on room"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:520
+msgid "Sidebar position on event"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:534
+msgid "Set sidebar on event"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:550
+msgid "Number of posts per page"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:562
+msgid "Post excerpt length ( signs )"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:563
+msgid "The value must be a number"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:587 ../wtr-admin/wtr_init.php:625
+#: ../wtr-admin/wtr_init.php:637 ../wtr-admin/wtr_init.php:649
+#: ../wtr-admin/wtr_init.php:661 ../wtr-admin/wtr_init.php:673
+#: ../wtr-admin/wtr_init.php:685 ../wtr-admin/wtr_init.php:702
+#: ../wtr-admin/wtr_init.php:715 ../wtr-admin/wtr_init.php:727
+#: ../wtr-admin/wtr_init.php:2118 ../wtr-admin/wtr_init.php:2130
+#: ../wtr-admin/wtr_init.php:2142 ../wtr-admin/wtr_init.php:2154
+msgid "Single post"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:599
+msgid "Default blog date format"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:600
+msgid ""
+"date format in blog, single post, shortcode latest news, widgets, and recent "
+"comments"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:612
+msgid "Show meta"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:613
+msgid "Author, Comment, Sticky"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:624
+msgid "Show categories"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:636
+msgid "Show tags"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:648
+msgid "Social media toolbar"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:660
+msgid "Show author bio"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:740
+msgid "Number of events per page"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:751
+msgid "Event date format"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:764
+msgid "Event review type"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:771
+msgid "Split ( current / outdated )"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:827
+msgid "YouTube"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:851
+msgid "Pinterest"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:912
+msgid "Facebook share button"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:924
+msgid "Google+ share button"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:936
+msgid "Twitter share button"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:948
+msgid "Pinterest share button"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:960
+msgid "Tumblr share button"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:983
+msgid "Show Menu"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:984
+msgid "Show Menu &#43; Socials"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1007
+msgid "Navigation type"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1015
+msgid "Standard navigation"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1016
+msgid "Sticky navigation"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1017
+msgid "Smart navigation"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1024
+msgid "Mobile navigation type"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1032
+msgid "Classic "
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1033
+msgid "Modern "
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1040
+msgid "Logo position"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1053
+msgid "Graphic logo"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1065
+msgid "Graphic logo - transparent"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1077
+msgid "Favicon"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1090
+msgid "First header section"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1102
+msgid "Second header section"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1113
+msgid "Search icon inside main navigation"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1149
+msgid "Breadcrumbs background image"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1162
+msgid "Footer settings"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1180
+msgid "Footer background image"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1192
+msgid "Footer divider"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1204
+msgid "Number of columns in footer"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1218
+msgid "Footer promo column visibility"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1219
+msgid "First and full width widget section on footer"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1233
+msgid "Copyright text"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1245
+msgid "First footer section"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1257
+msgid "Second footer section"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1269
+msgid "Custom CSS"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1283
+msgid "Custom CSS code"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1295
+msgid "If you want to change theme colors please go to Appearance > Customize."
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1307
+msgid "Theme skin"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1308
+msgid ""
+"<span style=\"color: #ff787e\"> If you want to make customization without "
+"the use of predefined skins, this field should be \"custome\".</span>"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1314
+msgid "Custom"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1321
+msgid ""
+"<span style=\"color: #ff787e\"> If you want to modify predefined style, "
+"select your style and click „overwrite” it will overwrite custom style. </"
+"br> After that, please go to Appearance > Customize.</span>"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1336
+msgid "Navigation font size"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1356
+msgid "Breadcrumb headline font size"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1375
+msgid "Breadcrumb patch font size"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1395
+msgid "Sidebar widget headlines font size"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1415
+msgid "Footer widget headlines font size"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1435
+msgid "Page H1 size"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1454
+msgid "Page H2 size"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1473
+msgid "Page H3 size"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1492
+msgid "Page H4 size"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1511
+msgid "Page H5 size"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1530
+msgid "Page H6 size"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1549
+msgid "Page p size"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1568
+msgid "Navigation font size (mega menu, second and third level)"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1587
+msgid "Navigation font size (mega menu headlines)"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1607
+msgid "Preview Text"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1619
+msgid "Preview text size"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1633
+msgid "Default body and paragraph font family"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1641 ../wtr-admin/wtr_init.php:1664
+#: ../wtr-admin/wtr_init.php:1686 ../wtr-admin/wtr_init.php:1708
+msgid "default font"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1642 ../wtr-admin/wtr_init.php:1665
+#: ../wtr-admin/wtr_init.php:1687 ../wtr-admin/wtr_init.php:1709
+msgid "standard font"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1643 ../wtr-admin/wtr_init.php:1666
+#: ../wtr-admin/wtr_init.php:1688 ../wtr-admin/wtr_init.php:1710
+msgid "popular fonts"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1644 ../wtr-admin/wtr_init.php:1667
+#: ../wtr-admin/wtr_init.php:1689 ../wtr-admin/wtr_init.php:1711
+msgid "all fonts"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1723
+msgid "Google font subset"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1735
+msgid "Custom Font | Name "
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1736 ../wtr-admin/wtr_init.php:1818
+msgid ""
+"This name will be used in CSS declaration for example: </br> p { font-"
+"family: 'MyWebFont', Arial, sans-serif; }"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1746
+msgid "Custom Font | .woff"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1764
+msgid "Custom Font | .ttf"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1782
+msgid "Custom Font | .svg"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1799
+msgid "Custom Font | .eot"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1817
+msgid "Custom Font 2 | Name "
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1828
+msgid "Custom Font 2 | .woff"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1845
+msgid "Custom Font 2 | .ttf"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1863
+msgid "Custom Font 2 | .svg"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1880
+msgid "Custom Font 2 | .eot"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1898
+msgid "Translation settings"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1899
+msgid ""
+"Disable this setting if you want to use PO / MO files or other additional "
+"plugins like WPML"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1911
+msgid "Breadcrumbs text on blog"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1912
+msgid "Text which appears above blog breadcrumbs"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1923
+msgid "Breadcrumbs text on main page"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1924
+msgid "Text which appears above main page breadcrumbs"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1935
+msgid "Taxonomy archive for"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1948
+msgid "Older comments"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1960
+msgid "Newer comments"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1972
+msgid "Comments count"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:1996
+msgid "Comments moderation text"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2008
+msgid "Password text"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2020
+msgid "Password label Submit"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2032
+msgid "Password text 2"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2044
+msgid "Pagination in title"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2056
+msgid "Loader"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2069 ../wtr-admin/wtr_init.php:4091
+msgid "PayPal"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2080
+msgid "Mobile menu tittle"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2093
+msgid "Continue reading"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2105 ../wtr-admin/wtr_init.php:2117
+#: ../wtr-admin/wtr_init.php:2829
+msgid "By (author)"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2129 ../wtr-admin/wtr_init.php:2165
+#: ../wtr-admin/wtr_init.php:2939
+msgid "Author"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2166
+msgid "Related Posts"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2177
+msgid "Sticky posts"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2189
+msgid "Archive for category"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2201
+msgid "Tag Archive for"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2213
+msgid "Author archive"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2225
+msgid "Archive for date"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2237
+msgid "Archive for month"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2249
+msgid "Archive for year"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2275 ../wtr-admin/wtr_init.php:2975
+msgid "Kcal burned"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2287
+msgid "Level"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2298
+msgid "Description of difficulty (level 1)"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2310
+msgid "Description of difficulty (level 2)"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2322
+msgid "Description of difficulty (level 3)"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2334
+msgid "Description of difficulty (level 4)"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2346
+msgid "Description of difficulty (level 5)"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2370
+msgid "Trainers"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2383
+msgid "Trainer read more"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2432
+msgid "Title reply"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2433
+msgid ""
+" The title of comment form (when not replying to a comment, see <a title="
+"\"Function Reference/comment form title\" href=\"http://codex.wordpress.org/"
+"Function_Reference/comment_form_title\">comment_form_title</a> )"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2444
+msgid "Title reply to"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2445
+msgid ""
+"The title of comment form (when replying to a comment, see <a title="
+"\"Function Reference/comment form title\" href=\"http://codex.wordpress.org/"
+"Function_Reference/comment_form_title\">comment_form_title</a>)"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2456
+msgid "Reply link"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2457
+msgid "Link label to cancel reply. "
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2468
+msgid "Label submit"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2469
+msgid "The name of submit button. "
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2505
+msgid "Current"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2517
+msgid "Outdated"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2529
+msgid "No items"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2542 ../wtr-admin/wtr_init.php:2554
+#: ../wtr-admin/wtr_init.php:2566 ../wtr-admin/wtr_init.php:2578
+#: ../wtr-admin/wtr_init.php:2590 ../wtr-admin/wtr_init.php:2602
+#: ../wtr-admin/wtr_init.php:2614 ../wtr-admin/wtr_init.php:2626
+#: ../wtr-admin/wtr_init.php:2638
+msgid "Single event"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2565
+msgid "Venue phone"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2589
+msgid "Orgaznizer phone"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2613
+msgid "Sign ups"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2625
+msgid "Limits"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2637
+msgid "Participants"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2650
+msgid "Text after 404"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2661
+msgid "Text below 404 "
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2672
+msgid "Button label "
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2684
+msgid "Section I title "
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2696
+msgid "Section II title "
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2708 ../wtr-admin/wtr_init.php:2732
+msgid "Section II description"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2720
+msgid "Section III title "
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2745 ../wtr-admin/wtr_init.php:2757
+msgid "New search title"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2758 ../wtr-admin/wtr_init.php:2769
+msgid "Search inside main navigation"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2768
+msgid "Search button label"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2781
+msgid "Search result for"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2782 ../wtr-admin/wtr_init.php:2818
+#: ../wtr-admin/wtr_init.php:2830 ../wtr-admin/wtr_init.php:2842
+#: ../wtr-admin/wtr_init.php:2854 ../wtr-admin/wtr_init.php:2866
+#: ../wtr-admin/wtr_init.php:2878 ../wtr-admin/wtr_init.php:2890
+#: ../wtr-admin/wtr_init.php:2902 ../wtr-admin/wtr_init.php:2914
+msgid "Section results"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2794
+msgid "Section No results"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2853
+msgid "Post type: page"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2865
+msgid "Post type: post"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2877
+msgid "Post type: rooms"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2889
+msgid "Post type: classes"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2901
+msgid "Post type: trainer"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2913
+msgid "Post type: events"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2928 ../wtr-admin/wtr_init.php:2940
+#: ../wtr-admin/wtr_init.php:2952 ../wtr-admin/wtr_init.php:2964
+msgid "Shortcode News"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:2976 ../wtr-admin/wtr_init.php:2988
+msgid "Shortcode Classes"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3000 ../wtr-admin/wtr_init.php:3012
+#: ../wtr-admin/wtr_init.php:3024 ../wtr-admin/wtr_init.php:3036
+#: ../wtr-admin/wtr_init.php:3048 ../wtr-admin/wtr_init.php:3060
+#: ../wtr-admin/wtr_init.php:3072
+msgid "Shortcode Countdown"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3084 ../wtr-admin/wtr_init.php:3096
+#: ../wtr-admin/wtr_init.php:3108 ../wtr-admin/wtr_init.php:3120
+#: ../wtr-admin/wtr_init.php:3132 ../wtr-admin/wtr_init.php:3144
+#: ../wtr-admin/wtr_init.php:3156 ../wtr-admin/wtr_init.php:3168
+#: ../wtr-admin/wtr_init.php:3180 ../wtr-admin/wtr_init.php:3192
+#: ../wtr-admin/wtr_init.php:3204 ../wtr-admin/wtr_init.php:3216
+#: ../wtr-admin/wtr_init.php:3228 ../wtr-admin/wtr_init.php:3240
+#: ../wtr-admin/wtr_init.php:3252 ../wtr-admin/wtr_init.php:3264
+msgid "Shortcode Classes schedule"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3203
+msgid "No results in selected week"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3276
+msgid "Shortcode Events"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3288 ../wtr-admin/wtr_init.php:3300
+#: ../wtr-admin/wtr_init.php:3312 ../wtr-admin/wtr_init.php:3324
+msgid "Shortcode Pass"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3336
+msgid "Shortcode Step by step"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3347
+msgid "Gym name"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3348 ../wtr-admin/wtr_init.php:3360
+msgid "Shortcode Daily Schedule"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3359
+msgid "Daily Schedule"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3373
+msgid "Meet"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3374
+msgid "Symetrio trainers "
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3387
+msgid "Global settings"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3400
+msgid "Show “pay” button in class details"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3413
+msgid "Show “pay” button in event details"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3426
+msgid "Show “pay” button in pass details"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3439
+msgid "Your PayPal e-mail adress"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3450
+msgid "Currency Code"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3451
+msgid ""
+"* This currency does not support decimals. Passing a decimal amount will "
+"result in an error.</br>** This currency is supported as a payment currency "
+"and a currency balance for in-country PayPal accounts only."
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3465
+msgid "Export / import data from restore points"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3466
+msgid ""
+"This module has been prepared in order to backup configuration of your site. "
+"With this tool you will easily be able to prepare several versions of your "
+"website and in a very short time you will be able to choose the best one for "
+"you. We allow you to store in a one-time up to 5 restore points. All of the "
+"data that you can set with our panel can be exported."
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3469
+msgid ""
+"This field contains configuration data for your site as a text. If you have "
+"several sites based on our theme and you want them to be setup identical you "
+"can use this option."
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3477
+msgid ""
+"One Click import allows you to fill your site with content based on demo "
+"site previously\n"
+"\t\t\t\t\t\t\t\tprepared by Wonster Team. It is an alternative for classic "
+"import via XML file.\n"
+"\t\t\t\t\t\t\t\tThis process will recreate the demo site on your Wordpress "
+"1:1\n"
+"\t\t\t\t\t\t\t\t(except files from the media library).</br></br>\n"
+"\t\t\t\t\t\t\t\t<span class=\"wtrAlertTextImportant\">To run this process "
+"flawlessly, all your input data will be completely erased:</span></br></br>\n"
+"\t\t\t\t\t\t\t\t<ul class=\"alertUlImportOneClick\">\n"
+"\t\t\t\t\t\t\t\t\t<li>Posts</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>Pages</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>Sidebars and widget position</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>Files form medial library</li>\n"
+"\t\t\t\t\t\t\t\t\t<li>All data types added previously by theme: <b>"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3502
+msgid "One click import"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3503
+msgid ""
+"Use select to indicate the demo version you want to recreate on your "
+"website. To begin the process of full data import, please click on the <b>"
+"\"Import Data\"</b> button."
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3520 ../wtr-admin/wtr_init.php:3979
+msgid "Global"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3540
+msgid "Slugs"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3566
+msgid "Google Analytics"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3625 ../wtr-admin/wtr_init.php:3828
+msgid "Event"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3637
+msgid "Social Medial links"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3656
+msgid "Social Media settings"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3670
+msgid "Header"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3692
+msgid "Footer"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3708
+msgid "Custom css"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3731
+msgid "Font-size"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3753
+msgid "Font - family"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3868
+msgid "Comment Form"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3884
+msgid "404"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3900
+msgid "Search form"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3923
+msgid "Shortcode"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3968
+msgid "Widgets"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:3995
+msgid "Export / Import"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:4004
+msgid "One Click Import"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:4033
+msgid "Social Media"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:4054
+msgid "Color"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:4064
+msgid "Fonts"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:4074
+msgid "Translate"
+msgstr ""
+
+#: ../wtr-admin/wtr_init.php:4100
+msgid "Data Backup"
+msgstr ""

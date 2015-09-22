@@ -1,0 +1,1022 @@
+/*
+ *  jQuery Custombox v1.1.3 - 2014/02/18
+ *  jQuery Modal Window Effects.
+ *  http://dixso.github.io/custombox/
+ *  (c) 2014 Julio De La Calle - http://dixso.net - @dixso9
+ *
+ *  Under MIT License - http://www.opensource.org/licenses/mit-license.php
+ *	mod: Wonster.co Team;
+ */
+
+
+/* Table Grid */
+
+.wtrTableModalOverlay{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	z-index: 10001;
+	background-color: rgba(0,0,0,0.9);
+	border-radius: 4px;
+}
+
+.wtrShtTimeTableContainer{
+	position: relative;
+}
+
+.wtrShtTimeTableLoadOverlay{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	z-index: 1;
+	background-color: rgba(255,255,255,0.9);
+	border-radius: 4px;
+}
+
+.wtrShtCallLoader{
+	position: absolute;
+	margin: 0px auto;
+	left: 50%;
+	margin-left: -25px;
+	top: 80px;
+	width: 50px;
+	height: 40px;
+	text-align: center;
+	font-size: 10px;
+}
+
+.wtrShtTTLoader {
+	position: absolute;
+	margin: 0px auto;
+	width: 50px;
+	height: 40px;
+	text-align: center;
+	font-size: 10px;
+}
+
+.wtrShtCallLoader > div{
+	height: 100%;
+	width: 6px;
+	margin-left: 3px;
+	display: inline-block;
+	border-radius: 3px;
+	-webkit-animation: stretchdelay 1.2s infinite ease-in-out;
+	animation: stretchdelay 1.2s infinite ease-in-out;
+}
+
+.wtrShtTTLoader > div {
+	height: 100%;
+	width: 6px;
+	display: inline-block;
+	border-radius: 3px;
+	-webkit-animation: stretchdelay 1.2s infinite ease-in-out;
+	animation: stretchdelay 1.2s infinite ease-in-out;
+}
+
+.wtrShtCallLoader .wtrRect2,
+.wtrShtTTLoader .wtrRect2 {
+	-webkit-animation-delay: -1.1s;
+	animation-delay: -1.1s;
+}
+
+.wtrShtCallLoader .wtrRect3,
+.wtrShtTTLoader .wtrRect3 {
+	-webkit-animation-delay: -1.0s;
+	animation-delay: -1.0s;
+}
+
+.wtrShtCallLoader .wtrRect4,
+.wtrShtTTLoader .wtrRect4 {
+	-webkit-animation-delay: -0.9s;
+	animation-delay: -0.9s;
+}
+
+.wtrShtCallLoader .wtrRect5,
+.wtrShtTTLoader .wtrRect5 {
+	-webkit-animation-delay: -0.8s;
+	animation-delay: -0.8s;
+}
+
+@-webkit-keyframes stretchdelay {
+	0%, 40%, 100% { -webkit-transform: scaleY(0.5) }
+	20% { -webkit-transform: scaleY(1.0);  }
+}
+
+@keyframes stretchdelay {
+	0%, 40%, 100% {
+		transform: scaleY(0.5);
+		-webkit-transform: scaleY(0.5);
+	}  20% {
+		transform: scaleY(1.0);
+		-webkit-transform: scaleY(1.0);
+	}
+}
+
+.wtrShtTimeTableNoResults td{
+	padding: 60px 0;
+}
+
+.wtrShtTimeTableNoResultsHeadline{
+	font-size: 20px;
+	margin-top: 60px;
+	margin-bottom: 50px;
+	font-weight: bold;
+}
+
+
+.wtrShtTimeTableHeadlineRight{
+	float: right;
+	width: 50%;
+}
+
+.wtrShtTimeTable{
+	padding-bottom: 1px;
+}
+
+.wtrShtTimeTable .wtrShtTimeTableHeadlineRight .wtrShtTimeTableBtn{
+	float: right;
+	margin: 0 0 10px 10px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.wtrShtTimeTableHeadlineLeft{
+	float: left;
+	width: 50%;
+}
+
+.wtrShtFullWidthSectionNoInner .wtrShtTimeTable{
+	margin: 0px 40px;
+}
+
+.wtrShtTimeTable .wtrShtTimeTableHeadlinePeriod,
+.wtrShtTimeTable .wtrShtTimeTableBtn{
+	padding: 7px 15px;
+	display: inline-block;
+	margin: 0 0px 10px 0;
+	font-weight: bold;
+	float: left;
+	font-size: 14px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.wtrShtTimeTableBtnClasses i{
+	margin-right: 14px;
+	margin-left: 3px;
+}
+
+.wtrShtTimeTableBtnNext i,
+.wtrShtTimeTableBtnPrev i{
+	font-size: 12px;
+}
+
+.wtrShtTimeTableBtnPrev {
+	-webkit-border-top-left-radius: 3px;
+	-webkit-border-bottom-left-radius: 3px;
+	-moz-border-radius-topleft: 3px;
+	-moz-border-radius-bottomleft: 3px;
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+}
+
+.wtrShtTimeTableBtnNext {
+	-webkit-border-top-right-radius: 3px;
+	-webkit-border-bottom-right-radius: 3px;
+	-moz-border-radius-topright: 3px;
+	-moz-border-radius-bottomright: 3px;
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+
+.wtrShtTimeTableItem{
+	width: 100%;
+	border-radius: 3px;
+	box-shadow: 0px 0px 0px 1px rgba(0,0,0,0.12);
+	border-width: 0px !important;
+	margin: 0px !important;
+	border-collapse: collapse !important;
+	border-width: 1px !important\0;
+	border-color: rgba(0,0,0,0.12);
+	border-style: solid;
+}
+
+.wtrShtTimeTableItem th:first-child,
+.wtrShtTimeTableItem td:first-child{
+	border-left-width: 0px !important;
+}
+
+.wtrShtTimeTableItem th:last-child,
+.wtrShtTimeTableItem td:last-child{
+	border-right-width: 0px !important;
+}
+
+.wtrShtTimeTableItem td{
+	border-bottom-width: 0px !important;
+}
+
+.wtrShtTimeTableItem th{
+	border-width: 0px !important;
+	text-align: center !important;
+}
+
+.wtrShtTimeTableItem thead{
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+.wtrShtTimeTableItem thead th:first-child {
+	-webkit-border-top-left-radius: 3px;
+	-moz-border-radius-topleft: 	3px;
+	border-top-left-radius: 		3px;
+}
+
+.wtrShtTimeTableItem thead th:last-child {
+	-webkit-border-top-right-radius: 	3px;
+	-moz-border-radius-topright: 		3px;
+	border-top-right-radius: 			3px;
+}
+
+.wtrShtTimeTableItem tbody tr:last-child td:first-child {
+	-webkit-border-bottom-left-radius: 	3px;
+	-moz-border-radius-bottomleft: 		3px;
+	border-bottom-left-radius: 			5px;
+}
+
+.wtrShtTimeTableItem tbody tr:last-child td:last-child {
+	-webkit-border-bottom-right-radius: 	3px;
+	-moz-border-radius-bottomright: 		3px;
+	border-bottom-right-radius: 			3px;
+}
+
+.wtrShtTimeTableItem thead th{
+	padding: 16px 0px;
+}
+
+.wtrShtTimeTableItem thead th .wtrShtTimeTableDay{
+	font-weight: bold;
+}
+
+.wtrShtTimeTableItem tbody td {
+	width: 12.5%;
+	text-align: center;
+	position: relative;
+	vertical-align: top;
+	border-width: 1px;
+	padding: 0 !important;
+	border-style: solid;
+}
+
+.wtrShtTimeTableItem tbody td.wtrShtTimeTableEntryTimeHolder{
+	vertical-align: middle;
+}
+
+.wtrShtTimeTableItem tbody td .wtrShtTimeTableEntryTime{
+	font-size: 14px;
+	font-weight: bold;
+	padding: 8px 0;
+}
+
+.wtrShtTimeTableItem tr:last-child td{
+	border-bottom-width: 0px;
+}
+
+.wtrShtTimeTableItem .wtrShtTimeTableEntryTime div{
+	float: left;
+	width: 49%;
+}
+
+.wtrShtTimeTableItem .wtrShtTimeTableFrom{
+	text-align: right;
+	padding-right: 8px;
+	line-height: 1.2;
+}
+
+.wtrShtTimeTableItem .wtrShtTimeTableTo{
+	text-align: left;
+	padding-left: 8px;
+	line-height: 1.2;
+}
+
+.wtrShtTimeTableItem .wtrShtTimeTableEntryTime .wtrAmPm{
+	display: block;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.wtrShtTimeTableFitnessEntry:hover{
+	opacity: 0.8;
+}
+
+.wtrShtTimeTableFitnessEntry{
+	margin: 10px;
+	padding: 15px 5px 15px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	position: relative;
+	line-height: 1;
+	z-index: 3000\0; /* IE 9 fix */
+}
+
+.wtrShtTimeTableFitnessEntry{
+	font-weight: bold;
+}
+
+.wtrShtTimeTableFitnessEntry a{
+	color: inherit;
+}
+
+.wtrShtTimeTableEntryName:hover{
+	opacity: 0.4;
+}
+
+.wtrShtTimeTableEntryName{
+	text-transform: uppercase;
+	padding: 0px 4px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.wtrShtTimeTableEntryTimePeriod{
+	padding: 10px 0px 5px;
+	font-size: 14px;
+}
+
+.wtrShtTimeTableEntryTimePeriod div{
+	float: left;
+	width: 49.0%;
+}
+
+.wtrShtTimeTableEntryTimePeriod{
+	width: 100%;
+}
+
+.wtrShtTimeTableEntryTimePeriod .wtrAmPm{
+	display: block;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.wtrShtTimeTableEntryTrainer:hover{
+	text-decoration: none;
+}
+
+.wtrShtTimeTableEntryTrainer, .wtrShtTimeTableEntryTrainerNoLink{
+	font-size: 12px !important;
+	text-decoration: underline;
+	padding: 5px 0 0;
+	display: block;
+	font-weight: bold;
+}
+
+.wtrShtTimeTableEntryRoom:hover{
+	opacity: 0.4;
+}
+
+.wtrShtTimeTableEntryRoom, .wtrShtTimeTableEntryRoomNoLink{
+	font-size: 12px !important;
+	padding: 15px 0 0;
+	display: block;
+	text-decoration: none;
+}
+
+.wtrShtTimeTableSeparator{
+	width: 10px;
+	height: 20px;
+	width: 2% !important;
+}
+
+.wtrShtTimeTableSeparator span{
+	margin-top: -30px;
+}
+
+.wtrShtTimeTableEvent .wtrShtTimeTableEntryColor{
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	width: 4px;
+	height: 100%;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.wtrShtTimeTableEvent{
+	padding: 10px 0px 10px 10px;
+	background-color: transparent;
+}
+
+.wtrShtTimeTableEvent .wtrShtTimeTableEventHeadline i{
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.wtrShtTimeTableEvent .wtrShtTimeTableEventHeadline{
+	margin-bottom: 13px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+
+/* Table - light version*/
+
+
+.wtrShtTimeTableLight .wtrShtTimeTableItem{
+	box-shadow: 0px 0px 3px 1px rgba(0,0,0,0.2) !important;
+}
+
+.wtrShtTimeTableLight .wtrShtTimeTableHeadlinePeriod,
+.wtrShtTimeTableLight .wtrShtTimeTableBtn{
+	background-color: rgba(0,0,0,0.4) !important;
+	color: #ffffff;
+	-webkit-transition: all .15s ease-in-out;
+	-moz-transition: 	all .15s ease-in-out;
+	-ms-transition: 	all .15s ease-in-out;
+	-o-transition: 		all .15s ease-in-out;
+	transition: 		all .15s ease-in-out;
+}
+
+.wtrShtTimeTableLight .wtrShtTimeTableBtn:hover{
+	background-color: rgba(0,0,0,0.6) !important;
+}
+
+
+/* Mobile Time table */
+
+
+.wtrShtMobileTimeTable{
+	display: none;
+	padding: 20px 20px 10px 20px ;
+	box-shadow: 0px 0px 0px 1px rgba(0,0,0,0.12);
+	border-radius: 3px;
+	margin-bottom: 1px !important;
+}
+
+.wtrShtMobileTimeTableNoResults{
+	text-align: center;
+	padding-bottom: 10px;
+	font-weight: bold;
+}
+
+.wtrShtMobileTimeTableList{
+	margin: 0px;
+	padding: 0px;
+}
+
+.wtrShtMobileTimeTableHeadline span{
+	font-size: 16px;
+	line-height: 1;
+}
+
+.wtrShtMobileTimeTableItem:last-child{
+	margin-bottom: 0px;
+}
+
+.wtrShtMobileTimeTableItem{
+	margin-bottom: 40px;
+}
+
+.wtrShtMobileTimeTableDaylyPlan{
+	margin: 20px 0 0 0;
+	font-size: 14px;
+}
+
+.wtrShtMobileTimeTableDaylyPlanTime{
+	border-top-width: 1px;
+	border-top-style: solid;
+}
+
+.wtrShtMobileTimeTableClass{
+	display: block;
+	padding: 10px 20px 10px 0px;
+	position: relative;
+}
+
+.wtrShtMobileTimeTableClass:after{
+	font-family: FontAwesome;
+	content: '\f054';
+	position: absolute;
+	height: 100%;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 0;
+	right: 0px;
+	top: 50%;
+}
+
+.wtrShtMobileTimeTableClassName{
+	font-size: 16px;
+	line-height: 1.1;
+	font-weight: bold;
+}
+
+.wtrShtMobileTimeTableClassTime{
+	font-size: 12px;
+	margin-top: 5px;
+}
+
+.wtrShtMobileTimeTableEventHeadline{
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-bottom: 2px;
+}
+
+.wtrShtMobileTimeTableEventHeadline i{
+	margin-right: 5px;
+}
+
+
+/* Time Table modal window - class selector */
+
+
+.wtrModalOverlay{
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	background-color: rgba(0,0,0,0.8);
+	z-index: 5;
+}
+
+.wtrTimeTableModalHeader{
+	padding: 30px 20px 20px;
+}
+
+.wtrTimeTableModalClose{
+	cursor: pointer;
+}
+
+.wtrTimeTableModalClose:after {
+	content: "\e01a";
+	font-family: 'Slide-icons';
+	font-style: normal;
+	position: absolute;
+	font-size: 24px;
+	right: 20px;
+	top: 30px
+}
+
+.wtrTimeTableModalContainer{
+	padding: 0px;
+	margin: 0px;
+	border-radius: 3px;
+}
+
+.wtrTimeTableModalList{
+	margin: 0px 0px 10px 10px;
+	padding-top: 10px;
+}
+
+.wtrTimeTableModalListItem{
+	float: left;
+	margin: 10px;
+	width: 14.8%;
+}
+
+.wtrTimetableFilterClassesData{
+	color: red;
+}
+
+.wtrTimeTableModalListItem div{
+	display: block;
+	border-radius: 3px;
+	min-height: 110px;
+	font-size: 14px;
+	padding: 20px 15px 50px 15px;
+	position: relative;
+	line-height: 1.3;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.wtrTimeTableModalListItem div span{
+	position: absolute;
+	left: 0;
+	bottom: 15px;
+	padding: 0px 15px 0px 15px;
+	font-size: 10px;
+	font-weight: bold;
+	width: 100%;
+	text-transform: uppercase;
+}
+
+.wtrTimeTableClasses {
+	border-width: 2px;
+	border-style: solid;
+}
+
+.wtrTimeTableClasses span{
+	color: rgba(0,0,0,0.3);
+}
+
+.wtrTimeTableClassesCategory{
+	display: inline-block;
+}
+
+.wtrTimeTableClassesCategory span{
+	color: rgba(0,0,0,0.3);
+}
+
+.wtrTimeTableModalTabsList{
+	margin-right: 100px;
+	margin-top: -55px;
+	padding: 0;
+}
+
+.wtrTimeTableModalTabsListItem {
+	font-size: 16px;
+	font-weight: bold;
+	display: inline-block;
+	padding: 15px 26px 30px !important;
+	list-style: none;
+	cursor: pointer;
+	float: right;
+	-webkit-border-top-left-radius: 	3px;
+	-webkit-border-top-right-radius: 	3px;
+	-moz-border-radius-topleft: 		3px;
+	-moz-border-radius-topright: 		3px;
+	border-top-left-radius: 			3px;
+	border-top-right-radius: 			3px;
+	margin: -1px 1px -1px 1px;
+}
+
+.wtrTimeTableModalTabsContainer {
+	padding: 0px 0px 0px;
+	clear: left;
+}
+
+.wtrTimeTableModalTabs{
+	margin-top: -1px !important;
+}
+
+.wtrTimeTableModalTabs h2.resp-accordion {
+	cursor: pointer;
+	padding: 5px;
+	display: none;
+}
+
+.wtrTimeTableModalTabs .resp-tab-content {
+	display: none;
+}
+
+.wtrTimeTableModalTabs .resp-tab-active {
+	border-width: 1px;
+	border-style: solid;
+	border-bottom: none;
+	margin: -2px 0 -2px 0 !important;
+	border-bottom: none;
+}
+
+.wtrTimeTableModalTabs .resp-content-active,
+.wtrTimeTableModalTabs .resp-accordion-active {
+	display: block;
+}
+
+.wtrTimeTableModalTabs .wtrShtTabItemContainer{
+	padding: 10px 25px;
+}
+
+.wtrTimeTableModalTabItem{
+	display: block;
+	max-height: 415px;
+	overflow-x: hidden;
+	border-top-width: 1px;
+	border-top-style: solid;
+}
+
+
+/* Time Table modal window - Class details*/
+
+.wtrTimeTableModalHeader h4{
+	display: inline-block;
+}
+
+.wtrNoModalDetail{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: transparent;
+	z-index: 1000\0; /* IE 9 fix */
+	background: url("http://f.cl.ly/items/0A1l1v0K3l3W1Y052l1H/ie-fix.gif");
+	background-repeat: repeat;
+}
+
+.wtrClassDetailsModalContainer{
+	border-top-width: 1px;
+	border-top-style: solid;
+	padding: 0px;
+	margin-top: 5px;
+	width: 100%;
+}
+
+.wtrClassDetailsModalFix{
+	width: 100%;
+	float: left;
+}
+
+.wtrClassDetailsModalMetaContainer{
+	display: table;
+	width: 100%;
+}
+
+.wtrClassDetailsModalMeta{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	width: 100%;
+}
+
+.wtrClassDetailsModalMetaItem{
+	width: 25%;
+	padding: 0px 0px;
+	margin: 0px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	position: relative;
+	bottom: 0px;
+	top: 0px;
+	display: table-cell;
+	vertical-align: top;
+}
+
+.wtrScheduleTableClockInfo{
+	margin-left: 10px;
+}
+
+.wtrClassDetailsModalMetaItemXSmall{
+	width: auto !important;
+	padding-right: 25px !important;
+}
+
+.wtrClassDetailsModalMetaItemSmall{
+	width: 15% !important;
+	padding-right: 25px !important;
+}
+
+.wtrClassDetailsModalMetaItemMedium{
+	width: 50% !important;
+}
+
+.wtrClassDetailsModalMetaItem:last-child{
+	border-right-width: 0px;
+	min-width: 100px;
+}
+
+.wtrClassDetailsModalMetaHeadline{
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 20px 20px 10px 20px;
+}
+
+.wtrClassDetailsModalMetaHeadlineEx{
+	margin: 0px 10px 20px 20px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.wtrClassDetailsModalMetaHeadlineExSmall{
+	display: block;
+	font-size: 14px;
+	margin: 0 0 3px 0;
+	margin: 0px 0px 20px 20px;
+	font-weight: bold;
+}
+
+.wtrClassDetailsModalMetaHeadlineEx a:hover{
+	text-decoration: underline;
+}
+
+.wtrClassDetailsModalMetaHeadlineEx a{
+	display: block;
+	font-size: 14px;
+	margin: 0 0 3px 0;
+}
+
+.wtrClassDetailsModalMetaItemDesc p{
+	margin-top: 20px;
+}
+
+.wtrClassDetailsModalMetaItem ul.wtrShtBoxedClassesSkill{
+	margin: 0px 0px 20px 20px !important;
+}
+
+.wtrClassDetailsModalMetaItemDesc{
+	width: 100%;
+	padding: 20px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	float: left;
+	max-height: 300px;
+	overflow-y: scroll;
+}
+
+.wtrClassDetailsModalMetaItemReadMore{
+	width: 100%;
+	padding: 25px 20px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	float: left;
+	text-align: center;
+}
+
+.wtrClassDetailsModalMetaItemHead{
+	width: 100%;
+	padding: 20px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+.wtrClassDetailsModalMetaItemDesc .wtrClassDetailsModalMetaHeadline{
+	margin: 0px;
+}
+
+.wtrModalClassNameContainer{
+	font-weight: bold;
+	font-size: 16px;
+	padding-top: 0px;
+	float: left;
+}
+
+.wtrClassDetailsModalClassTime{
+	width: 100%;
+	display: block;
+	font-weight: bold;
+	font-size: 14px;
+	margin-top: 0px;
+}
+
+.wtrTimeTableModalClassClockTime i{
+	padding: 5px 10px 4px;
+	border-radius: 3px;
+}
+
+.wtrTimeTableModalClassClockTime{
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 5px;
+
+}
+
+.wtrTimeTableModalClassClockTime .wtrGoogleModal{
+	margin-right: 10px;
+}
+
+.wtrTimeTableModalClassClockTime .fa-clock-o{
+	color: black !important;
+	padding: 5px 0px 4px 3px;
+	background: transparent !important;
+}
+
+.wtrModalClassBtnContainer{
+	float: right;
+}
+
+.wtrClassDetailsModalClassBtn{
+	-webkit-transition: all .15s ease-in-out;
+	-moz-transition: 	all .15s ease-in-out;
+	-ms-transition: 	all .15s ease-in-out;
+	-o-transition: 		all .15s ease-in-out;
+	transition: 		all .15s ease-in-out;
+	vertical-align:middle;
+	display:inline-block;
+	text-align: center;
+	line-height: 1;
+	border: 0;
+	font-weight: bold;
+	cursor: pointer;
+	padding:12px 20px;
+	font-size: 14px;
+}
+
+.wtrClassDetailsModalClassBtn:after{
+	font-family: FontAwesome;
+	content: '\f061';
+	position: absolute;
+	height: 100%;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 0;
+	right: -5px;
+	opacity: 1;
+	top: 50%;
+	position: relative;
+}
+
+.wtrModalNoDesc .wtrClassDetailsModalMetaHeadlineEx {
+	padding-bottom:0px;
+}
+
+.custombox-overlay {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	opacity: 0;
+}
+
+/*
+ -------------------------------------------------
+ Modal
+ -------------------------------------------------
+ */
+.custombox-modal {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+
+.custombox-modal {
+	height: auto;
+	visibility: hidden;
+}
+
+.custombox-modal-content{
+	margin-right: 15px;
+}
+
+/*
+ -------------------------------------------------
+ Error
+ -------------------------------------------------
+ */
+.custombox-error {
+	padding: 20px;
+	text-align: center;
+	color: #e74c3c;
+	font-weight: bold;
+	font-size: 14px;
+	background-color: #FFF;
+	border-radius: 5px;
+}
+
+/*
+ -------------------------------------------------
+ Actions
+ -------------------------------------------------
+ */
+.custombox-show {
+	visibility: visible;
+}
+.custombox-show ~ .custombox-overlay {
+	opacity: 1;
+	visibility: visible;
+}
+.custombox-perspective,
+.custombox-perspective body {
+	height: 100%;
+	overflow: hidden;
+}
+.custombox-perspective body  {
+	-webkit-perspective: 600px;
+	perspective: 600px;
+}
+.custombox-container {
+	min-height: 100%;
+}
+
+.custombox-hide-scrollbar body {
+	position: relative;
+	overflow: hidden;
+}
+
+/*
+ -------------------------------------------------
+ Fade in and scale up
+ -------------------------------------------------
+ */
+.custombox-fadein .custombox-modal-content {
+	-webkit-transform: scale(0.7);
+	-ms-transform: scale(0.7);
+	transform: scale(0.7);
+	-webkit-transition-property: all;
+	-ms-transition-property: all;
+	transition-property: all;
+	opacity: 0;
+}
+.custombox-show.custombox-fadein .custombox-modal-content {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	opacity: 1;
+}
+
+.wtrShtDSNoResults{
+	margin-top: 190px !important;
+}

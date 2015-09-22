@@ -1,0 +1,25 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">testimonial</custom-type>
+        <custom-type translate="1">gallery</custom-type>
+        <custom-type translate="1">clients</custom-type>
+        <custom-type translate="1">gym_location</custom-type>
+        <custom-type translate="1">pass</custom-type>
+        <custom-type translate="1">rooms</custom-type>
+        <custom-type translate="1">trainer</custom-type>
+        <custom-type translate="1">classes</custom-type>
+        <custom-type translate="1">events</custom-type>
+        <custom-type translate="1">events_organizers</custom-type>
+        <custom-type translate="1">events_locations</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">testimonial-category</taxonomy>
+        <taxonomy translate="1">clients-category</taxonomy>
+        <taxonomy translate="1">pass-category</taxonomy>
+        <taxonomy translate="1">rooms-category</taxonomy>
+        <taxonomy translate="1">trainer-specialization</taxonomy>
+        <taxonomy translate="1">trainer-function</taxonomy>
+        <taxonomy translate="1">classes-category</taxonomy>
+        <taxonomy translate="1">events-category</taxonomy>
+    </taxonomies>
+</wpml-config>

@@ -1,0 +1,2014 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Symetrio\n"
+"POT-Creation-Date: 2015-08-20 11:59+0100\n"
+"PO-Revision-Date: 2015-08-20 11:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_n_noop\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../functions/meta/meta-classes.php:24 ../functions/meta/meta-classes.php:26
+msgid "Classes"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:25
+msgid "All Classes"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:27 ../functions/meta/meta-clients.php:24
+#: ../functions/meta/meta-events-locations.php:24
+#: ../functions/meta/meta-events-organizers.php:24
+#: ../functions/meta/meta-events.php:26 ../functions/meta/meta-gallery.php:24
+#: ../functions/meta/meta-gym-location.php:24
+#: ../functions/meta/meta-pass.php:25 ../functions/meta/meta-rooms.php:26
+#: ../functions/meta/meta-testimonials.php:25
+#: ../functions/meta/meta-trainers.php:27
+msgid "Add New"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:28
+msgid "Add New Classes"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:29
+msgid "Edit Classes"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:30
+msgid "New Classes"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:31
+msgid "View Classes"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:32
+msgid "Search Classes"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:33
+msgid "No Classes found"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:34
+msgid "No Classes found in Trash"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:61 ../functions/meta/meta-classes.php:72
+msgid "Classes Categories"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:62
+msgid "Classes Category"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:63 ../functions/meta/meta-classes.php:68
+msgid "Edit Classes Category"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:64
+msgid "Search Classes Category"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:65
+msgid "All Classes Categories"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:66
+msgid "Parent Classes Category"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:67
+msgid "Parent Classes Category:"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:69
+msgid "Update Classes Category"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:70
+msgid "Add New Classes Category"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:71
+msgid "New Classes Category Name"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:96 ../functions/meta/meta-clients.php:83
+#: ../functions/meta/meta-events.php:115 ../functions/meta/meta-pass.php:83
+#: ../functions/meta/meta-rooms.php:95
+#: ../functions/widget/widget-events-upcoming.php:155
+#: ../functions/widget/widget-events.php:178
+#: ../functions/widget/widget-pass.php:158
+#: ../functions/widget/widget-recent-gallery.php:182
+#: ../functions/widget/widget-testimonials.php:146
+#: ../functions/widget/widget-trainers.php:187
+msgid "Title"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:97
+#: ../functions/meta/meta-classes.php:168
+msgid "Duration"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:98
+#: ../functions/meta/meta-classes.php:180
+#: ../functions/meta/meta-events.php:421
+msgid "Number of participants"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:99
+#: ../functions/meta/meta-classes.php:565
+#: ../functions/meta/meta-classes.php:589
+#: ../functions/meta/meta-trainers.php:24
+msgid "Trainers"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:100
+#: ../functions/meta/meta-classes.php:604
+#: ../functions/meta/meta-classes.php:629
+#: ../functions/meta/meta-events.php:118 ../functions/meta/meta-events.php:701
+#: ../functions/meta/meta-events.php:726
+#: ../functions/meta/meta-gym-location.php:21
+#: ../functions/meta/meta-gym-location.php:23
+#: ../functions/meta/meta-pass.php:86 ../functions/meta/meta-pass.php:286
+#: ../functions/meta/meta-pass.php:311 ../functions/meta/meta-rooms.php:97
+#: ../functions/meta/meta-rooms.php:384 ../functions/meta/meta-rooms.php:409
+#: ../functions/meta/meta-trainers.php:125
+#: ../functions/meta/meta-trainers.php:653
+#: ../functions/meta/meta-trainers.php:678
+msgid "Gym Location"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:101
+#: ../functions/meta/meta-clients.php:85 ../functions/meta/meta-events.php:119
+#: ../functions/meta/meta-gallery.php:59 ../functions/meta/meta-pass.php:87
+#: ../functions/meta/meta-rooms.php:98
+#: ../functions/meta/meta-testimonials.php:88
+#: ../functions/meta/meta-trainers.php:126
+msgid "Order"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:155
+#: ../functions/meta/meta-events.php:232 ../functions/meta/meta-events.php:244
+msgid "Cover image "
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:162
+#: ../functions/meta/meta-events.php:239 ../functions/meta/meta-events.php:251
+#: ../functions/meta/meta-trainers.php:225
+#: ../functions/meta/meta-trainers.php:237
+msgid "Insert image"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:191
+msgid "Level of difficulty"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:205
+msgid "Calories burned"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:231
+msgid "Room"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:238
+msgid "To set class room add Rooms. Go to: Rooms > Add new"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:270
+msgid "Hide class details in header section"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:283
+#: ../functions/meta/meta-events-locations.php:458
+#: ../functions/meta/meta-events-organizers.php:185
+#: ../functions/meta/meta-events.php:469 ../functions/meta/meta-rooms.php:143
+#: ../functions/meta/meta-trainers.php:243
+msgid "None"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:284
+#: ../functions/meta/meta-events.php:470 ../functions/meta/meta-rooms.php:144
+#: ../functions/meta/meta-trainers.php:244
+msgid "Default"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:293
+#: ../functions/meta/meta-events.php:479 ../functions/meta/meta-rooms.php:153
+#: ../functions/meta/meta-trainers.php:253
+msgid "Enable clean menu mode"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:294
+#: ../functions/meta/meta-events.php:480 ../functions/meta/meta-rooms.php:154
+#: ../functions/meta/meta-trainers.php:254
+msgid ""
+"This option allows you to hide additional menu icons like: </br> Search "
+"icon, WooCommerce cart (if installed), WPML select (if installed)"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:305
+#: ../functions/meta/meta-events.php:491 ../functions/meta/meta-rooms.php:165
+#: ../functions/meta/meta-trainers.php:265
+msgid "Page menu"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:318
+#: ../functions/meta/meta-events.php:504 ../functions/meta/meta-rooms.php:178
+#: ../functions/meta/meta-trainers.php:278
+msgid "Header settings"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:326
+#: ../functions/meta/meta-events-locations.php:293
+#: ../functions/meta/meta-events.php:512 ../functions/meta/meta-rooms.php:186
+#: ../functions/meta/meta-trainers.php:286
+msgid "Off"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:327
+#: ../functions/meta/meta-events.php:513 ../functions/meta/meta-rooms.php:187
+#: ../functions/meta/meta-trainers.php:287
+msgid "Show menu"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:328
+#: ../functions/meta/meta-events.php:514 ../functions/meta/meta-rooms.php:188
+#: ../functions/meta/meta-trainers.php:288
+msgid "Show menu &#43; socials"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:329
+#: ../functions/meta/meta-events.php:515 ../functions/meta/meta-rooms.php:189
+#: ../functions/meta/meta-trainers.php:289
+msgid "Simplified menu"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:336
+#: ../functions/meta/meta-events.php:522 ../functions/meta/meta-rooms.php:196
+#: ../functions/meta/meta-trainers.php:296
+msgid "Breadcrumbs container"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:349
+#: ../functions/meta/meta-events.php:535 ../functions/meta/meta-rooms.php:209
+#: ../functions/meta/meta-trainers.php:309
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:363
+#: ../functions/meta/meta-events.php:170 ../functions/meta/meta-rooms.php:223
+#: ../functions/meta/meta-trainers.php:323
+msgid "SEO tittle"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:375
+#: ../functions/meta/meta-events.php:182 ../functions/meta/meta-rooms.php:235
+#: ../functions/meta/meta-trainers.php:335
+msgid "SEO description"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:387
+#: ../functions/meta/meta-events.php:194 ../functions/meta/meta-rooms.php:247
+#: ../functions/meta/meta-trainers.php:347
+msgid "SEO keywords"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:398
+#: ../functions/meta/meta-events.php:205 ../functions/meta/meta-rooms.php:258
+#: ../functions/meta/meta-trainers.php:359
+msgid "Robots meta tag"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:406
+#: ../functions/meta/meta-events.php:213 ../functions/meta/meta-rooms.php:266
+#: ../functions/meta/meta-trainers.php:367
+msgid "Site has No Robot attribute "
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:414
+#: ../functions/meta/meta-events.php:221 ../functions/meta/meta-rooms.php:303
+#: ../functions/meta/meta-trainers.php:536
+msgid "Custom css for page"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:426
+#: ../functions/meta/meta-events.php:550 ../functions/meta/meta-pass.php:190
+msgid "Show call to action button"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:438
+#: ../functions/meta/meta-events.php:433 ../functions/meta/meta-events.php:562
+#: ../functions/meta/meta-pass.php:84 ../functions/meta/meta-pass.php:137
+#: ../functions/meta/meta-pass.php:202
+msgid "Price"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:450
+#: ../functions/meta/meta-events.php:574 ../functions/meta/meta-pass.php:214
+msgid "Your PayPal e-mail adress"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:461
+#: ../functions/meta/meta-events.php:585 ../functions/meta/meta-pass.php:225
+msgid "Currency Code"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:462
+#: ../functions/meta/meta-events.php:586 ../functions/meta/meta-pass.php:226
+msgid ""
+"* This currency does not support decimals. Passing a decimal amount will "
+"result in an error.</br>** This currency is supported as a payment currency "
+"and a currency balance for in-country PayPal accounts only."
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:476
+#: ../functions/meta/meta-classes.php:578
+#: ../functions/meta/meta-classes.php:618
+#: ../functions/meta/meta-clients.php:141
+#: ../functions/meta/meta-events-locations.php:416
+#: ../functions/meta/meta-events-organizers.php:145
+#: ../functions/meta/meta-events.php:600 ../functions/meta/meta-events.php:715
+#: ../functions/meta/meta-gallery.php:111 ../functions/meta/meta-pass.php:240
+#: ../functions/meta/meta-pass.php:300 ../functions/meta/meta-rooms.php:398
+#: ../functions/meta/meta-testimonials.php:177
+#: ../functions/meta/meta-trainers.php:549
+#: ../functions/meta/meta-trainers.php:667
+msgid "General"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:494
+#: ../functions/meta/meta-events.php:627 ../functions/meta/meta-rooms.php:316
+#: ../functions/meta/meta-trainers.php:562
+msgid "Layout"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:508
+#: ../functions/meta/meta-events.php:641 ../functions/meta/meta-rooms.php:341
+#: ../functions/meta/meta-trainers.php:609
+msgid "CSS"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:518
+msgid "Classes Options"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:532
+#: ../functions/meta/meta-events.php:667 ../functions/meta/meta-rooms.php:367
+#: ../functions/meta/meta-trainers.php:636
+msgid "SEO"
+msgstr ""
+
+#: ../functions/meta/meta-classes.php:548
+#: ../functions/meta/meta-events.php:683 ../functions/meta/meta-pass.php:268
+msgid "PayPal Integration"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:21
+msgid "Clients"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:22
+msgid "All Clients"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:23
+msgid "Client"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:25
+msgid "Add New client"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:26
+msgid "Edit Client"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:27
+msgid "New Clients"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:28
+msgid "View Clients"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:29
+msgid "Search Clients"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:30
+msgid "No Clients found"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:31
+msgid "No Clients found in Trash"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:58 ../functions/meta/meta-clients.php:69
+#: ../functions/meta/meta-clients.php:84
+msgid "Clients Categories"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:59
+msgid "Clients Category"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:60 ../functions/meta/meta-clients.php:65
+msgid "Edit Client Category"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:61
+msgid "Search Client Category"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:62
+msgid "All Clients Categories"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:63
+msgid "Parent Client Category"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:64
+msgid "Parent Client Category:"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:66
+msgid "Update Client Category"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:67
+msgid "Add New Client Category"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:68
+msgid "New Client Category Name"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:82
+msgid "Thumbnail"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:128
+msgid "Client website"
+msgstr ""
+
+#: ../functions/meta/meta-clients.php:152
+msgid "Clients Options"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:21
+#: ../functions/meta/meta-events-locations.php:23
+#: ../functions/meta/meta-events.php:380
+msgid "Location"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:22
+msgid "All Locations"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:25
+msgid "Add New Location"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:26
+msgid "Edit Location"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:27
+msgid "New Location"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:28
+msgid "View Location"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:29
+msgid "Search Location"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:30
+msgid "No Locations found"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:31
+msgid "No Locations in Trash"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:60
+#: ../functions/meta/meta-events-organizers.php:60
+msgid "title"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:61
+#: ../functions/meta/meta-events-locations.php:95
+#: ../functions/meta/meta-events-organizers.php:61
+#: ../functions/meta/meta-events-organizers.php:95
+msgid "Address"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:107
+#: ../functions/meta/meta-events-organizers.php:107
+msgid "E-mail"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:119
+#: ../functions/meta/meta-events-organizers.php:119
+msgid "URL"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:131
+#: ../functions/meta/meta-events-organizers.php:131
+msgid "Phone number"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:143
+msgid "Marker coordinates "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:144
+msgid ""
+"To specify the coordinates of the marker you can use our search engine "
+"located above the map.<br /><br />You can change the position of the cursor "
+"by dragging it to the desired location"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:163
+msgid "Map types"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:164
+msgid "Specify the type of your map"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:170
+msgid "ROADMAP - displays the default road map view"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:171
+msgid "SATELLITE - displays Google Earth satellite images"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:172
+msgid "HYBRID - displays a mixture of normal and satellite views"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:173
+msgid "TERRAIN - displays a physical map based on terrain information"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:181
+msgid "Map style"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:182
+msgid "Specify the style of your map"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:191
+msgid "Standard style"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:270
+msgid "Map zoom"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:271
+msgid "Zoom value from 0 to 21 where 21 is the greatest and 0 the smallest."
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:287
+msgid "Scrollwheel"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:288
+msgid "Set to false to disable zooming with your mouse scrollwheel."
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:293
+msgid "On"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:300
+msgid "Select marker style"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:307
+msgid "Standard"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:308
+msgid "Pin - red circle "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:309
+msgid "Pin - red stars "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:310
+msgid "Pin - blue blank "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:311
+msgid "Pin - blue circle "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:312
+msgid "Pin - blue stars "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:313
+msgid "Pin - light blue blank "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:314
+msgid "Pin - light blue circle "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:315
+msgid "Pin - light blue stars "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:316
+msgid "Pin - green blank "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:317
+msgid "Pin - green circle "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:318
+msgid "Pin - green stars "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:319
+msgid "Pin - pink blank "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:320
+msgid "Pin - pink circle "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:321
+msgid "Pin - pink stars "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:322
+msgid "Pin - purple blank "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:323
+msgid "Pin - purple circle "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:324
+msgid "Pin - purple stars "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:325
+msgid "Pin - white blank "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:326
+msgid "Pin - white circle "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:327
+msgid "Pin - white stars "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:328
+msgid "Pin - yellow blank "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:329
+msgid "Pin - yellow circle "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:330
+msgid "Pin - yellow stars "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:331
+msgid "Pin - 1 "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:332
+msgid "Pin - 2 "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:333
+msgid "Pin - 3 "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:334
+msgid "Pin - 4 "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:335
+msgid "Pin - 5 "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:336
+msgid "Pin - 6 "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:337
+msgid "Pin - 7 "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:338
+msgid "Pin - 8 "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:339
+msgid "Pin - 9 "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:340
+msgid "Pin - 10 "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:341
+msgid "Pin - A "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:342
+msgid "Pin - B "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:343
+msgid "Pin - C "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:344
+msgid "Pin - D "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:345
+msgid "Pin - E "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:346
+msgid "Pin - F "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:347
+msgid "Pin - G "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:348
+msgid "Pin - H "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:349
+msgid "Pin - I "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:350
+msgid "Pin - J "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:351
+msgid "Pin - K "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:352
+msgid "Pin - L "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:353
+msgid "Pin - M "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:354
+msgid "Pin - N "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:355
+msgid "Pin - O "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:356
+msgid "Pin - P "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:357
+msgid "Pin - Q "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:358
+msgid "Pin - R "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:359
+msgid "Pin - S "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:360
+msgid "Pin - T "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:361
+msgid "Pin - U "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:362
+msgid "Pin - V "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:363
+msgid "Pin - W "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:364
+msgid "Pin - X "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:365
+msgid "Pin - Y "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:366
+msgid "Pin - Z "
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:367
+msgid "Push pin - blue"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:368
+msgid "Push pin -  green"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:369
+msgid "Push pin -  light blue"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:370
+msgid "Push pin -  pink"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:371
+msgid "Push pin -  purple"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:372
+msgid "Push pin -  red"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:373
+msgid "Push pin -  white"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:374
+msgid "Push pin -  yellow"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:375
+msgid "Track - 1"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:376
+msgid "Track - 2"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:377
+msgid "Track - 3"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:378
+msgid "Track - 4"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:379
+msgid "Track - 5"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:380
+msgid "Track - 6"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:381
+msgid "Track - 7"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:382
+msgid "Track - 8"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:383
+msgid "Track - 9"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:384
+msgid "Track - 10"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:385
+msgid "Track - 11"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:386
+msgid "Track - 12"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:387
+msgid "Track - 13"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:388
+msgid "Track - 14"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:389
+msgid "Track - 15"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:390
+msgid "Custom pin - 1"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:391
+msgid "Custom pin - 2"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:392
+msgid "Custom pin - 3"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:393
+msgid "Custom pin - 4"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:394
+msgid "Custom pin - arrow"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:395
+msgid "Custom pin - plus 1"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:396
+msgid "Custom pin - plus 2"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:397
+msgid "Custom pin - home"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:398
+msgid "Custom pin - forbidden"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:399
+msgid "Custom pin - gas stations"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:400
+msgid "Custom pin - market 1"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:401
+msgid "Custom pin - market 2"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:402
+msgid "Custom pin - church"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:403
+msgid "Custom pin - restaurant"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:404
+msgid "Custom pin - info 1"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:405
+msgid "Custom pin - info 2"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:406
+msgid "Custom pin - info 3"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:435
+msgid "Location Options"
+msgstr ""
+
+#: ../functions/meta/meta-events-locations.php:461
+#: ../functions/meta/meta-events-organizers.php:188
+#: ../functions/meta/meta-gym-location.php:63
+#: ../functions/meta/meta-trainers.php:708
+msgid "(no title)"
+msgstr ""
+
+#: ../functions/meta/meta-events-organizers.php:21
+#: ../functions/meta/meta-events-organizers.php:23
+#: ../functions/meta/meta-events.php:394
+msgid "Organizer"
+msgstr ""
+
+#: ../functions/meta/meta-events-organizers.php:22
+msgid "All Organizers"
+msgstr ""
+
+#: ../functions/meta/meta-events-organizers.php:25
+msgid "Add New Organizer"
+msgstr ""
+
+#: ../functions/meta/meta-events-organizers.php:26
+msgid "Edit Organizer"
+msgstr ""
+
+#: ../functions/meta/meta-events-organizers.php:27
+msgid "New Organizer"
+msgstr ""
+
+#: ../functions/meta/meta-events-organizers.php:28
+msgid "View Organizer"
+msgstr ""
+
+#: ../functions/meta/meta-events-organizers.php:29
+msgid "Search Organizer"
+msgstr ""
+
+#: ../functions/meta/meta-events-organizers.php:30
+msgid "No Organizers found"
+msgstr ""
+
+#: ../functions/meta/meta-events-organizers.php:31
+msgid "No Organizers in Trash"
+msgstr ""
+
+#: ../functions/meta/meta-events-organizers.php:159
+msgid "Organizer Options"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:23 ../functions/meta/meta-events.php:25
+msgid "Events"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:24
+msgid "All Events"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:27
+msgid "Add New Event"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:28
+msgid "Edit Event"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:29
+msgid "New Event"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:30
+msgid "View Event"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:31
+msgid "Search Events"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:32
+msgid "No Events found"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:33
+msgid "No Events found in Trash"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:60 ../functions/meta/meta-events.php:71
+msgid "Events Categories"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:61
+msgid "Event Category"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:62 ../functions/meta/meta-events.php:67
+msgid "Edit Event Category"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:63
+msgid "Search Event Category"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:64
+msgid "All Events Categories"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:65
+msgid "Parent Event Category"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:66
+msgid "Parent Event Category:"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:68
+msgid "Update Event Category"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:69
+msgid "Add New Event Category"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:70
+msgid "New Event Category Name"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:116
+msgid "Event Date"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:117
+msgid "Events Category"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:233
+msgid "Single Event"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:245
+msgid "Stream Events"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:257
+msgid "Event date"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:269 ../functions/meta/meta-events.php:312
+msgid "Time - hour"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:270 ../functions/meta/meta-events.php:283
+msgid "Event start"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:282 ../functions/meta/meta-events.php:325
+msgid "Time - minute"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:295
+msgid "Time - type - start time"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:296 ../functions/meta/meta-events.php:339
+msgid "Select between 24H or 12H time"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:302 ../functions/meta/meta-events.php:345
+msgid "--"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:303 ../functions/meta/meta-events.php:346
+msgid "PM"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:304 ../functions/meta/meta-events.php:347
+msgid "AM"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:313 ../functions/meta/meta-events.php:326
+msgid "Event end"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:338
+msgid "Time - type - end time"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:355
+msgid "Google calendar"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:356
+msgid "Displays a link that allows you to add events to google calendar"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:369
+msgid "Facebook link"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:370
+msgid "Link to events on facebook"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:387
+msgid "To set Location go to: Events > All Locations > Add New"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:401
+msgid "To set Location go to: Events > All Organizers > Add New"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:409
+msgid "Sign ups to"
+msgstr ""
+
+#: ../functions/meta/meta-events.php:651
+msgid "Event Options"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:21 ../functions/meta/meta-gallery.php:23
+msgid "Gallery"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:22
+msgid "All Gallery"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:25
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:26
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:27
+msgid "New Gallery"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:28
+msgid "View Gallery"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:29
+msgid "Search Gallery"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:30
+msgid "No Gallery found"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:31
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:57
+#: ../functions/meta/meta-testimonials.php:83
+#: ../functions/meta/meta-trainers.php:121
+msgid "ID"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:58
+#: ../functions/meta/meta-testimonials.php:84
+#: ../functions/meta/meta-trainers.php:120
+msgid "Photo"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:60
+#: ../functions/meta/meta-testimonials.php:89
+msgid "Date"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:96
+msgid "Gallery item"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:97
+msgid "Select photos to create a photo gallery"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:104
+msgid "Insert image url or select file from media library"
+msgstr ""
+
+#: ../functions/meta/meta-gallery.php:122
+msgid "Gallery images"
+msgstr ""
+
+#: ../functions/meta/meta-gym-location.php:22
+msgid "All Gym Location"
+msgstr ""
+
+#: ../functions/meta/meta-gym-location.php:25
+msgid "Add New Gym Location"
+msgstr ""
+
+#: ../functions/meta/meta-gym-location.php:26
+msgid "Edit Gym Location"
+msgstr ""
+
+#: ../functions/meta/meta-gym-location.php:27
+msgid "New Gym Location"
+msgstr ""
+
+#: ../functions/meta/meta-gym-location.php:28
+msgid "View Gym Location"
+msgstr ""
+
+#: ../functions/meta/meta-gym-location.php:29
+msgid "Search Gym Location"
+msgstr ""
+
+#: ../functions/meta/meta-gym-location.php:30
+msgid "No Gym Location found"
+msgstr ""
+
+#: ../functions/meta/meta-gym-location.php:31
+msgid "No Gym Location found in Trash"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:22 ../functions/meta/meta-pass.php:24
+msgid "Pass"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:23
+msgid "All Pass"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:26
+msgid "Add New Pass"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:27
+msgid "Edit Pass"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:28
+msgid "New Pass"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:29
+msgid "View Pass"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:30
+msgid "Search Pass"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:31
+msgid "No passes  found"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:32
+msgid "No passes  found in Trash"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:59 ../functions/meta/meta-pass.php:70
+#: ../functions/meta/meta-pass.php:85
+msgid "Pass Categories"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:60
+msgid "Pass Category"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:61 ../functions/meta/meta-pass.php:66
+msgid "Edit Pass Category"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:62
+msgid "Search Pass Category"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:63
+msgid "All Pass Categories"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:64
+msgid "Parent Pass Category"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:65
+msgid "Parent Pass Category:"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:67
+msgid "Update Pass Category"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:68
+msgid "Add New Pass Category"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:69
+msgid "New Pass Category Name"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:149
+msgid "Membership type"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:163
+msgid "Description"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:174
+msgid "Status"
+msgstr ""
+
+#: ../functions/meta/meta-pass.php:255
+msgid "Pass Options"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:23 ../functions/meta/meta-rooms.php:25
+msgid "Rooms"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:24
+msgid "All Rooms"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:27
+msgid "Add New Room"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:28
+msgid "Edit Room"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:29
+msgid "New Room"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:30
+msgid "View Room"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:31
+msgid "Search Rooms"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:32
+msgid "No Rooms found"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:33
+msgid "No Rooms found in Trash"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:60 ../functions/meta/meta-rooms.php:71
+msgid "Rooms Categories"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:61
+msgid "Room Category"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:62 ../functions/meta/meta-rooms.php:67
+msgid "Edit Room Category"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:63
+msgid "Search Room Category"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:64
+msgid "All Rooms Categories"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:65
+msgid "Parent Room Category"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:66
+msgid "Parent Room Category:"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:68
+msgid "Update Room Category"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:69
+msgid "Add New Room Category"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:70
+msgid "New Room Category Name"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:96
+msgid "Rooms category"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:272
+#: ../functions/meta/meta-trainers.php:373
+msgid "Sidebar position"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:286 ../functions/meta/meta-rooms.php:330
+#: ../functions/meta/meta-trainers.php:387
+#: ../functions/meta/meta-trainers.php:576
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:293
+#: ../functions/meta/meta-trainers.php:394
+msgid ""
+"To set sidebar use \"Siedebar management\". Go to: Apperance > Theme Options "
+"> General > Sidebar"
+msgstr ""
+
+#: ../functions/meta/meta-rooms.php:351
+msgid "Room Options"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:22
+msgid "Testimonials"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:23
+msgid "All Testimonials"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:24
+msgid "Testimonial"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:26
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:27
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:28
+msgid "New Testimonial"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:29
+msgid "View Testimonials"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:30
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:31
+msgid "No Testimonials found"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:32
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:59
+#: ../functions/meta/meta-testimonials.php:70
+msgid "Testimonials Categories"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:60
+msgid "Testimonial Category"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:61
+#: ../functions/meta/meta-testimonials.php:66
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:62
+msgid "Search Testimonial Category"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:63
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:64
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:65
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:67
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:68
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:69
+msgid "New Testimonial Category Name"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:85
+#: ../functions/meta/meta-testimonials.php:164
+msgid "Author"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:86
+#: ../functions/meta/meta-testimonials.php:152
+msgid "Content"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:87
+msgid "Categories"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:130
+msgid "Enter Testimonial`s ID"
+msgstr ""
+
+#: ../functions/meta/meta-testimonials.php:189
+msgid "Testimonial Options"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:25
+msgid "All Trainers"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:26
+msgid "Trainer"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:28
+msgid "Add New Trainer"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:29
+msgid "Edit Trainer"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:30
+msgid "New Trainer"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:31
+msgid "View Trainer"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:32
+msgid "Search Trainers"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:33
+msgid "No Trainers found"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:34
+msgid "No Trainers found in Trash"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:61
+#: ../functions/meta/meta-trainers.php:72
+msgid "Trainers Specializations"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:62
+msgid "Trainer Specialization"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:63
+#: ../functions/meta/meta-trainers.php:68
+msgid "Edit Trainer Specialization"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:64
+msgid "Search Trainer Specialization"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:65
+msgid "All Trainers Specializations"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:66
+msgid "Parent Trainer Specialization"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:67
+msgid "Parent Trainer Specialization:"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:69
+msgid "Update Trainer Specialization"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:70
+msgid "Add New Trainer Specialization"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:71
+msgid "New Trainer Specialization Name"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:85
+msgid "Trainers Functions (in the club)"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:86
+#: ../functions/meta/meta-trainers.php:96
+#: ../functions/meta/meta-trainers.php:124
+msgid "Trainer Function (in the club)"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:87
+#: ../functions/meta/meta-trainers.php:92
+msgid "Edit Trainer Function (in the club)"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:88
+msgid "Search Trainer Function (in the club)"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:89
+msgid "All Trainer Functions (in the club)"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:90
+msgid "Parent Trainer Function (in the club)"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:91
+msgid "Parent Trainer Function (in the club):"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:93
+msgid "Update Trainer Function (in the club)"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:94
+msgid "Add New Trainer Function (in the club)"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:95
+msgid "New Trainer Function (in the club)"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:122
+#: ../functions/meta/meta-trainers.php:195
+msgid "Name"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:123
+#: ../functions/meta/meta-trainers.php:207
+msgid "Last name"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:174
+msgid "Enter ID Trainer"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:218
+msgid "Cover image"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:230
+msgid "Background image"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:231
+msgid "Shortcode Trainers"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:403
+msgid "Facebook"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:415
+msgid "Google"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:427
+msgid "Twitter"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:439
+msgid "Vimeo"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:451
+msgid "YouTube"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:463
+msgid "Tumblr"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:475
+msgid "Pinterest"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:487
+msgid "Instagram"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:499
+msgid "Flickr"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:511
+msgid "VKontakte"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:523
+msgid "LinkedIn"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:587
+msgid "Social Media"
+msgstr ""
+
+#: ../functions/meta/meta-trainers.php:619
+msgid "Trainer Options"
+msgstr ""
+
+#: ../functions/widget/widget-events-upcoming.php:24
+msgid " upcoming events"
+msgstr ""
+
+#: ../functions/widget/widget-events-upcoming.php:25
+#: ../functions/widget/widget-events.php:25
+msgid "This section shows events"
+msgstr ""
+
+#: ../functions/widget/widget-events-upcoming.php:159
+#: ../functions/widget/widget-events.php:186
+#: ../functions/widget/widget-pass.php:166
+#: ../functions/widget/widget-testimonials.php:158
+msgid "Choose the categories you want to display (multiple selection possible)"
+msgstr ""
+
+#: ../functions/widget/widget-events-upcoming.php:161
+#: ../functions/widget/widget-events.php:188
+#: ../functions/widget/widget-pass.php:168
+#: ../functions/widget/widget-testimonials.php:160
+#: ../functions/widget/widget-trainers.php:197
+#: ../functions/widget/widget-trainers.php:213
+msgid "Select category"
+msgstr ""
+
+#: ../functions/widget/widget-events.php:24
+msgid "events"
+msgstr ""
+
+#: ../functions/widget/widget-events.php:182
+#: ../functions/widget/widget-pass.php:162
+#: ../functions/widget/widget-recent-gallery.php:186
+#: ../functions/widget/widget-testimonials.php:150
+#: ../functions/widget/widget-trainers.php:191
+msgid "Count"
+msgstr ""
+
+#: ../functions/widget/widget-events.php:202
+#: ../functions/widget/widget-pass.php:182
+#: ../functions/widget/widget-recent-gallery.php:190
+#: ../functions/widget/widget-testimonials.php:174
+#: ../functions/widget/widget-trainers.php:227
+msgid "Order "
+msgstr ""
+
+#: ../functions/widget/widget-events.php:204
+#: ../functions/widget/widget-trainers.php:231
+msgid "Name DESC"
+msgstr ""
+
+#: ../functions/widget/widget-events.php:205
+#: ../functions/widget/widget-trainers.php:232
+msgid "Name ASC"
+msgstr ""
+
+#: ../functions/widget/widget-events.php:206
+#: ../functions/widget/widget-pass.php:184
+#: ../functions/widget/widget-recent-gallery.php:192
+#: ../functions/widget/widget-testimonials.php:176
+#: ../functions/widget/widget-trainers.php:229
+msgid "Order DESC"
+msgstr ""
+
+#: ../functions/widget/widget-events.php:207
+#: ../functions/widget/widget-pass.php:185
+#: ../functions/widget/widget-recent-gallery.php:193
+#: ../functions/widget/widget-testimonials.php:177
+#: ../functions/widget/widget-trainers.php:230
+msgid "Order ASC"
+msgstr ""
+
+#: ../functions/widget/widget-events.php:208
+msgid "Date event DESC"
+msgstr ""
+
+#: ../functions/widget/widget-events.php:209
+msgid "Date event ASC"
+msgstr ""
+
+#: ../functions/widget/widget-events.php:213
+msgid "Show "
+msgstr ""
+
+#: ../functions/widget/widget-events.php:215
+msgid "All"
+msgstr ""
+
+#: ../functions/widget/widget-events.php:216
+msgid "Upcoming"
+msgstr ""
+
+#: ../functions/widget/widget-pass.php:24
+msgid "pass"
+msgstr ""
+
+#: ../functions/widget/widget-pass.php:25
+msgid "This section shows pass"
+msgstr ""
+
+#: ../functions/widget/widget-pass.php:186
+msgid "Name add DESC"
+msgstr ""
+
+#: ../functions/widget/widget-pass.php:187
+msgid "Name add ASC"
+msgstr ""
+
+#: ../functions/widget/widget-pass.php:188
+msgid "Price add DESC"
+msgstr ""
+
+#: ../functions/widget/widget-pass.php:189
+msgid "Price add ASC"
+msgstr ""
+
+#: ../functions/widget/widget-recent-gallery.php:24
+msgid "recent gallery"
+msgstr ""
+
+#: ../functions/widget/widget-recent-gallery.php:25
+msgid "This section shows  last gallery"
+msgstr ""
+
+#: ../functions/widget/widget-recent-gallery.php:194
+#: ../functions/widget/widget-testimonials.php:178
+msgid "Date add DESC"
+msgstr ""
+
+#: ../functions/widget/widget-recent-gallery.php:195
+#: ../functions/widget/widget-testimonials.php:179
+msgid "Date add ASC"
+msgstr ""
+
+#: ../functions/widget/widget-testimonials.php:24
+msgid "testimonials"
+msgstr ""
+
+#: ../functions/widget/widget-testimonials.php:25
+msgid "This section shows testimonials"
+msgstr ""
+
+#: ../functions/widget/widget-testimonials.php:154
+msgid "Slide delay"
+msgstr ""
+
+#: ../functions/widget/widget-trainers.php:24
+msgid "trainers"
+msgstr ""
+
+#: ../functions/widget/widget-trainers.php:25
+msgid "This section shows trainers"
+msgstr ""
+
+#: ../functions/widget/widget-trainers.php:195
+msgid "Choose the functionss you want to display (multiple selection possible)"
+msgstr ""
+
+#: ../functions/widget/widget-trainers.php:211
+msgid ""
+"Choose the specializations you want to display (multiple selection possible)"
+msgstr ""
+
+#: ../functions/widget/widget-trainers.php:233
+msgid "Last name DESC"
+msgstr ""
+
+#: ../functions/widget/widget-trainers.php:234
+msgid "Last name ASC"
+msgstr ""
+
+#: ../functions/widget/widget-trainers.php:238
+msgid "Choose classes based on "
+msgstr ""
+
+#: ../functions/widget/widget-trainers.php:240
+msgid "Specialization"
+msgstr ""
+
+#: ../functions/widget/widget-trainers.php:241
+msgid "Functions"
+msgstr ""
+
+#: ../wtr-admin/wtr_controller.php:44
+#, php-format
+msgid ""
+"<strong>%s</strong> - This plugin works only with Symetrio theme created by\n"
+"\t\t\t\t\t\t\t\t Wonster Team"
+msgstr ""

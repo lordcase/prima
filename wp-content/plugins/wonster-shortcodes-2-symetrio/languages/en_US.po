@@ -1,0 +1,4421 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Symetrio\n"
+"POT-Creation-Date: 2015-08-20 11:59+0100\n"
+"PO-Revision-Date: 2015-08-20 11:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_n_noop\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../vc-wtr-admin/shortcodes-param/vc_wtr_shortcodes_param.php:74
+msgid "Css Animation doesn't work on IE 9 and older"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes-param/vc_wtr_shortcodes_param.php:134
+msgid "You selected:"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes-param/vc_wtr_shortcodes_param.php:206
+msgid "Entry name of the town / street / company"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes-param/vc_wtr_shortcodes_param.php:210
+msgid "Find place"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes-param/vc_wtr_shortcodes_param.php:228
+msgid "Click on the map to create the beginning of route and start drawing"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes-param/vc_wtr_shortcodes_param.php:231
+msgid "Remove all points"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes-param/vc_wtr_shortcodes_param.php:232
+msgid "Undo"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes-param/vc_wtr_shortcodes_param.php:234
+msgid "Road Snap"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes-param/vc_wtr_shortcodes_param.php:235
+msgid "Distance"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes-param/vc_wtr_shortcodes_param.php:237
+msgid "miles"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes-param/vc_wtr_shortcodes_param.php:238
+msgid "km"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes-param/vc_wtr_shortcodes_param.php:239
+msgid "m"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:22
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:35
+msgid "Margins"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:23
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:33
+msgid "CSS Animation"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:24
+msgid "Additional"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:25
+msgid "Container"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:26
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:34
+msgid "Advanced"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:27
+msgid "Background"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:31
+msgid "Wonster Elements"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:32
+msgid "Wonster additional elements"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:33
+msgid "Wonster Media"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:34
+msgid "Wonster WooCommerce"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:92
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:236
+msgid "Margin top"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:93
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:108
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:123
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:183
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:139
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:98
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:103
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:113
+#: ../vc-wtr-admin/shortcodes/vc_wtr_rooms.php:73
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:99
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:119
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:37
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:130
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:208
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:313
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:418
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:523
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:638
+msgid "<b>Please, use only numeric signs</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:107
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:249
+msgid "Margin bottom"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:122
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:223
+msgid "Margin right"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:137
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:210
+msgid "Margin left"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:138
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:211
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:224
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:237
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:250
+msgid "Please, use only numeric signs"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:158
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:138
+msgid "Animation effect"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:162
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:55
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:35
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:111
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:137
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_image.php:45
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:92
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:247
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:106
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:94
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:102
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:91
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:184
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:219
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:140
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:151
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:145
+msgid "None"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:246
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:189
+msgid "Animation Delay (in milliseconds)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:247
+msgid ""
+"Value must be a number. For example: <b>1</b> second delay is <b>1000</b> "
+"milliseconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:282
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:268
+msgid "Extra class name"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:283
+msgid ""
+"If you wish to style particular content element differently, then use this\n"
+"\t\t\t\t\t\t\t\t\t\tfield to add a class name and then refer to it in your css "
+"file"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:296
+msgid "Row ID"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:297
+#, php-format
+msgid ""
+"Enter row ID (Note: make sure it is unique and valid according to <a href=\"%s"
+"\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:321
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:351
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:38
+msgid "Include all"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:331
+msgid "There are no category to choose from"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:353
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:21
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainer.php:38
+msgid "Select item"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:362
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:50
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainer.php:51
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_gallery.php:68
+msgid "no title"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:371
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:18
+msgid "There is no item to choose from"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr.php:420
+msgid "Please, go back to Visual Composer, edit <strong>\""
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_accordion.php:46
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tabs.php:52
+msgid ""
+"Visual Composer team have decided to remove this version\n"
+"\t\t\t\t\t\t\t\t\t\t\tof shortcode, please remove existing shortcode and add a "
+"new one again.\n"
+"\t\t\t\t\t\t\t\t\t\t\tMore information about this can be found <a href="
+"\"http://support.wonster.co/forums/topic/current-accordion-tabs-shortcode-"
+"became-deprecated-since-version-4-6/\" target=\"_blank\" style=\"font-weight:"
+"bold;\">here</a>."
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_accordion.php:60
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tabs.php:81
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_accordion.php:41
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_tabs.php:61
+msgid "Initial Open"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_accordion.php:61
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_accordion.php:42
+msgid ""
+"Enter the number of the accordion Item that should be open initially,\n"
+"\t\t\t\t\t\t\t\t\t\tset to zero if all should be close on page load. <br/>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_accordion.php:74
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_accordion.php:55
+msgid "Behavior"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_accordion.php:75
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_accordion.php:56
+msgid "Specify behavior of your accordion"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_accordion.php:77
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_accordion.php:58
+msgid "Only one toggle open at a time (Accordion Mode)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_accordion.php:78
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_accordion.php:59
+msgid "Multiple toggles open allowed (Toggle Mode)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_accordion.php:104
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_accordion.php:85
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_tabs.php:89
+msgid "Section"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_accordion.php:110
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_accordion.php:91
+msgid "Accordion"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_animation.php:40
+msgid ""
+"<b>Important!</b> Shortcodes in WordPress have limitation which may affect "
+"the\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\tproper functioning of this element.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href='http://codex.wordpress.org/"
+"Shortcode_API#Nested_Shortcodes' target='blank'\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\tstyle='color:#8a6d3b; font-weight:bold; text-"
+"decoration: underline;'>Read more</a>."
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_animation.php:57
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_animation.php:41
+msgid "Animation Area"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:32
+msgid "Button link"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:33
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:43
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:35
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:284
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:59
+msgid "Where should your button link to?"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:42
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:283
+msgid "Button label"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:45
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:110
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:287
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:73
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:162
+msgid "Click me"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:52
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:32
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:48
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:108
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_image.php:42
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:89
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:91
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:99
+msgid "Element alignment"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:53
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:90
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:84
+msgid "Specify the alignment for your button"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:56
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:36
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:51
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:149
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:661
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:112
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:138
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_image.php:46
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:61
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:93
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:245
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:92
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:86
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:208
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:185
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:220
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:98
+msgid "Left"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:57
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:37
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:53
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:151
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:662
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:113
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:139
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_image.php:47
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:62
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:94
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:246
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:94
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:88
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:210
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:187
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:221
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:100
+msgid "Right"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:58
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:38
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:52
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:150
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:114
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_image.php:48
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:63
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:95
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:95
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:247
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:103
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:93
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:87
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:209
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:186
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:99
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:141
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:152
+msgid "Center"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:66
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:122
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:296
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:102
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:196
+msgid "Size"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:67
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:297
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:103
+msgid "Specify the size for your button"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:69
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:173
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:300
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:110
+msgid "Normal"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:70
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:301
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:111
+msgid "Big"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:78
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:96
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:42
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:140
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:43
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:177
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:311
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:125
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:119
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:162
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:69
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:71
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:178
+msgid "Color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:79
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:312
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:120
+msgid "Specify the color for your button"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:81
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:45
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:315
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:127
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:77
+msgid "Green"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:82
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:131
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:47
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:316
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:128
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:79
+msgid "Blue"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:83
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:317
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:129
+msgid "Navy"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:84
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:318
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:130
+msgid "Turquoise"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:85
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:46
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:319
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:131
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:78
+msgid "Yellow"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:86
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:320
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:132
+msgid "Orange"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:87
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:48
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:321
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:130
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:133
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:80
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:188
+msgid "Red"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:88
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:322
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:134
+msgid "Purple"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:89
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:323
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:135
+msgid "Gray"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:90
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:324
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:136
+msgid "Dark Gray"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:91
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:50
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:325
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:131
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:137
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:82
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:189
+msgid "White"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:92
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:326
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:138
+msgid "Black"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:100
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:336
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:146
+msgid "Button with rounded corners"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:103
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class.php:65
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:113
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:124
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:138
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:151
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:165
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:273
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:196
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:61
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:102
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:118
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:44
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:55
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_numeric.php:51
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:99
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:94
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:112
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainer.php:98
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:95
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:74
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:116
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:340
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:154
+msgid "Yes"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:104
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class.php:64
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:112
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:125
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:139
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:150
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:164
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:272
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:195
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:62
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:103
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:117
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:43
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:56
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_numeric.php:50
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:98
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:93
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:111
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainer.php:99
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:96
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:73
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:117
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:341
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:155
+msgid "No"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:112
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:351
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:163
+msgid "Button type"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:113
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:352
+msgid "Specify the type of your button"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:115
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:355
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:171
+msgid "Button filled with color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:116
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:356
+msgid "Button with transparent background"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:124
+msgid "Button style"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:125
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:367
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:181
+msgid "Define hover action"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:127
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:366
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:370
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:180
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:188
+msgid "Animated with icon"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:128
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:371
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:189
+msgid "Standard with background"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:136
+msgid "Full width button"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:137
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:198
+msgid "Decide, does the button fill the entire space in a column"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:139
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:258
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:271
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:284
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:297
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:312
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:327
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:342
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:35
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:158
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:213
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:368
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:386
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:110
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:123
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:136
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:149
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:162
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:168
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:261
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:147
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:161
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:176
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:190
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:206
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:223
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:67
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:161
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:177
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:194
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:210
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:226
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:208
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:225
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:243
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:261
+msgid "Off"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:140
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:257
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:270
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:283
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:296
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:311
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:326
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:341
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:36
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:159
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:214
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:369
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:387
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:109
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:122
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:135
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:148
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:161
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:169
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:262
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:146
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:160
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:175
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:189
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:205
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:222
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:66
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:160
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:176
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:193
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:209
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:225
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:207
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:224
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:242
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:260
+msgid "On"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_button.php:157
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:28
+msgid "Button"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class.php:34
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:104
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:44
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:34
+#: ../vc-wtr-admin/shortcodes/vc_wtr_gallery.php:34
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:32
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:61
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tabs.php:66
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:34
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainer.php:73
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:34
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_tabs.php:46
+msgid "Presentation style"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class.php:37
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:87
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:107
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:88
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:68
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:36
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_numeric.php:38
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:399
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:65
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:48
+#: ../vc-wtr-admin/shortcodes/vc_wtr_image_link.php:36
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:79
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:37
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tabs.php:69
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:37
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:50
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_tabs.php:49
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:106
+msgid "Standard"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class.php:38
+msgid "Metro left"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class.php:39
+msgid "Metro right"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class.php:47
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class.php:79
+msgid "Class"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class.php:48
+msgid "Select a class to be attached to content"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class.php:61
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:269
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:192
+msgid "Hide the difficulty of the classes"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:66
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:252
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:54
+msgid ""
+"<b>Important!</b> This element  may be used in a page\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<b>only in column 1/1</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:73
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:259
+msgid "Schedule"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:83
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:84
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:64
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:32
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_numeric.php:34
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:61
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:44
+#: ../vc-wtr-admin/shortcodes/vc_wtr_image_link.php:32
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:75
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:34
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:34
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:46
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:97
+msgid "Version"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:84
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:85
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:65
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:33
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_numeric.php:35
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:62
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:45
+#: ../vc-wtr-admin/shortcodes/vc_wtr_image_link.php:33
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:76
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:47
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:98
+msgid ""
+"Enable this option if you want to put this item on the background and make it\n"
+"\t\t\t\t\t\t\t\t\t\tmore attractive"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:88
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:89
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:69
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:37
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_numeric.php:39
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:66
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:49
+#: ../vc-wtr-admin/shortcodes/vc_wtr_image_link.php:37
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:80
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:174
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:51
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:107
+msgid "Light"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:96
+msgid "Don't show empty spaces when there is no classes"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:99
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:84
+msgid "Show"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:100
+msgid "Hide"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:109
+msgid "Modal"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:110
+msgid "Show additional info for classes"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:121
+msgid "Link Trainers / Class / Room?"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:135
+msgid "Include weekend inside your schedule"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:147
+msgid "Hide class details in header section"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:161
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:173
+msgid "Link to the timetable in PDF file"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:174
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:283
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:299
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:315
+msgid "Insert full url"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:188
+msgid "Class schedule"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_class_schedule.php:284
+msgid "Daily schedule"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:58
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainer.php:59
+msgid "There is no trainer to choose from"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:79
+msgid ""
+"<b>Important!</b> When viewing this element, fields\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<b>\"description of classes\"</b> include "
+"the information\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tentered in the <b>\"excerpt\"</b> for each "
+"of the classes"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:93
+msgid ""
+"<b>Important!</b> This element  may be used in a page\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<b>only in column 1/1</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:108
+#: ../vc-wtr-admin/shortcodes/vc_wtr_gallery.php:37
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_gallery.php:91
+msgid "Metro"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:109
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:37
+msgid "List"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:117
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_gallery.php:56
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:104
+msgid "Specify number of items in a row"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:120
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_gallery.php:59
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:107
+msgid "One"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:121
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_gallery.php:60
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:108
+msgid "Two"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:122
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_gallery.php:61
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:109
+msgid "Three"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:123
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_gallery.php:62
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:110
+msgid "Four"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:133
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:46
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:58
+#: ../vc-wtr-admin/shortcodes/vc_wtr_rooms.php:34
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:46
+msgid "Gym locations"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:144
+msgid "Include categories of classes"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:145
+msgid "Specify the category of the classes"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:155
+msgid "Filter by trainer"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:166
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:122
+#: ../vc-wtr-admin/shortcodes/vc_wtr_rooms.php:56
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:82
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:76
+msgid "Order by"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:167
+#: ../vc-wtr-admin/shortcodes/vc_wtr_rooms.php:57
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:77
+msgid "Specify in which order selected rooms should be displayed"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:169
+msgid "Date added (ascending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:170
+msgid "Date added (descending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:171
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:127
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:73
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:125
+#: ../vc-wtr-admin/shortcodes/vc_wtr_rooms.php:61
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:87
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:79
+msgid "Order value (ascending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:172
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:128
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:74
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:126
+#: ../vc-wtr-admin/shortcodes/vc_wtr_rooms.php:62
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:88
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:80
+msgid "Order value (descending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:173
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:129
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:75
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:127
+#: ../vc-wtr-admin/shortcodes/vc_wtr_rooms.php:63
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:89
+msgid "Title (ascending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:174
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:130
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:76
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:128
+#: ../vc-wtr-admin/shortcodes/vc_wtr_rooms.php:64
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:90
+msgid "Title (descending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:182
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:138
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:97
+#: ../vc-wtr-admin/shortcodes/vc_wtr_rooms.php:72
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:98
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:118
+msgid "Item limit"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_classes.php:210
+msgid "Classes"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:34
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:558
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:101
+msgid "Label"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:47
+msgid "Boxed table"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:48
+msgid "Slider"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:56
+msgid "Controls visibility"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:57
+msgid "Specify whether you want to see client slider controls"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:72
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:90
+msgid "Delay interval"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:99
+msgid "Open link in a new tab"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:111
+msgid "Include categories of clients"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:112
+msgid "Specify the category of the clients"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:123
+msgid "Specify in which order selected clients should be displayed"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:125
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:123
+msgid "Date added client (ascending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:126
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:124
+msgid "Date added clients (descending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_clients.php:153
+msgid "Clients"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:39
+msgid "Background type"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:42
+msgid "Transparent"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:43
+msgid "Solid color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:44
+#: ../vc-wtr-admin/shortcodes/vc_wtr_image_link.php:45
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:107
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:116
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:153
+msgid "Image"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:58
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:75
+#: ../vc-wtr-admin/shortcodes/vc_wtr_custom_list.php:74
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:154
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_list.php:134
+msgid "Background color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:92
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:188
+msgid "Backgorund image attribute"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:95
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:192
+msgid "Default"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:96
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:193
+msgid "Cover"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:97
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:194
+msgid "Contain"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:98
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:195
+msgid "No Repeat"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:99
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:196
+msgid "Repeat"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_column.php:114
+msgid "Rounded corners on column edges"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:40
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:70
+msgid "Auto slide"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:52
+msgid "Navigation dots visibility"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:79
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:82
+msgid "Time between slides"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:82
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:85
+msgid "1.0 second"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:83
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:86
+msgid "1.5 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:84
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:87
+msgid "2.0 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:85
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:88
+msgid "2.5 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:86
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:89
+msgid "3.0 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:87
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:90
+msgid "3.5 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:88
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:91
+msgid "4.0 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:89
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:92
+msgid "4.5 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:90
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:93
+msgid "5.0 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:91
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:94
+msgid "5.5 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:92
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:95
+msgid "6.0 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:93
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:96
+msgid "6.5 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:94
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:97
+msgid "7.0 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:95
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:98
+msgid "7.5 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:96
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:99
+msgid "8.0 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:97
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:100
+msgid "8.5 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:98
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:101
+msgid "9.0 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:99
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:102
+msgid "9.5 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:100
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:103
+msgid "10.0 seconds"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:115
+msgid "Content Slider"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_content_slider.php:136
+msgid "Content Slider - Slide"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:45
+msgid "Set a year"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:46
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:78
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:98
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:64
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:100
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:190
+msgid "Value must be a number"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:55
+msgid "Set a month"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:58
+msgid "January"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:59
+msgid "February"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:60
+msgid "March"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:61
+msgid "April"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:62
+msgid "May"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:63
+msgid "June"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:64
+msgid "July"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:65
+msgid "August"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:66
+msgid "September"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:67
+msgid "October"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:68
+msgid "November"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:69
+msgid "December"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:77
+msgid "Set a day"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:87
+msgid "Set an hour"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:88
+msgid "<b>Format 24 hour clock</b>. Value must be a number eg. 8, 17"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:97
+msgid "Set a minute"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_countdown.php:109
+msgid "Countdown"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:33
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:109
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_image.php:43
+msgid "Specify the alignment for your element"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:46
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_numeric.php:59
+msgid "Value"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:47
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:77
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_numeric.php:60
+msgid "Final value. <b>Please, use only numeric signs</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:56
+msgid "Counting Speed"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:66
+msgid "Active counting color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:76
+msgid "Line weight"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:87
+msgid "Counting color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:97
+msgid "Font color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_circle.php:109
+msgid "Counter Circle"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_numeric.php:47
+msgid "Easing effect"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_numeric.php:69
+msgid "Counting time - from the start to the end"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_numeric.php:79
+msgid "Counter color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_numeric.php:91
+msgid "Counter border"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_counter_numeric.php:105
+msgid "Counter Numeric"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_custom_list.php:43
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_list.php:47
+msgid "Custom List"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_custom_list.php:64
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:134
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:186
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_list.php:120
+msgid "Icon color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_custom_list.php:65
+#: ../vc-wtr-admin/shortcodes/vc_wtr_custom_list.php:75
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:97
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:141
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:163
+msgid "Specify the color for your icon"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_custom_list.php:84
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:40
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:161
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:86
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:153
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:67
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:83
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:108
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:128
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tabs.php:130
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_section.php:56
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:70
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:220
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:147
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_list.php:146
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:125
+msgid "Icon"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_custom_list.php:85
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:162
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:87
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:68
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:84
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:129
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tabs.php:131
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_section.php:57
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:221
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:148
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_list.php:147
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:126
+msgid "Select the icon set"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_custom_list.php:94
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:672
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:89
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:32
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:93
+msgid "Content"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_custom_list.php:95
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:673
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:94
+msgid "the contents of the container"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_custom_list.php:97
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:675
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_list.php:60
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_list.php:61
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_list.php:63
+msgid "Please insert code here"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_custom_list.php:105
+msgid "Custom List - Item"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:32
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:58
+msgid "Divider style"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:35
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:65
+msgid "Invisible"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:36
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:66
+msgid "Line"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:37
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:67
+msgid "Dots"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:38
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:68
+msgid "Dashed"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:39
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:69
+msgid "Peaks"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:63
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:99
+msgid "Height"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:75
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:114
+msgid "Width (expressed as a percentage)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:78
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:121
+msgid "100 %"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:79
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:122
+msgid "90 %"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:80
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:123
+msgid "80 %"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:81
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:124
+msgid "70 %"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:82
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:125
+msgid "60 %"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:83
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:126
+msgid "50 %"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:84
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:127
+msgid "40 %"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:85
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:128
+msgid "30 %"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:86
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:129
+msgid "20 %"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:87
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:130
+msgid "10 %"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:98
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:141
+msgid "Width (expressed as a quantitatively)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:99
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:142
+msgid "Value must be a number eg.  10"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:110
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:156
+msgid "Line color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:122
+msgid "Element color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:146
+msgid "Icon alignment"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_divider.php:178
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:42
+msgid "Divider"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_event.php:34
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:46
+msgid "Mode"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_event.php:37
+msgid "Box left"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_event.php:38
+msgid "Box right"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_event.php:46
+msgid "Event name"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_event.php:47
+msgid "Select a event to be attached to content"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_event.php:64
+msgid "Event"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:38
+msgid "Box"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:57
+msgid "Events category"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:58
+msgid "Select a events to be attached to content"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:68
+msgid "Order events by"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:69
+msgid "Specify the order of events category"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:71
+msgid "Date event (ascending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:72
+msgid "Date event (descending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:87
+msgid "All"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:88
+msgid "Upcoming"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_events.php:112
+msgid "Events"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_gallery.php:35
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_gallery.php:84
+msgid "Choose the type of your gallery"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_gallery.php:38
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_gallery.php:92
+msgid "Flex slider"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_gallery.php:46
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_gallery.php:100
+msgid "Galleries"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_gallery.php:47
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_gallery.php:101
+msgid "Select a gallery to be attached to content"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_gallery.php:66
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_gallery.php:42
+msgid "Gallery"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:71
+msgid ""
+"<b>Important!</b> For the <b>&#34;street view panorama&#34;</b> is\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tnot recommended to use additional components "
+"such as\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<b>&#34;markers&#34;</b> or <b>&#34;road "
+"map&#34;</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:79
+msgid "Map types"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:80
+msgid "Specify the type of your map"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:82
+msgid "ROADMAP - displays the default road map view"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:83
+msgid "SATELLITE - displays Google Earth satellite images"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:84
+msgid "HYBRID - displays a mixture of normal and satellite views"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:85
+msgid "TERRAIN - displays a physical map based on terrain information"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:86
+msgid "STREET VIEW PANORAMA"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:95
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:108
+msgid "Heading"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:96
+msgid ""
+"The camera heading in degrees relative to true north. True north is <b>0°</"
+"b>,\n"
+"\t\t\t\t\t\t\t\t\t\teast is <b>90°</b>, south is <b>180°</b>, west is <b>270°</"
+"b>. </br><b>Value must be a number.</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:99
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:113
+msgid "0"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:109
+msgid ""
+"The camera pitch in degrees, relative to the street view vehicle.\n"
+"\t\t\t\t\t\t\t\t\t\tRanges from <b>90°</b> (directly upwards) to <b>-90°</b> "
+"(directly downwards).\n"
+"\t\t\t\t\t\t\t\t\t\t</br><b>Value must be a number.</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:122
+msgid "Map style"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:123
+msgid "Specify the style of your map"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:125
+msgid "Standard style"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:126
+msgid "Apple Maps-esque"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:127
+msgid "Aqua"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:128
+msgid "Avocado World"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:129
+msgid "Bates Green"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:130
+msgid "Bentley"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:132
+msgid "Blueprint (No Labels)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:133
+msgid "Blueprint"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:134
+msgid "Blue Essence"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:135
+msgid "Blue Gray"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:136
+msgid "Blue Water"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:137
+msgid "Bluish"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:138
+msgid "Bright & Bubbly"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:139
+msgid "Candy Colours"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:140
+msgid "Caribbean Mountain"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:141
+msgid "Chilled"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:142
+msgid "Cobalt"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:143
+msgid "Countries"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:144
+msgid "Deep Green"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:145
+msgid "Esperanto"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:146
+msgid "Flat green"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:147
+msgid "Flat Map"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:148
+msgid "Gowalla"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:149
+msgid "Greyscale"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:150
+msgid "Hard Edges"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:151
+msgid "Hints of Gold"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:152
+msgid "Holiday"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:153
+msgid "Homage to Toner"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:154
+msgid "Hopper"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:155
+msgid "Hot Pink"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:156
+msgid "Icy Blue"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:157
+msgid "Jane Iredale"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:158
+msgid "Just places"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:159
+msgid "Light Green"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:160
+msgid "Light Monochrome"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:161
+msgid "Lunar Landscape"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:162
+msgid "MapBox"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:163
+msgid "Midnight Commander"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:164
+msgid "Military Flat"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:165
+msgid "Mixed"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:166
+msgid "Nature"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:167
+msgid "Neon World"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:168
+msgid "Neutral Blue"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:169
+msgid "Night vision"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:170
+msgid "Old Timey"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:171
+msgid "Old Dry Mud"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:172
+msgid "Pale Dawn"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:173
+msgid "Paper"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:174
+msgid "Red Alert"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:175
+msgid "Red Hues"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:176
+msgid "Retro"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:177
+msgid "Roadtrip At Night"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:178
+msgid "Route XL"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:179
+msgid "Shades of Grey"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:180
+msgid "Shift Worker"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:181
+msgid "Simple Labels"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:182
+msgid "Snazzy Maps"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:183
+msgid "Souldisco"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:184
+msgid "Subtle"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:185
+msgid "Subtle Grayscale"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:186
+msgid "Subtle Green"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:187
+msgid "Subtle Greyscale Map"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:188
+msgid "The Endless Atlas"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:189
+msgid "Tripitty"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:190
+msgid "Turquoise Water"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:191
+msgid "Unimposed Topography"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:192
+msgid "Unsaturated Browns"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:193
+msgid "Vintage"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:194
+msgid "Vintage Blue"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:195
+msgid "Vitamin C"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:209
+msgid "Center the map"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:210
+msgid ""
+"To center the map, use the red pin. Pin location centers the map. Important, "
+"be vigilant, of this setting depends on what area of ​​the map will be visible "
+"on your page."
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:226
+msgid "Map height"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:227
+msgid "Specify the height of your map. <b>Value must be a number.</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:229
+msgid "500"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:236
+msgid "Map zoom"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:237
+msgid "Zoom value from 1 to 21 where 21 is the greatest and 1 the smallest."
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:253
+msgid "Scrollwheel"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:254
+msgid "Set to false to disable zooming with your mouse scrollwheel."
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:266
+msgid "Move controls"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:279
+msgid "Zoom controls"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:280
+msgid "Set to false to disable map zoom controls."
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:292
+msgid "Map type controls"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:293
+msgid "Set to false to disable type controls."
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:307
+msgid "Address control"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:322
+msgid "Click ToGo"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:337
+msgid "Disable default UI"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:353
+msgid "Google Maps"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:375
+msgid "Marker title"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:376
+msgid "This name will appear when your cursor hover the marker placed on the map"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:378
+msgid "e.g. Envato - PO Box 16122 Collins Street West"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:385
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:76
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:57
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:270
+msgid "Link"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:386
+msgid "Where should your marker link to?"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:395
+msgid "Marker style"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:400
+msgid "My own"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:401
+msgid "Pin - red circle"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:402
+msgid "Pin - red stars"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:403
+msgid "Pin - blue blank"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:404
+msgid "Pin - blue circle"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:405
+msgid "Pin - blue stars"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:406
+msgid "Pin - light blue blank"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:407
+msgid "Pin - light blue circle"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:408
+msgid "Pin - light blue stars"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:409
+msgid "Pin - green blank"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:410
+msgid "Pin - green circle"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:411
+msgid "Pin - green stars"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:412
+msgid "Pin - pink blank"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:413
+msgid "Pin - pink circle"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:414
+msgid "Pin - pink stars"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:415
+msgid "Pin - purple blank"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:416
+msgid "Pin - purple circle"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:417
+msgid "Pin - purple stars"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:418
+msgid "Pin - white blank"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:419
+msgid "Pin - white circle"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:420
+msgid "Pin - white stars"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:421
+msgid "Pin - yellow blank"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:422
+msgid "Pin - yellow circle"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:423
+msgid "Pin - yellow stars"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:424
+msgid "Pin - 1"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:425
+msgid "Pin - 2"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:426
+msgid "Pin - 3"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:427
+msgid "Pin - 4"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:428
+msgid "Pin - 5"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:429
+msgid "Pin - 6"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:430
+msgid "Pin - 7"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:431
+msgid "Pin - 8"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:432
+msgid "Pin - 9"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:433
+msgid "Pin - 10"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:434
+msgid "Pin - A"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:435
+msgid "Pin - B"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:436
+msgid "Pin - C"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:437
+msgid "Pin - D"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:438
+msgid "Pin - E"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:439
+msgid "Pin - F"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:440
+msgid "Pin - G"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:441
+msgid "Pin - H"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:442
+msgid "Pin - I"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:443
+msgid "Pin - J"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:444
+msgid "Pin - K"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:445
+msgid "Pin - L"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:446
+msgid "Pin - M"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:447
+msgid "Pin - N"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:448
+msgid "Pin - O"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:449
+msgid "Pin - P"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:450
+msgid "Pin - Q"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:451
+msgid "Pin - R"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:452
+msgid "Pin - S"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:453
+msgid "Pin - T"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:454
+msgid "Pin - U"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:455
+msgid "Pin - V"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:456
+msgid "Pin - W"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:457
+msgid "Pin - X"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:458
+msgid "Pin - Y"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:459
+msgid "Pin - Z"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:460
+msgid "Push pin - blue"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:461
+msgid "Push pin -  green"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:462
+msgid "Push pin -  light blue"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:463
+msgid "Push pin -  pink"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:464
+msgid "Push pin -  purple"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:465
+msgid "Push pin -  red"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:466
+msgid "Push pin -  white"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:467
+msgid "Push pin -  yellow"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:468
+msgid "Track - 1"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:469
+msgid "Track - 2"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:470
+msgid "Track - 3"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:471
+msgid "Track - 4"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:472
+msgid "Track - 5"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:473
+msgid "Track - 6"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:474
+msgid "Track - 7"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:475
+msgid "Track - 8"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:476
+msgid "Track - 9"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:477
+msgid "Track - 10"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:478
+msgid "Track - 11"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:479
+msgid "Track - 12"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:480
+msgid "Track - 13"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:481
+msgid "Track - 14"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:482
+msgid "Track - 15"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:483
+msgid "Custom pin - 1"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:484
+msgid "Custom pin - 2"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:485
+msgid "Custom pin - 3"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:486
+msgid "Custom pin - 4"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:487
+msgid "Custom pin - arrow"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:488
+msgid "Custom pin - plus 1"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:489
+msgid "Custom pin - plus 2"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:490
+msgid "Custom pin - home"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:491
+msgid "Custom pin - forbidden"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:492
+msgid "Custom pin - gas stations"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:493
+msgid "Custom pin - market 1"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:494
+msgid "Custom pin - market 2"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:495
+msgid "Custom pin - church"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:496
+msgid "Custom pin - restaurant"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:497
+msgid "Custom pin - info 1"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:498
+msgid "Custom pin - info 2"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:499
+msgid "Custom pin - info 3"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:507
+msgid "Upload your own maker"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:519
+msgid "Marker coordinates"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:520
+msgid ""
+"To specify the coordinates of the marker you can use our search engine "
+"located\n"
+"\t\t\t\t\t\t\t\t\t\tabove the map. You can change the position of the cursor "
+"by dragging it to the\n"
+"\t\t\t\t\t\t\t\t\t\tdesired location"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:538
+msgid "Google Maps - Marker"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:559
+msgid "The name of the road"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:561
+msgid "Road #1"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:568
+msgid "Color line"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:578
+msgid "Weight line road"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:593
+msgid "Road coordinates"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:623
+msgid "Google Maps - Road"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:651
+msgid ""
+"<b>Important!</b> For one map is recommended to use\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tonly one container."
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:658
+msgid "Container alignment"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_google_maps.php:685
+msgid "Google Maps - Container"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_hover_box.php:32
+msgid "Base image"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_hover_box.php:42
+msgid "Image on hover"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_hover_box.php:52
+#: ../vc-wtr-admin/shortcodes/vc_wtr_image_link.php:75
+msgid "Link url"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_hover_box.php:53
+#: ../vc-wtr-admin/shortcodes/vc_wtr_image_link.php:76
+msgid "Where should your image link to?"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_hover_box.php:67
+msgid "Hover Box"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:32
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:58
+msgid "Icon in circle"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:44
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:75
+msgid "Circle style"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:47
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:83
+msgid "Style 1"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:48
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:84
+msgid "Style 2"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:49
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:85
+msgid "Style 3"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:50
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:86
+msgid "Style 4"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:51
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:87
+msgid "Style 5"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:77
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:58
+msgid "Where should your link to?. <b>Optional field</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:123
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:197
+msgid ""
+"Specify the size of the selected icon. <b>Please, use only numeric signs</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon.php:134
+msgid "Element float"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:35
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:64
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:60
+msgid "Boxed"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:36
+msgid "Slim"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:77
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:83
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:131
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:65
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:236
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:341
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:446
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:551
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:186
+msgid "Title"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:78
+msgid "Title of the container"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:90
+msgid "Contents of the container"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_icon_box.php:119
+msgid "Icon Box"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_image_link.php:55
+msgid "Link headline"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_image_link.php:65
+msgid "Link label"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_image_link.php:90
+msgid "Image link"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_gallery.php:32
+msgid "AccessToken"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_gallery.php:33
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_gallery.php:45
+msgid ""
+"If you do not know where to get the data for this field please refer to\n"
+"\t\t\t\t\t\t\t\t\t\t<a target=\"_blank\" href=\"http://support.wonster.co/"
+"manual/symetrio/instagram-manual/\" style=\"font-weight:bold;\">this material</"
+"a>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_gallery.php:44
+msgid "User ID"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_gallery.php:63
+msgid "Five"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_gallery.php:73
+msgid "Limit"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_gallery.php:74
+msgid "Maximum value: 20"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_gallery.php:91
+msgid "Instagram Gallery"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_image.php:32
+msgid "Image ID"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_image.php:33
+msgid "eg. <b>r83mWeIhwH</b> from http://instagram.com/p/<b>r83mWeIhwH</b>/"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_instagram_image.php:58
+msgid "Instagram Image"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:27
+msgid "Include all categories"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:65
+msgid "News slider"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:66
+msgid "Timeline"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:67
+msgid "Fancy list"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:102
+msgid "Number of news"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:112
+msgid "Post excerpt length (signs)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:124
+msgid "Include categories of news"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:125
+msgid "Specify the category of the news ( you can choose more than one "
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:144
+msgid ""
+"<b>Important!</b> You can use only one <b>\"News\"</b>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tshortcode with pagination on the one page.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUsing several elements of this type with "
+"enabled\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tpagination may result errors."
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:155
+msgid "Paginate"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_news.php:174
+msgid "News"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:32
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:57
+msgid "Your message"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:33
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:58
+msgid "Notification message"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:35
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:59
+msgid "Information"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:43
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:70
+msgid "Specify the color for your notification message"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:49
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:81
+msgid "Grey"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:58
+msgid "Text alignment"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:59
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:91
+msgid "Specify the alignment for your message"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:71
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:108
+msgid "Notification icon"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:72
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tabs.php:117
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_section.php:43
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:109
+msgid ""
+"Specify the visibility of an icon (icon will display on the left before text)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:74
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tabs.php:119
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_section.php:45
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:116
+msgid "No icon"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:75
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tabs.php:120
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_section.php:46
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:117
+msgid "Yes ,display icon"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:95
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:141
+msgid "Notification link"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:96
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:142
+msgid "Is the notification message will contain a link?"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:107
+msgid "Link title"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:108
+msgid "This is the text that appears on your link"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:119
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:118
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:175
+msgid "Link URL"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:120
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:119
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:176
+msgid "Where should notification link to?"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_notification.php:136
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:41
+msgid "Notification"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:33
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:43
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:63
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:73
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:83
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:93
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:103
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:113
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:123
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:133
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:143
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:153
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:163
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:173
+msgid "Leave this field blank if you don't want display content"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:42
+msgid "Monday (label)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:45
+msgid "Monday"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:52
+msgid "Monday open hours"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:62
+msgid "Tuesday (label)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:65
+msgid "Tuesday"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:72
+msgid "Tuesday open hours"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:82
+msgid "Wednesday (label)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:85
+msgid "Wednesday"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:92
+msgid "Wednesday open hours"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:102
+msgid "Thursday (label)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:105
+msgid "Thursday"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:112
+msgid "Thursday open hours"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:122
+msgid "Friday (label)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:125
+msgid "Friday"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:132
+msgid "Friday open hours"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:142
+msgid "Saturday (label)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:145
+msgid "Saturday"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:152
+msgid "Saturday open hours"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:162
+msgid "Sunday (label)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:165
+msgid "Sunday"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:172
+msgid "Sunday open hours"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_open_hours.php:187
+msgid "Open Hours"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_pass.php:34
+#: ../vc-wtr-admin/shortcodes/vc_wtr_pass.php:53
+msgid "Pass"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_pass.php:35
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:82
+msgid "Select a pass to be attached to content"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:38
+msgid "Dark"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:49
+msgid "Show tickets only from 1 category"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:50
+msgid "Show several categories ticket"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:69
+msgid "Select a pass category to be attached to content"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:81
+msgid "Passes category"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:94
+msgid "Specify a category, which item should be open initially"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:106
+msgid "Order passes category by"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:107
+msgid "Specify in which order selected pass category should be displayed"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:109
+msgid "Category title (ascending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:110
+msgid "Category title (descending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:120
+msgid "Order passes by"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:121
+msgid "Specify the order of pass category"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_passes.php:141
+msgid "Passes"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:37
+msgid "Image button"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:38
+msgid "Simple button"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:39
+msgid "Call to action headline"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:49
+msgid "Button image"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:61
+msgid "Button image on hover"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:74
+msgid "Style"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:77
+msgid "Simple button with cart icon on right"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:78
+msgid "Simple button with paypal icon on right"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:79
+msgid "Simple button with cart icon on left"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:80
+msgid "Simple button with paypal icon on left"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:105
+msgid "Button background color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:117
+msgid "Button font color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:129
+msgid "Button background color on hover"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:141
+msgid "Button font color on hover"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:156
+msgid "Button text"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:159
+msgid "Buy now"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:170
+msgid "Call to action"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:183
+msgid "Headline text"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:195
+msgid "Description text"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:207
+msgid "Price"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:208
+msgid "<b>Please, use only decimal format</b>. For example: 10.00"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:210
+msgid "10.00"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:217
+msgid "Your PayPal e-mail adres"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:227
+msgid "PayPal transaction name"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:239
+msgid "Currency Code"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:240
+msgid ""
+"* This currency does not support decimals. Passing a decimal amount will "
+"result\n"
+"\t\t\t\t\t\t\t\t\t\tin an error.<br /> ** This currency is supported as a "
+"payment currency and a currency\n"
+"\t\t\t\t\t\t\t\t\t\tbalance for in-country PayPal accounts only."
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_paypal.php:257
+msgid "PayPal"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_rooms.php:45
+msgid "Include categories of rooms"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_rooms.php:46
+msgid "Specify the category of the rooms"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_rooms.php:59
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:85
+msgid "Date added testimonial (ascending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_rooms.php:60
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:86
+msgid "Date added testimonial (descending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_rooms.php:87
+msgid "Rooms"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:57
+msgid "Row type"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:61
+msgid "Full width with inner container"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:62
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tabs.php:70
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_tabs.php:50
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:197
+msgid "Full width"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:73
+msgid "Columns type"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:76
+msgid "Spacing between columns"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:77
+msgid "No spacing between the columns"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:90
+msgid "Auto height columns"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:108
+msgid "Place this row above the navigation"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:109
+msgid "Do not use this option if on this page  transparent navigation is enabled"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:135
+msgid "Type section"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:139
+msgid "Color background"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:140
+msgid "Transparent background"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:141
+msgid "Image background"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:142
+msgid "Video background"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:155
+msgid "Specify the color of your background"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:171
+msgid "Backgorund image"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:209
+msgid "Overlay"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:227
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:165
+msgid "Overlay color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:228
+msgid "Specify the color of your overlay"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:243
+msgid "Background image effect"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:248
+msgid "True parallax"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:249
+msgid "Static parallax"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:263
+msgid "Type of the video"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:267
+msgid "Local video"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:268
+msgid "Video from YouTube"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:269
+msgid "Video from Vimeo"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:282
+msgid "Video - MP4 file"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:298
+msgid "Video - OGG file"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:314
+msgid "Video - WEBM file"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:330
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:347
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:32
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:32
+msgid "Movie ID"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:331
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:33
+msgid ""
+"Working example: http://www.youtube.com/watch?v=<b>G0k3kHtyoqc</b>.\n"
+"\t\t\t\t\t\t\t\t\t\tPlease insert only: <b>G0k3kHtyoqc</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:348
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:33
+msgid ""
+"Working example: http://vimeo.com/<b>75746181</b><br/>\n"
+"\t\t\t\t\t\t\t\t\t\tPlease insert only: <b>75746181</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:364
+msgid "Sound"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:382
+msgid "Show control video film"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:400
+msgid "Poster"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:401
+msgid "Displayed only on mobile devices"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_row.php:495
+msgid ""
+"THIS TYPE OF ROW DOESN’T WORK ON A PAGE WITH A SIDEBAR. PLEASE CHANGE THE TYPE "
+"OF ROW TO BOXED OR REMOVE THE SIDEBAR."
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:50
+msgid "<b>Important!</b> The maximum number of steps is: 6"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:61
+msgid "Step by Step"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:84
+msgid "the title of the container"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:103
+msgid "Type the graphic"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_step_by_step.php:152
+msgid "Step by Step - Item"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tabs.php:82
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_tabs.php:62
+msgid "Specify a <b>number</b>, which tab item should be open initially"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tabs.php:110
+msgid "Tab"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tabs.php:116
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_section.php:42
+msgid "Tab icon"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tabs.php:144
+#: ../vc-wtr-admin/shortcodes/vc_wtr_tta_tabs.php:95
+msgid "Tabs"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:38
+msgid "Carusel"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:59
+msgid "Interval"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:71
+msgid "Include categories of testimonial"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:72
+msgid "Specify the category of the testimonial"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:83
+msgid "Specify in which order selected testimonials should be displayed"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_testimonial.php:113
+msgid "Testimonial"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainer.php:76
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:37
+msgid "Blur background"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainer.php:77
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:38
+msgid "Square list "
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainer.php:85
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainer.php:112
+msgid "Trainer"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainer.php:95
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:92
+msgid "Trainer detail link"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:56
+msgid "Trainers specializations"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:66
+msgid "Trainers functions"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:81
+msgid "Name (ascending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:82
+msgid "Name (descending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:83
+msgid "Last name (ascending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:84
+msgid "Last name (descending)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_trainers.php:133
+msgid "Trainers"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:44
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:72
+msgid "Specify the color of the video controls."
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:53
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:44
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:83
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:71
+msgid "Movie size"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:56
+msgid "Big ( 750 x 422 )"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:57
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:92
+msgid "Medium ( 500 x 281 )"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:58
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:93
+msgid "Small ( 360 x 202 )"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:59
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:51
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:94
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:83
+msgid "Custom"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:67
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:59
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:103
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:93
+msgid "Video width"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:68
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:60
+msgid "Enter a value for the width. <b>Please, use only numeric signs</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:79
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:71
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:118
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:108
+msgid "Video height"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:80
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:72
+msgid "Enter a value for the height. <b>Please, use only numeric signs</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:92
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:100
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:133
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:144
+msgid "Specify the alignment for your movie"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:105
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:141
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:152
+msgid "Autoplay"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:106
+msgid ""
+"Play the video automatically on load.<b>Note that this won’t work on some "
+"devices</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:118
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:169
+msgid "Portrait"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:119
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:170
+msgid "Show the user’s portrait on the Video"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:132
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:187
+msgid "Show the title on the video"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:144
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:202
+msgid "User’s byline"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:145
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:203
+msgid "Show the user’s byline on the video"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:157
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:218
+msgid "Play video in loop"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:158
+msgid "Play the video again when it reaches the end"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_vimeo.php:170
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:42
+msgid "Vimeo"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:45
+msgid "Choose slide effect"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:48
+msgid "Soft scale"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:49
+msgid "Press away"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:50
+msgid "Side Swing"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:51
+msgid "Fortune wheel"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:52
+msgid "Swipe"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:53
+msgid "Push reveal"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:54
+msgid "Snap in"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:55
+msgid "Let me in"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:56
+msgid "Stick it"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:57
+msgid "Archive me"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:58
+msgid "Vertical growth"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:59
+msgid "Slide Behind"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:60
+msgid "Soft Pulse"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:61
+msgid "Earthquake"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:62
+msgid "Cliff diving"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:113
+msgid "Stop autoplay slider when mouse hover on"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:131
+msgid "Wonster Slider"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:190
+msgid "Headline"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:200
+msgid "Headline color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:211
+msgid "Lead 1"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:221
+msgid "Lead 2"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:231
+msgid "Leads color"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:242
+msgid "Content alignment"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:257
+msgid "Button with link"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:271
+msgid "Where should  link to?"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_wonster_slider.php:383
+msgid "Wonster Slider - Slide"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:36
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:129
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:207
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:312
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:417
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:522
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:637
+msgid "Products per page"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:46
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:139
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:217
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:322
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:427
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:532
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:647
+msgid "Number of columns of products"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:49
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:142
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:220
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:325
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:430
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:535
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:650
+msgid " 5 "
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:50
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:143
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:221
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:326
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:431
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:536
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:651
+msgid " 4 "
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:51
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:144
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:222
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:327
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:432
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:537
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:652
+msgid " 3 "
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:52
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:145
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:223
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:328
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:433
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:538
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:653
+msgid " 2 "
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:53
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:146
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:224
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:329
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:434
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:539
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:654
+msgid " 1 "
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:61
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:232
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:337
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:442
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:547
+msgid "Sorting by attribute"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:64
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:235
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:340
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:445
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:550
+msgid "Menu order"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:66
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:237
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:342
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:447
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:552
+msgid "Date"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:67
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:238
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:343
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:448
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:553
+msgid "Rand"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:68
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:239
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:344
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:449
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:554
+msgid "ID"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:79
+msgid "WooCommerce Related Products"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:157
+msgid "WooCommerce Best Selling Products"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:247
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:352
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:457
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:562
+msgid "Sort order"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:250
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:355
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:460
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:565
+msgid "Ascending (A-Z)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:251
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:356
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:461
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:566
+msgid "Descending (Z-A)"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:262
+msgid "WooCommerce Sale Products"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:367
+msgid "WooCommerce Featured Products"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:472
+msgid "WooCommerce Top Rated Products"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:574
+msgid "Category"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:575
+msgid "Go to: WooCommerce > Products > Categories to find the slug column"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:587
+msgid "WooCommerce Product Category"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_woo.php:665
+msgid "WooCommerce Recent Product"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:47
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:79
+msgid "Super big ( 960 x 720 )"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:48
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:80
+msgid "Big ( 640 x 480 )"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:49
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:81
+msgid "Medium ( 480 x 360 )"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:50
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:82
+msgid "Small ( 420 x 315 )"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:83
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:122
+msgid "Movie resolution"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:84
+msgid ""
+"If you select a higher resolution than available for this film,\n"
+"\t\t\t\t\t\t\t\t\t\tYouTube automatically select the highest available "
+"resolution"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:87
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:131
+msgid "Small - 240p"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:88
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:132
+msgid "Medium - 360p"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:89
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:133
+msgid "Large - 480p"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:90
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:134
+msgid "HD Ready - 720p"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:91
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:135
+msgid "Full HD - 1080p"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:111
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:160
+msgid "Theme"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:112
+msgid ""
+"This parameter indicates whether the embedded player will display player\n"
+"\t\t\t\t\t\t\t\t\t\tcontrols (like a 'play' button or volume control) within a "
+"dark or light\n"
+"\t\t\t\t\t\t\t\t\t\tcontrol bar"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:116
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:170
+msgid "Dark theme"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:117
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:171
+msgid "Light theme"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:126
+msgid ""
+"This parameter specifies the color that will be used in the player's video\n"
+"\t\t\t\t\t\t\t\t\t\tprogress bar to highlight the amount of the video that the "
+"viewer has already\n"
+"\t\t\t\t\t\t\t\t\t\tseen"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:142
+msgid ""
+"Play the video automatically on load. <b>Note that this won’t work on some\n"
+"\t\t\t\t\t\t\t\t\t\tdevices</b>"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:155
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:216
+msgid "Show controls"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:156
+msgid ""
+"This parameter indicates whether the video player controls will\n"
+"\t\t\t\t\t\t\t\t\t\tdisplay"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:169
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:233
+msgid "Show info about author"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:170
+msgid ""
+"If you set the parameter value to \"Off\", then the player will not display\n"
+"\t\t\t\t\t\t\t\t\t\tinformation like the video title and uploader before the "
+"video starts\n"
+"\t\t\t\t\t\t\t\t\t\tplaying"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:184
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:252
+msgid "Show related videos"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:185
+msgid ""
+"This parameter indicates whether the player should show related videos when\n"
+"\t\t\t\t\t\t\t\t\t\tplayback of the initial video ends"
+msgstr ""
+
+#: ../vc-wtr-admin/shortcodes/vc_wtr_youtube.php:199
+msgid "Youtube"
+msgstr ""
+
+#: ../vc-wtr-admin/vc_wtr_system.php:210
+#, php-format
+msgid ""
+"<strong>%s</strong> - This plugin works only with Symetrio theme created by\n"
+"\t\t\t\t\t\t\t Wonster Team"
+msgstr ""
+
+#: ../vc-wtr-admin/vc_wtr_system.php:222
+#, php-format
+msgid ""
+"<strong>%s</strong> - This plugin works only with <b>WonsterCustom type - "
+"Symetrio Edition</b> created by\n"
+"\t\t\t\t\t\t\t Wonster Team"
+msgstr ""
+
+#: ../vc-wtr-admin/vc_wtr_system.php:233
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong>Visual Composer</strong>\n"
+"\t\t\t\tplugin to be activated on your site."
+msgstr ""
+
+#: ../vc-wtr-admin/vc_wtr_system.php:244
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong> Visual Composer</strong> version <strong>"
+"%s</strong> to be  activated on your site.\n"
+"\t\t\t\t"
+msgstr ""
+
+#: ../vc-wtr-admin/vc_wtr_system.php:254
+msgid "Raw HTML"
+msgstr ""
+
+#: ../vc-wtr-admin/vc_wtr_system.php:261
+msgid "Raw JavaScript"
+msgstr ""
+
+#: ../wtr-admin/page-builder/tinymce/class/wtr_shortcode_tpl.php:53
+msgid "Shortcode"
+msgstr ""
+
+#: ../wtr-admin/page-builder/tinymce/class/wtr_shortcode_tpl.php:70
+msgid "Preview shortcode"
+msgstr ""
+
+#: ../wtr-admin/page-builder/tinymce/class/wtr_shortcode_tpl.php:77
+msgid "&nbsp;&nbsp;&nbsp;Insert sortcode&nbsp;&nbsp;&nbsp;"
+msgstr ""
+
+#: ../wtr-admin/page-builder/tinymce/class/wtr_shortcode_tpl.php:79
+#: ../wtr-admin/page-builder/tinymce/class/wtr_shortcode_tpl.php:114
+msgid "Save changes"
+msgstr ""
+
+#: ../wtr-admin/page-builder/tinymce/class/wtr_shortcode_tpl.php:100
+msgid "Edit Item"
+msgstr ""
+
+#: ../wtr-admin/page-builder/tinymce/view/shortcodePrev.php:25
+msgid "shortcode preview"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_animation.php:58
+msgid ""
+"<b>Important!</b> Shortcodes in WordPress have limitation which may affect\n"
+"\t\t\t\t\t\t\t\t\t\t\tthe proper functioning of this element.\n"
+"\t\t\t\t\t\t\t\t\t\t\t<a href=\"http://codex.wordpress.org/"
+"Shortcode_API#Nested_Shortcodes\"\n"
+"\t\t\t\t\t\t\t\t\t\t\ttarget=\"blank\" style=\"color:#8a6d3b; font-weight:"
+"bold; text-decoration:\n"
+"\t\t\t\t\t\t\t\t\t\t\tunderline;\">Read more</a>"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_animation.php:78
+msgid "Insert your code here"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:43
+msgid "Buttons"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:58
+msgid "Button Link"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:62
+msgid ""
+"<span style=\"color:#318fce; font-weight:bold;\">Please fill full path</span>. "
+"Example: https://google.com"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:71
+msgid "Button Label"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:72
+msgid "This is the text that appears on your button"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:83
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:176
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:132
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:143
+msgid "Align element"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:164
+msgid "Specify  the type of your button"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:172
+msgid "Button filled with color transparent background"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:214
+msgid "Open Link in new Window?"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_button.php:215
+msgid "Select here if you want to open the linked page in a new window"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:171
+msgid "Color element"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_divider.php:201
+msgid "Icon align"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_gallery.php:73
+msgid "There are no galleries to choose from"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_gallery.php:83
+msgid "Type"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_google_font.php:43
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_google_font.php:88
+msgid "Google Font"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_google_font.php:58
+msgid "Text size (px)"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_google_font.php:60
+msgid "lore ipsum"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_google_font.php:71
+msgid "Text size"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_google_font.php:117
+msgid "Google font subset"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_highlight.php:32
+msgid "Heighlight"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:44
+msgid "Icons"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:122
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:179
+msgid "<b>Please fill full path</b>. Example: https://google.com"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:130
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:189
+msgid "Link target"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:131
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:190
+msgid "Select how do you want to open the linked page"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:138
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:197
+msgid "Open in NEW window"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:139
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:198
+msgid "Open in SAME window"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:177
+msgid "Specify the alignment for your icon"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_icon.php:212
+msgid "Float attribute"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_list.php:69
+msgid "Add/Edit the item to the list"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_list.php:70
+msgid "Here you can add, edit, remove and change order of your list items."
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_list.php:121
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_list.php:135
+msgid "Specify the color of your divider"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_list.php:162
+msgid "List item content"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_list.php:163
+msgid "Enter some content here"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:90
+msgid "Align text"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:160
+msgid "Link tittle."
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_notification.php:161
+msgid "This is the text that appears on your link."
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:58
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:58
+msgid "Movie url"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:62
+msgid ""
+"Working example: http://vimeo.com/<b>75746181</b>. <br />Please insert only: "
+"<b>75746181</b>"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:91
+msgid "Big ( 750 x 422 ) "
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:104
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:94
+msgid "Enter a value for the width"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:119
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:109
+msgid "Enter a value for the height"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:153
+msgid ""
+"Play the video automatically on load.<b><br />Note that this won’t work on\n"
+"\t\t\t\t\t\t\t\t\t\t\tsome devices.</b>"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_vimeo.php:219
+msgid "Play the video again when it reaches the end."
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:42
+msgid "YouTube"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:62
+msgid ""
+"Working example: http://www.youtube.com/watch?v=<b>G0k3kHtyoqc</b>.\n"
+"\t\t\t\t\t\t\t\t\t\t\t<br />Please insert only: <b>G0k3kHtyoqc</b>"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:127
+msgid ""
+"If you select a higher resolution than available for this film,\n"
+"\t\t\t\t\t\t\t\t\t\t\tYouTube automatically select the highest available "
+"resolution"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:161
+msgid ""
+"This parameter indicates whether the embedded player will display\n"
+"\t\t\t\t\t\t\t\t\t\t\tplayer controls (like a 'play' button or volume control) "
+"within a dark\n"
+"\t\t\t\t\t\t\t\t\t\t\tor light control bar."
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:179
+msgid ""
+"This parameter specifies the color that will be used in the player's video\n"
+"\t\t\t\t\t\t\t\t\t\t\tprogress bar to highlight the amount of the video that "
+"the viewer has\n"
+"\t\t\t\t\t\t\t\t\t\t\talready seen."
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:199
+msgid "Play the video automatically on load"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:200
+msgid ""
+"Sets whether or not the initial video will autoplay when the player\n"
+"\t\t\t\t\t\t\t\t\t\t\tloads."
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:204
+msgid "Note that this won’t work on some devices."
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:217
+msgid ""
+"This parameter indicates whether the video player controls will\n"
+"\t\t\t\t\t\t\t\t\t\t\tdisplay."
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:234
+msgid ""
+"If you set the parameter value to \"Off\", then the player will not display\n"
+"\t\t\t\t\t\t\t\t\t\t\tinformation like the video title and uploader before the "
+"video starts\n"
+"\t\t\t\t\t\t\t\t\t\t\tplaying."
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/shortcodes/wtr_shortcode_youtube.php:253
+msgid ""
+"This parameter indicates whether the player should show related videos when\n"
+"\t\t\t\t\t\t\t\t\t\t\tplayback of the initial video ends."
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:32
+msgid "Global"
+msgstr ""
+
+#: ../wtr-admin/page-builder/wtr-shortcodes/wtr_shortcode_template.php:269
+msgid ""
+"If you wish to style particular content element differently,\n"
+"\t\t\t\t\t\t\t\t\t\t\tthen use this field to add a class name and then refer "
+"to it in your\n"
+"\t\t\t\t\t\t\t\t\t\t\tcss file"
+msgstr ""
