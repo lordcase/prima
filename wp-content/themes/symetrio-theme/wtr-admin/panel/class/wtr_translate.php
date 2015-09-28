@@ -127,7 +127,7 @@ $wtr_translate['wtr_TranslateCountdownSHTMinutes']					= __( 'Minutes', 'Symetri
 $wtr_translate['wtr_TranslateCountdownSHTSeconds']					= __( 'Seconds', 'Symetrioo' );
 
 
-$wtr_translate['wtr_TranslateClassesScheduleSHTMonday']				= __( 'Monday', 'Symetrio' );
+$wtr_translate['wtr_TranslateClassesScheduleSHTMonday']				= __( 'Monday', 'Symetrioo' );
 $wtr_translate['wtr_TranslateClassesScheduleSHTTuesday']			= __( 'Tuesday', 'Symetrioo' );
 $wtr_translate['wtr_TranslateClassesScheduleSHTWednesday']			= __( 'Wednesday', 'Symetrioo' );
 $wtr_translate['wtr_TranslateClassesScheduleSHTThursday']			= __( 'Thursday', 'Symetrioo' );

@@ -20,13 +20,12 @@ if ( ! class_exists( 'WTR_Cs_view' ) ) {
 
 			$this->days_list = array(
 				$post_settings['wtr_TranslateClassesScheduleSHTMonday'],
-//				__( 'Monday', 'Symetrioo' ),
-				__( 'Tuesday', 'Symetrioo' ),
-				__( 'Wednesday', 'Symetrioo' ),
-				__( 'Thursday', 'Symetrioo' ),
-				__( 'Friday', 'Symetrioo' ),
-				__( 'Saturday', 'Symetrioo' ),
-				__( 'Sunday', 'Symetrioo' )
+				$post_settings['wtr_TranslateClassesScheduleSHTTuesday'],
+				$post_settings['wtr_TranslateClassesScheduleSHTWednesday'],
+				$post_settings['wtr_TranslateClassesScheduleSHTThursday'],
+				$post_settings['wtr_TranslateClassesScheduleSHTFriday'],
+				$post_settings['wtr_TranslateClassesScheduleSHTSaturday'],
+				$post_settings['wtr_TranslateClassesScheduleSHTSunday']
 			);
 		} // end set_days_list
 
