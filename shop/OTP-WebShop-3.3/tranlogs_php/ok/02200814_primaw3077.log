@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.03.22. 15:19:38
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3077
+  osszeg: 8161
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Fitness 8 alkalmas Egésznap
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3077&fizetesValasz=true&tranzakcioAzonosito=primaw3077
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.03.22. 15:23:39
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3077
+  posValaszkod: 
+  authorizaciosKod: 429397
+  statuszKod: 
+  teljesites: 2012.03.22 15.23.35 579
+  nev: Stifter Gábor
+  orszag: Magyarország
+  megye: Budapest
+  varos: Budapest
+  iranyitoszam: 1105
+  utcaHazszam: Gergely utca 1.
+  mailCim: stiftergabor@gmail.com
+  kozlemeny: 

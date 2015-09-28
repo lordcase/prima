@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.02.12. 15:24:13
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2814
+  osszeg: 20891
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Squash 10 alkalmas Egésznapos
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2814&fizetesValasz=true&tranzakcioAzonosito=primaw2814
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.02.12. 15:28:04
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2814
+  posValaszkod: 
+  authorizaciosKod: 994312
+  statuszKod: 
+  teljesites: 2012.02.12 15.28.03 035
+  nev: Király Gyula
+  orszag: magyar
+  megye: Budapest
+  varos: Budapest
+  iranyitoszam: 1193
+  utcaHazszam: Komjáti Gy. u. 26
+  mailCim: gykiraly@gmail.com
+  kozlemeny: 

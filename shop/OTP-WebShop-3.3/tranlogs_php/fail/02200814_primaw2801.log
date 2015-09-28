@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.02.10. 09:10:10
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2801
+  osszeg: 8161
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Aerobic 8 alkalmas Egésznap + 4 SPA
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2801&fizetesValasz=true&tranzakcioAzonosito=primaw2801
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.02.10. 09:18:15
+
+Valasz: FIZETESTIMEOUT
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2801
+  posValaszkod: 
+  authorizaciosKod: 
+  statuszKod: 
+  teljesites: 2012.02.10 09.18.15 000
+  nev: 
+  orszag: 
+  megye: 
+  varos: 
+  iranyitoszam: 
+  utcaHazszam: 
+  mailCim: 
+  kozlemeny: 

@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.03.13. 17:14:44
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3003
+  osszeg: 1416
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Aerobic 1 alkalmas jegy Egésznap 
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3003&fizetesValasz=true&tranzakcioAzonosito=primaw3003
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.03.13. 17:17:14
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3003
+  posValaszkod: 
+  authorizaciosKod: 334458
+  statuszKod: 
+  teljesites: 2012.03.13 17.17.14 505
+  nev: Boza Brigitta
+  orszag: Magyarország
+  megye: Budapest
+  varos: Budapest
+  iranyitoszam: 1103
+  utcaHazszam: Gergely utca 116. fszt. 12.
+  mailCim: boza.brigi@gmail.com
+  kozlemeny: 

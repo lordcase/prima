@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.01.26. 09:20:39
+
+Indito adatok
+  posId: 02200814
+  azonosito: cbaf2701
+  osszeg: 8150
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: CBA Fitness vásárlás: Aerobic 8 alkalmas Egésznap + 4 SPA
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=cbaf2701&fizetesValasz=true&tranzakcioAzonosito=cbaf2701
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.01.26. 09:24:16
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: cbaf2701
+  posValaszkod: 
+  authorizaciosKod: 278065
+  statuszKod: 
+  teljesites: 2012.01.26 09.24.13 271
+  nev: Tóth János
+  orszag: Magyarország
+  megye: Pest
+  varos: Budapest
+  iranyitoszam: 1202
+  utcaHazszam: Farkaslaka utca 31.
+  mailCim: tothjanos71@gmail.com
+  kozlemeny: 8 alkalmas fitness bérlet 

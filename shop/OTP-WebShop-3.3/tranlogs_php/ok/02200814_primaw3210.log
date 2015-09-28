@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.04.19. 15:44:09
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3210
+  osszeg: 12341
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Príma korl. Aerobik DE 14-ig
+  backURL: http://web.primawellness.hu:80/shop/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3210&fizetesValasz=true&tranzakcioAzonosito=primaw3210
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.04.19. 15:46:39
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3210
+  posValaszkod: 
+  authorizaciosKod: 748951
+  statuszKod: 
+  teljesites: 2012.04.19 15.46.36 666
+  nev: Kovács Kriszta
+  orszag: Magyarország
+  megye: Pest
+  varos: Budapest
+  iranyitoszam: 1105
+  utcaHazszam: Elõd u. 4.
+  mailCim: kovacs.kriszta7@gmail.com
+  kozlemeny: 

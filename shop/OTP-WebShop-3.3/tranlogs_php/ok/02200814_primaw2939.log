@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.02.24. 22:39:15
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2939
+  osszeg: 10916
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Squash 5 alkalmas 06-10h  I.zóna
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2939&fizetesValasz=true&tranzakcioAzonosito=primaw2939
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.02.24. 22:40:59
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2939
+  posValaszkod: 
+  authorizaciosKod: 037209
+  statuszKod: 
+  teljesites: 2012.02.24 22.40.57 255
+  nev: Sipos Zsolt
+  orszag: Magyarország
+  megye: Pest
+  varos: Budapest
+  iranyitoszam: 1194
+  utcaHazszam: Vas Gereben u. 114.
+  mailCim: zsooti@hotmail.com
+  kozlemeny: 

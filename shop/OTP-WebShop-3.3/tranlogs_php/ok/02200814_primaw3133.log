@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.03.31. 12:15:26
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3133
+  osszeg: 2841
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Squash 1 alk. 16-21
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3133&fizetesValasz=true&tranzakcioAzonosito=primaw3133
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.03.31. 12:18:07
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3133
+  posValaszkod: 
+  authorizaciosKod: 328987
+  statuszKod: 
+  teljesites: 2012.03.31 12.18.05 356
+  nev: Bajári Attila
+  orszag: Magyar
+  megye: Pest
+  varos: Monor
+  iranyitoszam: 2200
+  utcaHazszam: Bajcsy-Zs. u. 20
+  mailCim: bajari.attila@gmail.com
+  kozlemeny: squash

@@ -1,0 +1,539 @@
+/* CSS Document for http://www.cbafitness.hu/ */
+
+html {
+	background: #fff;
+	text-align: center;
+}
+
+/* body definition */
+body {
+	margin: 0 auto;
+	padding: 0;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;
+	color: #56505c;
+	text-align: left;
+/*  background-color: #f3f3f4;*/
+/*  background-image: url('../img/csik.gif');*/
+/*  background-repeat: repeat-y;*/
+	position: relative;
+/*  width: 848px;*/
+	background: #fff;
+}
+
+/* set uniform boxes to start with, cancel img borders */
+div, h1, h2, h3, h4, h5, h6, p, td, ul, ol, li, label, a, form, input, img, span, table {
+	padding: 0;
+	margin: 0;
+}
+
+img {
+	border: 0px none;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.inline {
+	display: inline;
+}
+
+.center {
+	text-align: center;
+}
+
+/* body layout */
+
+#userContainer {
+	/*position: absolute;*/
+	/*top: 0px;*/
+	/*left: 0px;*/
+	/*width: 848px;*/
+	width: 100%;
+}
+
+#user, #userLoggedIn {
+/*  position: absolute;*/
+/*  top: 54px;*/
+	border: 1px solid #ffffff;
+	background-color: #6c3;
+	padding: 8px;
+}
+
+.loggedOut {
+	right: 25px;
+}
+
+.loggedIn {
+	right: -35px;
+}
+
+#language {
+/*  position: absolute;*/
+/*  top: 54px;*/
+/*  left: 830px;*/
+	border: 1px solid #ffffff;
+	background-color: #098af7;
+	padding: 8px;
+}
+
+#social {
+/*  position: absolute;*/
+/*  top: 7px;*/
+/*  left: 0px;*/
+/*  width: 823px;*/
+	text-align: right;
+}
+
+
+#fejlec {
+/*  width: 848px;*/
+	border-top: 5px solid #d40238;
+	padding-top: 9px;
+}
+
+#fejlec img {
+/*	width: 848px;*/
+	height: 285px;
+}
+
+#menu {
+/*	width: 848px;*/
+	height: 30px;
+	background-color: #000000;
+	margin-top: -2px;
+}
+
+.englishMenu {
+	margin-left: 20px;
+}
+
+.main {
+/*	width: 848px;*/
+	background-color: #ffffff;
+/*	background-image: url('../img/bg.jpg');*/
+/*	background-position: top left;*/
+/*	background-repeat: no-repeat;*/
+} 
+
+#kezdolap {
+	clear: both;
+/*	background-image: url('../img/bg-kezdolap.jpg');*/
+	padding-top: 0;
+}
+
+#content {
+	/*padding-left: 38px;*/
+	/*padding-right: 38px;*/
+}
+
+#sponsors {
+/*	width: 848px;*/
+	background-color: #ffffff;
+	text-align: center;
+}
+
+#sponsors ul {
+	list-style-type: none;
+}
+
+#sponsors ul li {
+	display: inline;
+}
+
+#sponsors ul li span {
+	display: none;
+}
+
+#footer {
+/*	width: 848px;*/
+	background-color: #fbfbfb;
+	border-bottom: 5px solid #d40238;
+	text-align: right;
+}
+
+#footer a span {
+	display: none;
+}
+
+/* menu */
+
+#menu ul {
+	list-style-type: none;
+	padding-top: 8px;
+	padding-left: 5px;
+}
+
+#menu ul li {
+	display: inline;
+	margin-left: 16px;
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: bold;
+	float: left;
+}
+
+.englishMenu li {
+	margin-right: 19px;
+}
+
+#menu ul li a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+#menu ul li a:hover {
+	color: #094;
+}
+
+#menu ul li ul li a:hover {
+	color: #ffffff;
+}
+
+#menu ul li ul {
+	display: none;
+	background-color: #6c3;
+/*	background-image: url('../img/menu-bg.jpg');*/
+/*	background-repeat: no-repeat;*/
+/*	position: absolute;*/
+/*	top: 318px;*/
+	z-index: 3;
+	padding: 6px;
+	border-bottom: 4px solid black;
+}
+
+#menu ul li ul li {
+	display: block;
+	float: none;
+	line-height: 20px;
+	margin-left: 0px;
+}
+
+#menu ul li ul#menu1 {
+	left: 21px;
+}
+
+#menu ul li ul#menu2 {
+	left: 121px;
+}
+
+#menu ul li ul#menu3 {
+	left: 192px;
+}
+
+#menu ul li ul#menu4 {
+	left: 412px;
+}
+
+#menu ul li:hover ul, #menu ul li.IEhover ul {
+	display: block;
+}
+
+
+.box {
+	position: absolute;
+	top: 330px;
+	width: 280px;
+	height: 250px;
+}
+
+#box1 {
+	left: 0px;
+}
+
+#box2 {
+	left: 282px;
+}
+
+#box3 {
+	left: 564px;
+}
+
+.box {
+	text-align: center; 
+}
+
+.box h2 {
+	position: relative;
+	top: 230px;
+	left: 30px;
+	font-size: 13px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: left; 
+	color: #094;
+}
+
+.box p {
+	margin-left: 32px;
+	margin-right: 32px;
+	line-height: 15px;
+	text-align: left; 
+}
+
+.box img {
+	margin-bottom: 14px;
+}
+
+#popup {
+	width: 100%;
+	text-align: center;
+	padding-top: 20px;
+}
+
+#popup img {
+	border: 1px solid #000000;
+	background-color: #ffffff;
+}
+
+/* main formatting */
+
+#content p, #content td, #content th {
+	font-size: 11px;
+	font-family: verdana;
+	text-align: justify;
+	line-height: 20px;
+	color: #56505c;
+	padding-top: 6px;
+	padding-bottom: 12px;
+}
+
+#content td, #content th {
+	padding: 4px;
+	vertical-align: top;
+}
+
+#content th {
+	color: #ffffff;
+	background-color: #6c3;
+	font-weight:normal;
+}
+
+#content th.nobg {
+background: none;
+width: 80px;
+}
+
+#content th.title {
+background-color: #6c3;
+color: #ffffff;
+font-size: 12px;
+font-weight: bold;
+}
+#content table {
+	margin-top: 20px;
+}
+
+#content td {
+	background-color: #eaeaea;
+}
+
+#content td.bg {
+background-color: #000000;
+color: #ffffff;
+}
+
+#content td.nobg {
+background: none;
+width: 150px;
+}
+
+#content td.uj {
+background-color: #abcedb;
+}
+
+#content td.pot {
+background-color: #eddba7;
+}
+
+#content td.special {
+background-color: #f7c1cc;
+}
+
+#content td.special2 {
+background-color: #bbefcb;
+}
+
+
+#content td.no {
+background-color: #fefefe;
+}
+
+#content td.kep {
+background: none;
+padding-bottom: 0px;
+vertical-align:bottom;
+}
+
+#content td.center {
+	text-align:center;
+}
+
+#content h1 {
+	font-size: 30px;
+	font-variant: small-caps;
+	color: #b5b2b7;
+	padding-top: 10px;
+}
+
+#content h2 {
+	font-size: 18px;
+	color: #000000;
+	font-weight: bold;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+#content h3 {
+	font-size: 14px;
+	font-variant: small-caps;
+	color: #094;
+	font-weight: bold;
+	padding-top:10px;
+}
+
+#content h4 {
+	font-size: 12px;
+	letter-spacing:1px;
+	color: #e17255;
+	font-weight: bold;
+}
+
+#content hr {
+	height:1px;
+	width: 400px;
+	color: #f3f3f4;
+}
+
+#content ul, #content ul li {
+	margin-left: 10px;
+	padding-top: 1px;
+	padding-bottom: 3px;
+	list-style-type: square;
+	color: #56505c;
+}
+
+#content ul.fontos li {
+	margin-left: 10px;
+	padding-top: 1px;
+	padding-bottom: 3px;
+	list-style-type: square;
+	color: #786b67;
+}
+
+#content img.frame {
+	border: 1px solid #000000;
+}
+
+#content img.right {
+	float:right;
+	margin-left:15px;
+	margin-top:12px;
+	margin-bottom:20px;
+}
+
+#content a, .box a, #popup a {
+	color: #094;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#content a:hover, #popup a:hover {
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+	background-color: #6c3;
+}
+
+#text div.gallery_container {
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+
+#content ol {
+	list-style-position: inside;
+}
+
+#content ul.gallery {
+}
+
+#content ul.gallery, 
+#content ul.gallery li {
+	display: inline;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#content ul.gallery li {
+	float: left;
+	padding-left:2px;
+}
+
+#user {
+	color: #ffffff;
+}
+
+#user a, #language a, #content th a {
+	color: #ffffff;
+}
+
+#user a, #language a {
+	color: #ffffff;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#bweTable1 a, #bweTable2 a {
+	font-weight: normal;
+}
+
+#bweTable1 a:hover, #bweTable2 a:hover {
+	font-weight: normal;
+}
+
+/* popups */
+
+.popup {
+	position: absolute;
+	z-index: 7;
+	background-color: #ffffff;
+	border: 1px solid #000000;
+	padding: 10px;
+}
+
+#Popup1 {
+	top: 250px;
+	left: 120px;
+	width: 600px;
+}
+
+.popupTunezia {
+/*	background-image: url(../img/tunezia_bg.jpg);*/
+/*	background-position: -15px -100px;*/
+	border: 4px solid #ffffff;
+	}
+
+#content .popupTunezia p, #content .popupTunezia h3, #content .popupTunezia li {
+	color: #ffffff;
+}
+
+.popupCloseButton {
+	float: right;
+}
+
+#content .popup h2 {
+	color: #094;
+}
+
+.akcios {
+	font-size: 10px;
+	color: #FF0000;
+	font-weight: bold;
+}

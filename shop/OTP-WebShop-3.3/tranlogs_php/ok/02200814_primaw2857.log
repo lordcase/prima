@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.02.21. 07:37:36
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2857
+  osszeg: 9776
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Fitness 12 alkalmas Egésznap
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2857&fizetesValasz=true&tranzakcioAzonosito=primaw2857
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.02.21. 07:40:47
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2857
+  posValaszkod: 
+  authorizaciosKod: 127646
+  statuszKod: 
+  teljesites: 2012.02.21 07.40.47 738
+  nev: Gágyor Tímea
+  orszag: Magyar
+  megye: Pest
+  varos: Budapest
+  iranyitoszam: 1183
+  utcaHazszam: Attila utca 15.
+  mailCim: tgagyor@yahoo.com
+  kozlemeny: 

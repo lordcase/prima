@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.02.04. 08:59:11
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2779
+  osszeg: 14241
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Príma korl. Fitness-Spa 14-ig
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2779&fizetesValasz=true&tranzakcioAzonosito=primaw2779
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.02.04. 09:01:41
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2779
+  posValaszkod: 
+  authorizaciosKod: 212224
+  statuszKod: 
+  teljesites: 2012.02.04 09.01.37 250
+  nev: Molnar Mario
+  orszag: Magyar
+  megye: Budapest
+  varos: Budapest
+  iranyitoszam: 1203
+  utcaHazszam: Baross 27
+  mailCim: molnar.mario@chello.hu
+  kozlemeny: 

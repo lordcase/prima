@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.01.14. 19:56:14
+
+Indito adatok
+  posId: 02200814
+  azonosito: cbaf2600
+  osszeg: 52870
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: CBA Fitness vásárlás: Squash 20 alkalmas 06-21h
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=cbaf2600&fizetesValasz=true&tranzakcioAzonosito=cbaf2600
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.01.14. 19:56:14
+
+Valasz: WEBSHOPIPNEMENGEDELYEZETT
+
+Valasz adatok
+  posId: 02200814
+  azonosito: cbaf2600
+  posValaszkod: 
+  authorizaciosKod: 
+  statuszKod: 
+  teljesites: 
+  nev: 
+  orszag: 
+  megye: 
+  varos: 
+  iranyitoszam: 
+  utcaHazszam: 
+  mailCim: 
+  kozlemeny: 

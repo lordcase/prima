@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.02.19. 15:19:54
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2850
+  osszeg: 8446
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Aerobic 12 alkalmas DE 14h-ig + 6 SPA
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2850&fizetesValasz=true&tranzakcioAzonosito=primaw2850
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.02.19. 15:23:40
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2850
+  posValaszkod: 
+  authorizaciosKod: 035587
+  statuszKod: 
+  teljesites: 2012.02.19 15.23.37 472
+  nev: Gyergyói Katalin
+  orszag: Magyarország
+  megye: Heves
+  varos: Sirok
+  iranyitoszam: 3332
+  utcaHazszam: Ady Endre út 11
+  mailCim: gyergyoi@yahoo.com
+  kozlemeny: 

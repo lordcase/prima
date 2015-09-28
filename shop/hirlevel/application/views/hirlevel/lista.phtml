@@ -1,0 +1,52 @@
+<div class="fu-items fu-items-detailed-view">
+
+<?php if (is_array($this->labels) && !empty($this->labels)): ?>
+
+    <div class="fu-labels">
+<?php foreach ($this->labels as $key => $value): ?>
+        <span class="fu-label fu-label-<?php echo $key ?>"><?php echo $value ?></span>
+<?php endforeach; ?>
+    </div>
+    
+<?php endif; ?>
+
+<?php if (is_array($this->items) && !empty($this->items)): ?>
+    <ul class="fu-item-list">
+<?php foreach ($this->items as $item): ?>
+        <li>
+            <span class="fu-item-checkbox"><input type="checkbox" name="item-selector[]" value="<?php echo $item['id'] ?>" /></span>
+            <span class="fu-item-icon"><a href="<?php echo $item['link'] ?>"><img alt="" src="assets/images/admin/icons/<?php echo $item['icon']  ?>.png" /></a></span>
+            <span class="fu-item-label"><a title="<?php echo $item['label'] ?> szerkesztése" href="<?php echo $item['link'] ?>"><?php echo $item['label'] ?></a></span>
+<?php if (is_array($item['extras']) && !empty($item['extras'])): ?>
+<?php foreach ($item['extras'] as $key => $value): ?>
+            <span class="fu-item-extra fu-item-extra-<?php echo $key ?>"><?php echo $value; ?></span>
+<?php endforeach; ?>
+<?php endif; ?>
+            
+        </li>
+<?php endforeach; ?>
+    </ul>
+<?php else: ?>
+    <p class="fu-empty">Nincs megjeleníthető tartalom.</p>
+<?php endif; ?>
+</div>
+
+<?php if (is_array($this->buttons) && !empty($this->buttons)): ?>
+<br /><br />
+<div class="button-panel">
+<?php foreach ($this->buttons as $button): ?>
+    <a class="<?php echo $button['class'] ?>" title="<?php echo $button['title'] ?>" href="<?php echo $button['href'] ?>"><?php echo $button['label'] ?></a>
+<?php endforeach; ?>
+</div>
+<?php endif; ?>
+
+
+<?php if (is_array($this->forms) && !empty($this->forms)): ?>
+
+<?php foreach ($this->forms as $form): ?>
+<form name="<?php echo $form['id'] ?>" id="<?php echo $form['id'] ?>" method="post" action="<?php echo $form['action'] ?>">
+    <input type="hidden" name="form-id" value="<?php echo $form['id'] ?>" />
+</form>
+<?php endforeach; ?>
+
+<?php endif; ?>

@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.04.19. 16:49:59
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3212
+  osszeg: 12341
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Príma korl. Aerobik DE 14-ig
+  backURL: http://web.primawellness.hu:80/shop/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3212&fizetesValasz=true&tranzakcioAzonosito=primaw3212
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.04.19. 16:53:14
+
+Valasz: 076
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3212
+  posValaszkod: 
+  authorizaciosKod: 
+  statuszKod: 
+  teljesites: 2012.04.19 16.53.11 559
+  nev: 
+  orszag: 
+  megye: 
+  varos: 
+  iranyitoszam: 
+  utcaHazszam: 
+  mailCim: 
+  kozlemeny: 

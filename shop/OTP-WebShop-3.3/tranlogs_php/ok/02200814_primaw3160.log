@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.04.06. 10:35:37
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3160
+  osszeg: 8161
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Aerobik 8 alkalmas Egésznapos
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3160&fizetesValasz=true&tranzakcioAzonosito=primaw3160
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.04.06. 10:37:09
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3160
+  posValaszkod: 
+  authorizaciosKod: 069844
+  statuszKod: 
+  teljesites: 2012.04.06 10.37.08 694
+  nev: Pap Rita
+  orszag: Magyarország
+  megye: Budapest
+  varos: Budapest
+  iranyitoszam: 1107
+  utcaHazszam: Somfa köz 4.
+  mailCim: rpap23@gmail.com
+  kozlemeny: 

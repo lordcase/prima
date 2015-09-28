@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.03.20. 12:58:53
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3056
+  osszeg: 11866
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Squash 5 alkalmas Egésznapos
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3056&fizetesValasz=true&tranzakcioAzonosito=primaw3056
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.03.20. 13:01:14
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3056
+  posValaszkod: 
+  authorizaciosKod: 596432
+  statuszKod: 
+  teljesites: 2012.03.20 13.01.11 682
+  nev: Makó Béla
+  orszag: Magyarország
+  megye: Pest
+  varos: Budapest
+  iranyitoszam: 1183
+  utcaHazszam: Örs Utca 7/B/2
+  mailCim: belamako@freemail.hu
+  kozlemeny: 

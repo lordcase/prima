@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.04.03. 23:20:26
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3152
+  osszeg: 21375
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Masszázsbérlet normál 6 alkalmas 60 perces
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3152&fizetesValasz=true&tranzakcioAzonosito=primaw3152
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.04.03. 23:22:07
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3152
+  posValaszkod: 
+  authorizaciosKod: 301809
+  statuszKod: 
+  teljesites: 2012.04.03 23.22.04 407
+  nev: Takács Károly
+  orszag: Magyarország
+  megye: Budapest
+  varos: Budapest
+  iranyitoszam: 1195
+  utcaHazszam: Jókai utca 4
+  mailCim: takacs.karoly@euronetrt.hu
+  kozlemeny: 

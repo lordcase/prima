@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.02.03. 11:40:05
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2768
+  osszeg: 7496
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Diák és Nyugd. Aerobik 8 alk Egésznapos+4 SPA
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2768&fizetesValasz=true&tranzakcioAzonosito=primaw2768
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.02.03. 11:48:09
+
+Valasz: FIZETESTIMEOUT
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2768
+  posValaszkod: 
+  authorizaciosKod: 
+  statuszKod: 
+  teljesites: 2012.02.03 11.48.09 000
+  nev: 
+  orszag: 
+  megye: 
+  varos: 
+  iranyitoszam: 
+  utcaHazszam: 
+  mailCim: 
+  kozlemeny: 

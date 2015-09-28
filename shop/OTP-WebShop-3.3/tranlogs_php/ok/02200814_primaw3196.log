@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.04.18. 08:32:31
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3196
+  osszeg: 11391
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Aerobic-Spa 8 alkalmas Egésznap
+  backURL: http://web.primawellness.hu:80/shop/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3196&fizetesValasz=true&tranzakcioAzonosito=primaw3196
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.04.18. 08:35:37
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3196
+  posValaszkod: 
+  authorizaciosKod: 248043
+  statuszKod: 
+  teljesites: 2012.04.18 08.35.37 119
+  nev: Csernákné Kocsis Erika
+  orszag: Magyarország
+  megye: Pest
+  varos: Budapest
+  iranyitoszam: 1183
+  utcaHazszam: Nimród u. 48
+  mailCim: ekocsis@enternet.hu
+  kozlemeny: 

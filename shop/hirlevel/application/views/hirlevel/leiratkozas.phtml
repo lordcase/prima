@@ -1,0 +1,9 @@
+<h1>Hírlevél leiratkozás</h1>
+<p>Amennyiben nem szeretné a CBA Fitness & Wellness Line hírleveleit kapni, az alábbi űrlap segítéségével leiratkozhat.</p>
+<form method="post" action="<?php echo Request::link('hirlevel', 'leiratkozas') ?>">
+    <div>
+        <label for="email">Email-cím:</label> <input type="text" name="email" id="email" value="" />
+        <input type="submit" value="Leiratkozás" />
+        <input type="hidden" name="form-id" id="form-id" value="unsubscribe" />
+    </div>
+</form>

@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.02.01. 09:32:49
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2748
+  osszeg: 13291
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Príma korl. Aerobic egésznap + 8spa
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2748&fizetesValasz=true&tranzakcioAzonosito=primaw2748
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.02.01. 09:36:51
+
+Valasz: 059
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2748
+  posValaszkod: 
+  authorizaciosKod: 
+  statuszKod: 
+  teljesites: 2012.02.01 09.36.50 001
+  nev: 
+  orszag: 
+  megye: 
+  varos: 
+  iranyitoszam: 
+  utcaHazszam: 
+  mailCim: 
+  kozlemeny: 

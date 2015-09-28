@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.01.30. 14:11:01
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2735
+  osszeg: 1416
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Fitness 1 alkalmas jegy Egésznap 
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2735&fizetesValasz=true&tranzakcioAzonosito=primaw2735
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.01.30. 14:12:11
+
+Valasz: VISSZAUTASITOTTFIZETES
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2735
+  posValaszkod: 
+  authorizaciosKod: 
+  statuszKod: 
+  teljesites: 2012.01.30 14.12.11 147
+  nev: 
+  orszag: 
+  megye: 
+  varos: 
+  iranyitoszam: 
+  utcaHazszam: 
+  mailCim: 
+  kozlemeny: 

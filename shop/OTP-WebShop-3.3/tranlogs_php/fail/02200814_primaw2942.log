@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.02.27. 10:11:21
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2942
+  osszeg: 20891
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Squash 10 alkalmas Egésznapos
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2942&fizetesValasz=true&tranzakcioAzonosito=primaw2942
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.02.27. 10:13:27
+
+Valasz: 076
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2942
+  posValaszkod: 
+  authorizaciosKod: 
+  statuszKod: 
+  teljesites: 2012.02.27 10.13.25 043
+  nev: 
+  orszag: 
+  megye: 
+  varos: 
+  iranyitoszam: 
+  utcaHazszam: 
+  mailCim: 
+  kozlemeny: 

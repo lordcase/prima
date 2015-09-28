@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.03.23. 19:04:40
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3079
+  osszeg: 5121
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Aerobik 4 alkalmas Egésznapos
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3079&fizetesValasz=true&tranzakcioAzonosito=primaw3079
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.03.23. 19:07:26
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3079
+  posValaszkod: 
+  authorizaciosKod: 368842
+  statuszKod: 
+  teljesites: 2012.03.23 19.07.24 194
+  nev: Safranyik Anita
+  orszag: Magyarország
+  megye: pest
+  varos: Dabas
+  iranyitoszam: 2370
+  utcaHazszam: József Attila 160.
+  mailCim: asafranyik@gmail.com
+  kozlemeny: 

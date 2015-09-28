@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(65, 70, 73);
+    font-size: 11px;
+    line-height: 18px;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    color: rgb(240, 126, 4) !important;
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: rgb(174, 177, 179);
+}
+
+h2 {
+    color: rgb(187, 167, 136);
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+
+h3 {
+    color: rgb(123, 135, 148);
+    font-weight: normal;
+    font-size: 12px;
+}
+

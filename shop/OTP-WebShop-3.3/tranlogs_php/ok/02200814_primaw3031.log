@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.03.19. 00:00:19
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3031
+  osszeg: 13291
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Príma korl. Fitness egésznap 
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3031&fizetesValasz=true&tranzakcioAzonosito=primaw3031
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.03.19. 00:02:45
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3031
+  posValaszkod: 
+  authorizaciosKod: 000567
+  statuszKod: 
+  teljesites: 2012.03.19 00.02.44 245
+  nev: Karl László
+  orszag: Magyarország
+  megye: Pest
+  varos: Budapest
+  iranyitoszam: 1173
+  utcaHazszam: Borsó utca 16
+  mailCim: karllaszlo@freemail.hu
+  kozlemeny: 

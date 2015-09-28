@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.03.06. 21:47:55
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2975
+  osszeg: 20891
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Squash 10 alkalmas Egésznapos
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2975&fizetesValasz=true&tranzakcioAzonosito=primaw2975
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.03.06. 21:49:46
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2975
+  posValaszkod: 
+  authorizaciosKod: 340032
+  statuszKod: 
+  teljesites: 2012.03.06 21.49.42 723
+  nev: Veréb Péter
+  orszag: Magyar
+  megye: Pest
+  varos: Budapest
+  iranyitoszam: 1102
+  utcaHazszam: Ónodi u. 11. 2/7.
+  mailCim: peter@verebpeter.hu
+  kozlemeny: 

@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.02.28. 13:37:14
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2949
+  osszeg: 11866
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Squash 5 alkalmas Egésznapos
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2949&fizetesValasz=true&tranzakcioAzonosito=primaw2949
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.02.28. 13:40:10
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2949
+  posValaszkod: 
+  authorizaciosKod: 706949
+  statuszKod: 
+  teljesites: 2012.02.28 13.40.10 099
+  nev: Sima Katalin
+  orszag: Magyaroroszág
+  megye: Budapest
+  varos: Budapest
+  iranyitoszam: 1096
+  utcaHazszam: Ernõ utca 30-34.
+  mailCim: sima.katalin@hotmail.com
+  kozlemeny: 

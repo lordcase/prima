@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.02.04. 09:27:18
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2780
+  osszeg: 8446
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Fitness 12 alkalmas DE 14h-ig
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2780&fizetesValasz=true&tranzakcioAzonosito=primaw2780
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.02.04. 09:29:59
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2780
+  posValaszkod: 
+  authorizaciosKod: 896655
+  statuszKod: 
+  teljesites: 2012.02.04 09.29.55 337
+  nev: bodnár attila
+  orszag: hun
+  megye: budapest
+  varos: budapest
+  iranyitoszam: 1191
+  utcaHazszam: kisfaludy 8. 4/10
+  mailCim: bodnar15@freemail.hu
+  kozlemeny: 

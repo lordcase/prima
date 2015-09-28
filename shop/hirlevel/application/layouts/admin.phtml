@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>CBA Fitness Vezérlőpult</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <link rel="stylesheet" type="text/css" href="assets/stylesheets/admin.css" />
+        <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.2.0/build/cssgrids/grids-min.css">
+        <script src="http://yui.yahooapis.com/3.2.0/build/yui/yui-min.js"></script>
+        <script src="assets/scripts/admin/ui.js"></script>
+    </head>
+    <body>
+<?php if ($this->fubar) include ANAIZ_VIEW_PATH . 'partial/fubar.phtml'; ?>
+        <div id="admin-main" class="yui3-g">
+            <div id="admin-sidebar" class="yui3-u">
+                <div class="futura-logo">
+                    <span class="futura-logo-1">Anaiz</span>
+                    <span class="futura-logo-2">Hírlevelek</span>
+                    <span class="futura-logo-beta">béta</span>
+                </div>
+<?php if ($this->showNavigation): ?>
+                <div class="admin-navigation-primary-button">
+                    <a class="button new-button" href="<?php echo Request::link('hirlevel', 'uzenet') ?>">Új levél</a>
+                </div>
+                <ul id="admin-navigation" class="yui3-u">
+                    <li<?php if ('kimeno' == $this->navigationId) echo ' class="selected"'; ?>><a href="<?php echo Request::link('hirlevel', 'kimeno'); ?>">Kimenő levelek <?php if ($this->itemCounts['kimeno']) echo '(' . $this->itemCounts['kimeno'] . ')' ?></a></li>
+                    <li<?php if ('piszkozat' == $this->navigationId) echo ' class="selected"'; ?>><a href="<?php echo Request::link('hirlevel', 'piszkozat'); ?>">Piszkozatok <?php if ($this->itemCounts['piszkozat']) echo '(' . $this->itemCounts['piszkozat'] . ')' ?></a></li>
+                    <li<?php if ('elkuldott' == $this->navigationId) echo ' class="selected"'; ?>><a href="<?php echo Request::link('hirlevel', 'elkuldott'); ?>">Elküldött levelek <?php if ($this->itemCounts['elkuldott']) echo '(' . $this->itemCounts['elkuldott'] . ')' ?></a></li>
+                    <li<?php if ('kuka' == $this->navigationId) echo ' class="selected"'; ?>><a href="<?php echo Request::link('hirlevel', 'kuka'); ?>">Kuka <?php if ($this->itemCounts['kuka']) echo '(' . $this->itemCounts['kuka'] . ')' ?></a></li>
+                    <!-- li<?php if ('kuldes' == $this->navigationId) echo ' class="selected"'; ?>><a href="<?php echo Request::link('hirlevel', 'kuldes'); ?>">Aktív küldés <?php if ($this->itemCounts['kuldes']) echo '(' . $this->itemCounts['kuldes'] . ')' ?></a></li -->
+                    <li<?php if ('cimtar' == $this->navigationId) echo ' class="selected"'; ?>><a href="<?php echo Request::link('hirlevel', 'cimtar'); ?>">Címtár</a></li>
+                    <li class="disabled"><a href="#">Aktív küldés <?php if ($this->itemCounts['kuldes']) echo '(' . $this->itemCounts['kuldes'] . ')' ?></a></li>
+                    <li class="disabled"><a href="#">Beállítások</a></li>
+                </ul>
+
+<?php endif; ?>
+            </div>
+            <div id="admin-main-content" class="yui3-u">
+                <div id="admin-content">
+<?php echo $this->content ?>
+                </div>
+                <div id="admin-footer">
+                    <p>Anaiz Hírlevelek (Béta). &copy; 2010 <a href="http://www.anaiz.hu/" target="_blank">anaiz</a></p>
+                </div>
+            </div>
+            
+        </div>
+    </body>
+</html>

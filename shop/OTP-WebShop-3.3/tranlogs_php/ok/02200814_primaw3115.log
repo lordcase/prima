@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.03.29. 18:02:42
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3115
+  osszeg: 9776
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Aerobik 12 alkalmas Egésznapos
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3115&fizetesValasz=true&tranzakcioAzonosito=primaw3115
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.03.29. 18:04:52
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3115
+  posValaszkod: 
+  authorizaciosKod: 718935
+  statuszKod: 
+  teljesites: 2012.03.29 18.04.48 061
+  nev: Suba László
+  orszag: Magyarország
+  megye: Budapest
+  varos: Budapest
+  iranyitoszam: 1205
+  utcaHazszam: Hitel Márton u. 64.
+  mailCim: subalaszlo@t-online.hu
+  kozlemeny: 

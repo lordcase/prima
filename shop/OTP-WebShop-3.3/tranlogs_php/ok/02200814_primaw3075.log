@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.03.22. 08:12:45
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3075
+  osszeg: 10916
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Squash 5 alkalmas 06-10h  I.zóna
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3075&fizetesValasz=true&tranzakcioAzonosito=primaw3075
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.03.22. 08:15:46
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3075
+  posValaszkod: 
+  authorizaciosKod: 181726
+  statuszKod: 
+  teljesites: 2012.03.22 08.15.42 540
+  nev: Dékány Miklós
+  orszag: Magyarország
+  megye: Budapest
+  varos: Budapest
+  iranyitoszam: 1171
+  utcaHazszam: Andráshida utca 12.
+  mailCim: dekany.miklos@mail.datanet.hu
+  kozlemeny: 

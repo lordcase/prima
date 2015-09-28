@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.03.18. 07:55:54
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3027
+  osszeg: 16141
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Príma korl. Fitness-Spa egésznapos
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3027&fizetesValasz=true&tranzakcioAzonosito=primaw3027
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.03.18. 08:00:06
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3027
+  posValaszkod: 
+  authorizaciosKod: 788597
+  statuszKod: 
+  teljesites: 2012.03.18 08.00.05 455
+  nev: Molnár Csaba
+  orszag: Magyarország
+  megye: Pest
+  varos: Budapest
+  iranyitoszam: 1103
+  utcaHazszam: Kisgergely 2
+  mailCim: menenus@freemail.hu
+  kozlemeny: edzés

@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.01.17. 19:57:54
+
+Indito adatok
+  posId: 02200814
+  azonosito: cbaf2614
+  osszeg: 9490
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: CBA Fitness vásárlás: Squash 5 alkalmas 10-16h  II.zóna
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=cbaf2614&fizetesValasz=true&tranzakcioAzonosito=cbaf2614
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.01.17. 19:58:03
+
+Valasz: WEBSHOPIPNEMENGEDELYEZETT
+
+Valasz adatok
+  posId: 02200814
+  azonosito: cbaf2614
+  posValaszkod: 
+  authorizaciosKod: 
+  statuszKod: 
+  teljesites: 
+  nev: 
+  orszag: 
+  megye: 
+  varos: 
+  iranyitoszam: 
+  utcaHazszam: 
+  mailCim: 
+  kozlemeny: 

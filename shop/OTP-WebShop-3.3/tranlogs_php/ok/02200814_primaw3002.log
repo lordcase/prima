@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.03.13. 15:29:31
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3002
+  osszeg: 20891
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Squash 10 alkalmas Egésznapos
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3002&fizetesValasz=true&tranzakcioAzonosito=primaw3002
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.03.13. 15:35:09
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3002
+  posValaszkod: 
+  authorizaciosKod: 086695
+  statuszKod: 
+  teljesites: 2012.03.13 15.34.30 411
+  nev: Fenyvessy Erika
+  orszag: Magyarország
+  megye: Pest
+  varos: Budapest
+  iranyitoszam: 1195
+  utcaHazszam: Petõfi utca 2/a
+  mailCim: e.fenyvessy@richter.hu
+  kozlemeny: 

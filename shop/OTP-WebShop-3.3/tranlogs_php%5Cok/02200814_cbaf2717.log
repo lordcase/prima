@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.01.29. 10:47:58
+
+Indito adatok
+  posId: 02200814
+  azonosito: cbaf2717
+  osszeg: 8161
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: CBA Fitness vásárlás: Aerobic 8 alkalmas Egésznap + 4 SPA
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=cbaf2717&fizetesValasz=true&tranzakcioAzonosito=cbaf2717
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.01.29. 10:52:00
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: cbaf2717
+  posValaszkod: 
+  authorizaciosKod: 990459
+  statuszKod: 
+  teljesites: 2012.01.29 10.51.57 836
+  nev: Füstös Gabriella
+  orszag: Magyar
+  megye: Pest
+  varos: Budapest
+  iranyitoszam: 1171.
+  utcaHazszam: Fehértemplom utca 3.
+  mailCim: fustosgabi@freemail.hu
+  kozlemeny: trx

@@ -1,0 +1,475 @@
+<?php require_once('inc/boot.php') ?>
+<?php $CBA_SECTION = 'arak'; ?>
+<?php require_once('views/header.php') ?>
+<!-- Content Starts Here -->
+<br />
+
+<br />
+<h1>Árak</h1>
+<img src="img/content/arak.jpg" alt="CBA Fitness & Wellness Line" class="right" />
+<em>Érvényes: 2011. június 1-tõl, visszavonásig</em>
+<h2>Ingyenes szolgáltatások:</h2>
+<p>Internet használat<br />
+Törölközõ használat*<br />
+Tusfürdõ használat<br />
+Parkolási lehetõség<br />
+Edzésterv<br />
+Orvosi vizsgálat<br />
+Életviteli, táplálkozási és edzési szaktanácsadás (klubtagok részére)</p>
+
+<p>* Minden látogatás alkalmával 1 db törölközõt biztosítunk díjmentesen, lehetõség van második törölközõ igénybevételére 300 ft/db áron.</p>
+
+<p style="color: #FF0033; font-weight: bold">Öltözõszekrényeink RIASZTÓRENDSZERREL vannak felszerelve!</p>
+
+<p>Árlistánk <a href="/download/arlista-2011-junius.pdf" target="_blank">.pdf formátumban</a>.</p>
+
+<p><a href="http://cbafitness.hu/felhasznalo.php">Töltsd fel bérletedet az interneten 5%-kal olcsóbban!</a></p>
+
+<p>Amennyiben szeretné megtekinteni, hogy mely egészségpénztárakkal vagyunk kapcsolatban, kérjük <a href="#egeszsegpenztarak">kattintson ide!</a></p>
+
+<table style="width:860px;">
+<tr>
+<th class="nobg">&nbsp;</th>
+<th colspan="8" class="title">Sportszolgáltatások</th>
+<th colspan="3" class="nobg"></th>
+</tr>
+<tr>
+<th rowspan="2" class="nobg">&nbsp;</th>
+<th colspan="2"><strong>Fitness</strong></th>
+<th colspan="2"><strong>Aerobic</strong><br />
+1 óra / 1 alkalom</th>
+</tr>
+<tr>
+<td class="bg">nyitástól 14 óráig</td>
+<td class="bg">egész nap</td>
+<td class="bg">nyitástól 14 óráig</td>
+<td class="bg">egész nap</td>
+</tr>
+<tr>
+<td><strong>1 alkalmas</strong></td>
+<td colspan="2" class="center">1600 Ft</td>
+<td colspan="2" class="center">1500 Ft</td>
+</tr>
+
+<tr>
+<td><strong>4 alkalmas</strong></td>
+<td class="center">5090 Ft</td>
+<td class="center">5560 Ft</td>
+<td class="center">4790 Ft</td>
+<td class="center">5360 Ft</td>
+</tr>
+
+<tr>
+<td rowspan="2" style="vertical-align:middle;"><strong>8 alkalmas</strong></td>
+<td class="center">8900 Ft</td>
+<td class="center">9930 Ft</td>
+<td class="center">7600 Ft</td>
+<td class="center">8560 Ft</td>
+</tr>
+<tr>
+<td colspan="4" class="center"><span class="akcios">+2 alkalom SPA<br />2 havi bérlet vásárlása esetén 2000 Ft-os CBA vásárlási utalványt adunk ajándékba!</span></td>
+
+</tr>
+<tr>
+<td rowspan="2" style="vertical-align:middle;"><span class="akcios">diák kedvezmény</span></td>
+<td class="center">7980 Ft</td>
+<td class="center">8930 Ft</td>
+<td class="center">6880 Ft</td>
+<td class="center">7720 Ft</td>
+</tr>
+<tr>
+<td colspan="4" class="center"><span class="akcios">+2 alkalom SPA<br />2 havi bérlet vásárlása esetén 2000 Ft-os CBA vásárlási utalványt adunk ajándékba!</span></td>
+</tr>
+<tr>
+<td rowspan="2" style="vertical-align:middle;"><strong>12 alkalmas</strong></td>
+<td class="center"><del>10350 Ft</del><br /><span class="akcios">9900 Ft</span></td>
+<td class="center">11700 Ft</td>
+<td class="center"><del>9100 Ft</del><br /><span class="akcios">7900 Ft</span></td>
+<td class="center">10240 Ft</td>
+</tr>
+<tr>
+<td colspan="4" class="center"><span class="akcios">+4 alkalom SPA<br />2 havi bérlet vásárlása esetén 3000 Ft-os CBA vásárlási utalványt adunk ajándékba!</span></td>
+</tr>
+<tr>
+<td rowspan="2" style="vertical-align:middle;"><span class="akcios">diák kedvezmény</span></td>
+<td class="center">9300 Ft</td>
+<td class="center">10550 Ft</td>
+<td class="center">7300 Ft</td>
+<td class="center">9200 Ft</td>
+</tr>
+<tr>
+<td colspan="4" class="center"><span class="akcios">+4 alkalom SPA<br />2 havi bérlet vásárlása esetén 3000 Ft-os CBA vásárlási utalványt adunk ajándékba!</span></td>
+</tr>
+<tr>
+<td rowspan="2" style="vertical-align:middle;"><strong>20 alkalmas</strong></td>
+<td class="center"><del>12860 Ft</del><br /><span class="akcios">11900 Ft</span></td>
+<td class="center">14200 Ft</td>
+<td class="center"><del>10300 Ft</del><br /><span class="akcios">8900 Ft</span></td>
+<td class="center">11500 Ft</td>
+</tr>
+<tr>
+<td colspan="4" class="center"><span class="akcios">+6 alkalom SPA<br />2 havi bérlet vásárlása esetén 4000 Ft-os CBA vásárlási utalványt adunk ajándékba!</span></td>
+</tr>
+<tr>
+<td rowspan="2" style="vertical-align:middle;"><span class="akcios">diák kedvezmény</span></td>
+<td class="center">11300 Ft</td>
+<td class="center">12750 Ft</td>
+<td class="center">8300 Ft</td>
+<td class="center">10350 Ft</td>
+</tr>
+<tr>
+<td colspan="4" class="center"><span class="akcios">+6 alkalom SPA<br />2 havi bérlet vásárlása esetén 4000 Ft-os CBA vásárlási utalványt adunk ajándékba!</span></td>
+</tr>
+
+
+
+<tr>
+<th class="nobg">&nbsp;</th>
+<th colspan="2"><strong>SPA - Wellness</strong><br />
+medence, szaunák, jacussi, sószoba</th>
+<th colspan="2"><strong>SPA kiegészítõ jegy</strong></th>
+</tr>
+<tr>
+<th class="nobg">&nbsp;</th>
+<td class="bg">hétköznap</td>
+<td class="bg">hétvégén</td>
+<td class="bg" colspan="2">bármely belépõhöz</td>
+</tr>
+<tr>
+<th class="nobg">&nbsp;</th>
+<td class="center">2050 Ft</td>
+<td class="center"><del>2420 Ft</del><br /><span class="akcios">2050 Ft</span></td>
+<td colspan="2" class="center">1150 Ft</td>
+</tr>
+
+
+
+
+
+</table>
+
+<br />
+<strong><p>Újonc jegy* 990 Ft!</p></strong>
+
+<p>*Az újonc jegy csak az elsõ belépéskor érvényes, mellyel mind a három szolgáltatást ki lehet próbálni (1 aerobik óra, fitness terem, Spa-Wellness használat).  </p>
+
+<p>A bérlet-opciók 30 napig érvényesek!<br />
+Lepedõ bérlése: 100.-Ft/alkalom, frottier-köntös bérlése 250.-Ft/alkalom</p>
+
+<p>Diákakciót 25 éves korig lehet igénybe venni, érvényes diákigazolvánnyal.</p>
+
+
+<strong><p style="color: #FF0000">VÁSÁROLJ JÚNIUS 20. - JÚLIUS 31. KÖZÖTT 2 db 8-12-20 alkalmas HAVI BÉRLETET ÉS MEGAJÁNDÉKOZUNK AKÁR <br />4000 FT CBA VÁSÁRLÁSI UTALVÁNNYAL!</p></strong>
+
+
+<br />
+
+
+<table>
+<tr>
+<th class="nobg">&nbsp;</th>
+<th colspan="6" class="title">Kombinált sportszolgáltatások</th>
+<th colspan="2" class="nobg"></th>
+</tr>
+<tr>
+<th rowspan="2" class="nobg">&nbsp;</th>
+<th colspan="2"><strong>Fitness - Aerobic / Spinning</strong></th>
+<th colspan="2"><strong>Fitness - SPA</strong></th>
+<th><strong>Aerobic / Spinning - SPA</strong></th>
+<th><strong>Teljes körû belépõ</strong></th>
+</tr>
+<tr>
+<td class="bg">nyitástól 14 óráig</td>
+<td class="bg">egész nap</td>
+<td class="bg">nyitástól 14 óráig</td>
+<td class="bg">egész nap</td>
+<td class="bg">egész nap</td>
+<td class="bg">egész nap</td>
+</tr>
+<tr>
+<td><strong>1 alkalmas</strong></td>
+<td colspan="2" class="center">1690 Ft</td>
+<td colspan="2" class="center">2200 Ft</td>
+<td>1950 Ft</td>
+<td>2500 Ft</td>
+</tr>
+
+<tr>
+<td><strong>4 alkalmas</strong></td>
+<td><span class="akcios">5590 Ft</span></td>
+<td><span class="akcios">6090 Ft</span></td>
+<td><span class="akcios">7940 Ft</span></td>
+<td><span class="akcios">8240 Ft</span></td>
+<td><span class="akcios">6790 Ft</span></td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>8 alkalmas</strong></td>
+<td>9720 Ft</td>
+<td>11450 Ft</td>
+<td>13650 Ft</td>
+<td>15750 Ft</td>
+<td><!--9900-->11400 Ft</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>12 alkalmas</strong></td>
+<td>12130 Ft</td>
+<td>14200 Ft</td>
+<td><del>15750 Ft</del><br /><span class="akcios">13900 Ft</span></td>
+<td>18120 Ft</td>
+<td><!--11990-->13700 Ft</td>
+<td></td>
+<tr>
+<td><strong>20 alkalmas</strong></td>
+<td>14500 Ft</td>
+<td>16800 Ft</td>
+<td><del>18750 Ft</del><br /><span class="akcios">16900 Ft</span></td>
+<td>20950 Ft</td>
+<td><!--13990-->16650 Ft</td>
+<td></td>
+<tr>
+</tr>
+</table>
+<p>A bérlet-opciók 30 napig érvényesek!</p>
+
+
+
+
+<table>
+<tr>
+<th class="nobg">&nbsp;</th>
+<th colspan="10" class="title">SPA újdonság!</th>
+</tr>
+<tr>
+<th rowspan="10" class="nobg">&nbsp;</th>
+<th colspan="4"><strong>Aqua Fitness</strong></th>
+<th colspan="6"><strong>Családi hétvége</strong></th>
+</tr>
+<tr>
+<td class="bg" colspan="2">*jegy</td>
+<td class="bg" colspan="2">*bérlet</td>
+<td class="bg" colspan="2">1 felnõtt + 1 gyermek</td>
+<td class="bg" colspan="2">1 felnõtt + 2 gyermek</td>
+<td class="bg" colspan="2"> </td>
+</tr>
+<tr>
+<td colspan="2" class="center">1190 Ft</td>
+<td colspan="2" class="center">6990 Ft</td>
+<td colspan="2" class="center">2690 Ft</td>
+<td colspan="2" class="center">3290 Ft</td>
+<td colspan="2" class="center">További felnõtt ár: 2050 Ft</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="4">*Kizárólag az órán való<br />részvételre jogosít.</td>
+<td class="bg" colspan="2">2 felnõtt + 1 gyermek</td>
+<td class="bg" colspan="2">2 felnõtt + 2 gyermek</td>
+<td colspan="2"> </td>
+</tr>
+<tr>
+<td colspan="2" class="center">4690 Ft</td>
+<td colspan="2" class="center">5290 Ft</td>
+<td colspan="2">További gyermek ár: 590 Ft</td>
+<tr>
+</table>
+<p>Családi belépõ vásárlásakor a kicsik szombaton 590 Ft-ért vehetnek részt a Mazsola aerobik órán. Vasárnap 10-15-ig vízi játékokkal várjuk Õket! Minden hétvégi Spa belépõhöz ajándék frissítõ italt kérhetsz!</p>
+
+
+
+
+
+
+
+
+<table>
+<tr>
+<th rowspan="4" class="nobg">&nbsp;</th>
+<th class="title">Gyermekek részére (14 éves korig)</th>
+<th>alkalmak száma</th>
+<th>ár</th>
+</tr>
+<tr>
+<td>Gyermekjegy - csak Aerobik-Spa használatra</td>
+<td>1 alkalom</td>
+<td>990 Ft</td>
+</tr>
+<tr>
+<td>Gyermek karate bérlet</td>
+<td>8 alkalom</td>
+<td>6100 Ft</td>
+</tr>
+<tr>
+<td>Gyermekmegõrzés</td>
+<td>&nbsp;</td>
+<td>ingyenes!</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th rowspan="2" class="nobg">&nbsp;</th>
+<th class="title">Exkluzív tagság</th>
+<th class="nobg">&nbsp;</th>
+</tr>
+<tr>
+<th><strong>Az exkluzív tagság a vásárlástól számított érvényességi idõszak végéig lehetõvé<br /> teszi az összes fenti szolgáltatás - nyitvatartási idõn belüli - korlátlan használatát</strong><br />
+(Kivéve: infra szauna, squash, szolárium, masszázs)</th>
+</tr>
+<tr>
+<td><strong>30 nap</strong></td>
+<td>22050 Ft</td>
+</tr>
+<tr>
+<td><strong>3 hónap</strong></td>
+<td>53550 Ft (17850 Ft/hó)</td>
+</tr>
+<tr>
+<td><strong>6 hónap</strong></td>
+<td>94500 Ft (15750 Ft/hó)</td>
+</tr>
+<tr>
+<td><strong>12 hónap</strong></td>
+<td>163800 Ft (13650 Ft/hó)</td>
+</tr>
+</table>
+<p>Express Way karóra az exkluzív tagság mellé: 650 Ft!</p>
+<table>
+<tr>
+<th rowspan="3" class="nobg">&nbsp;</th>
+<th class="title" colspan="5">Squash</th>
+<th class="nobg">&nbsp;</th>
+</tr>
+<tr>
+<th colspan="4">csak bérlettel vehetõ igénybe</th>
+</tr>
+<tr>
+<td class="bg">I. zóna 06-10 óra között   </td>
+<td class="bg">II. zóna 10-16 óra között   </td>
+<td class="bg">III. zóna 16-20 óra között   </td>
+</tr>
+
+<tr>
+<td rowspan="2"><strong>1 alkalom</strong></td>
+<td>2990 Ft</td>
+<td>2490 Ft</td>
+<td>2990 Ft</td>
+</tr>
+<tr>
+<td colspan="3"><p style="text-align:center;"><span class="akcios">+1 alkalom SPA</span></p></td>
+</tr>
+
+
+<tr>
+<td rowspan="2"><strong>5 alkalom</strong></td>
+<td>11490 Ft</td>
+<td>9990 Ft</td>
+<td>12490 Ft</td>
+</tr>
+<tr>
+<td colspan="3"><p style="text-align:center;"><span class="akcios">+5 alkalom SPA</span></p></td>
+</tr>
+
+<tr>
+<td rowspan="2"><strong>10 alkalom</strong></td>
+<td>19990 Ft</td>
+<td>17990 Ft</td>
+<td>21990 Ft</td>
+</tr>
+<tr>
+<td colspan="3"><p style="text-align:center;"><span class="akcios">+10 alkalom SPA</span></p></td>
+</tr>
+
+
+<tr>
+<td rowspan="2"><strong>Diák (10-16; hétvége)</strong></td>
+<td colspan="3" class="center">1690 Ft / alkalom</td>
+</tr>
+<tr>
+<td colspan="3"><p style="text-align:center;"><span class="akcios">+1 alkalom SPA</span></p></td>
+</tr>
+
+
+
+</table>
+
+
+<p>Hétvégén, egész nap, bármilyen bérlet használható.<br />
+Pályafoglalás - kizárólag érvényes bérlettel - 30 napra elõre lehetséges.<br />
+Az elõzetes pályafoglalást legkésõbb 24 órával az aktuális idõpont elõtt lehet díjmentesen lemondani,
+ellenkezõ esetben az alkalom a bérletbõl levonásra kerül!<br />
+<strong>A squash bérlet-opciók 60 napig érvényesek!</strong></p>
+
+<table>
+<tr>
+<th class="nobg">&nbsp;</th>
+<th colspan="6" class="title">Egyéb szolgáltatások</th>
+</tr>
+<tr>
+<th rowspan="2" class="nobg">&nbsp;</th>
+<th colspan="1"><strong>Szolárium</strong></th>
+<th colspan="3"><strong>Masszázs</strong></th>
+<th colspan="1"><strong>Infraszauna</strong></th>
+</tr>
+<tr>
+<td class="bg">3 perc</td>
+<!--<td class="bg">6 perc</td>-->
+<td class="bg"> 30 perc </td>
+<td class="bg"> 60 perc </td>
+<td class="bg"> 90 perc </td>
+<td class="bg"> 35 perc (zsetonos)</td>
+</tr>
+<tr>
+<td><strong>1 alkalom</strong></td>
+<td class="center">210 Ft</td>
+<td>3000 Ft</td>
+<td>4500 Ft</td>
+<td>6600 Ft</td>
+<td class="center">600 Ft</td>
+</tr>
+</table>
+<br />
+<strong><p>Egyéb masszázs típusainkrõl és azok árairól a <a href="http://cbafitness.hu/masszazs.php">masszázs menüpontban</a> tájékozódhat!</p>
+<p style="color: #FF0000">JÚNIUS 20-TÓL HÉTVÉGÉN A MASSZÁZSOKHOZ AJÁNDÉK SPA BELÉPÕJEGYET ADUNK!</p></strong>
+
+
+<br />
+<br />
+<p>Az itt, valamint a letölthetõ árlistában szereplõ esetleges hibákért felelõsséget nem vállalunk! Megértésüket köszönjük.</p>
+<br />
+<a name="egeszsegpenztarak"></a>
+<p>
+<strong>Egészségpénztár</strong><br>
+Készpénzfizetéses számlát bármelyik szolgáltatótól elfogadunk. Szerzõdéses partnereink:
+<ul>
+<li>OTP Egészségpénztár</li>
+<li>Generali Önkéntes Kölcsönös Egészségpénztár</li>
+<li>TEMPÓ Országos Önkéntes Kiegészítõ Egészségpénztár </li>
+<li>AXA Önkéntes Egészségpénztár</li>
+<li>ALLIANZ Hungária Egészségpénztár</li>
+<li>Új Pillér Egészségpénztár </li>
+<li>Patika Egészségpénztár</li>
+<li>Aranykor Országos Önkéntes Egészségpénztár </li>
+<li>MKB Egészségpénztár</li>
+<li>Honvéd Egészségpénztár</li>
+<li>Vasutas Egészségpénztár</li>
+</ul>
+<br>
+<strong>Hivatalos üdülési csekket, valamint hideg-meleg étkezési utalványokat is elfogadunk!</strong>
+</p>
+<a name="allyoucanmove"></a>
+<p style="color: #FF0000">Sportközpontunkban is felhasználható az <strong>All you can move Sportkártya</strong>, amelynek minden kártyatípusát (S, M, L, XL, C) elfogadjuk.<br />
+A kártya a fitness terembe történõ napi egyszeri belépésre, vagy egy aerobik órán való részvételre jogosít. A kártya felhasználása mellett minden további szolgáltatásunk is igénybe vehetõ az árlistánkban szereplõ árakon.</p>
+<p>
+Minden Kedves Vendégünket szeretettel várjuk!
+</p>
+
+
+
+<br />
+<br />
+<br />
+
+
+<!-- Content Ends Here -->
+<?php require_once('views/footer.php') ?>

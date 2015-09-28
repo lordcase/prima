@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.03.29. 08:38:49
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3107
+  osszeg: 4551
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Aerobik 4 alkalmas DE 14-ig
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3107&fizetesValasz=true&tranzakcioAzonosito=primaw3107
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.03.29. 08:38:50
+
+Valasz: LETEZOFIZETESITRANZAKCIO
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3107
+  posValaszkod: 
+  authorizaciosKod: 
+  statuszKod: 
+  teljesites: 
+  nev: 
+  orszag: 
+  megye: 
+  varos: 
+  iranyitoszam: 
+  utcaHazszam: 
+  mailCim: 
+  kozlemeny: 

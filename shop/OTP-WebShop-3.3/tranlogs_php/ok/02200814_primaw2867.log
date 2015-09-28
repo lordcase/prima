@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.02.24. 06:24:14
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2867
+  osszeg: 11866
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Squash 5 alkalmas Egésznapos
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2867&fizetesValasz=true&tranzakcioAzonosito=primaw2867
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.02.24. 06:28:06
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2867
+  posValaszkod: 
+  authorizaciosKod: 987102
+  statuszKod: 
+  teljesites: 2012.02.24 06.28.05 592
+  nev: Széplaki Tamás
+  orszag: Magyar
+  megye: Budapest
+  varos: Budapest
+  iranyitoszam: 1073
+  utcaHazszam: Kertész 39
+  mailCim: szeplakitamas@freemail.hu
+  kozlemeny: 

@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.04.06. 21:27:31
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3162
+  osszeg: 9776
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Fitness 12 alkalmas Egésznap
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3162&fizetesValasz=true&tranzakcioAzonosito=primaw3162
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.04.06. 21:29:37
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3162
+  posValaszkod: 
+  authorizaciosKod: 206768
+  statuszKod: 
+  teljesites: 2012.04.06 21.29.37 257
+  nev: Rábaközi Attila
+  orszag: Magyaro
+  megye: Bp
+  varos: Bp
+  iranyitoszam: 1156
+  utcaHazszam: Nyírpalota 16
+  mailCim: rabakozi.attila@gmail.com
+  kozlemeny: 12 alkalmas bérletvásárlás

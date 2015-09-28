@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.03.14. 20:37:53
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3005
+  osszeg: 2366
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Squash 1 alk. 10-16
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3005&fizetesValasz=true&tranzakcioAzonosito=primaw3005
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.03.14. 20:39:49
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3005
+  posValaszkod: 
+  authorizaciosKod: 402569
+  statuszKod: 
+  teljesites: 2012.03.14 20.39.45 825
+  nev: simonics áko
+  orszag: Magyarország
+  megye: Bp
+  varos: Bp
+  iranyitoszam: 1184
+  utcaHazszam: Építõ 30
+  mailCim: akos@simonics.hu
+  kozlemeny: nyet

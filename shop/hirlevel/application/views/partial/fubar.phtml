@@ -1,0 +1,14 @@
+<div class="fubar<?php if ($this->fubar['class']) echo ' ' . $this->fubar['class'] ?>">
+    <div class="fubar-controls">
+        <span title="Bejelentkezett felhasználó: <?php echo $this->fubar['identity']['name'] ?> (<?php echo $this->fubar['identity']['email'] ?>)"><?php echo $this->fubar['identity']['email'] ?></span>
+<?php if (is_array($this->fubar['links']) && !empty ($this->fubar['links'])): ?>
+<?php foreach ($this->fubar['links'] as $label => $href): ?>
+        <a href="<?php echo $href; ?>"><?php echo $label ?></a>
+<?php endforeach; ?>
+<?php endif; ?>        
+    </div>
+    <div class="fubar-main">
+        <h1>Hírlevelek</h1>
+    </div>
+    <!-- div class="fubar-message"><?php echo $this->fubar['message'] ?></div -->
+</div>

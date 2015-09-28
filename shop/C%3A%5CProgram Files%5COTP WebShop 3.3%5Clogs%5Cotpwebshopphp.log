@@ -1,0 +1,86 @@
+2011-12-19 14:07:24,848 DEBUG WebShopClient - OTPWebShopService (PHP) példányosítás...
+2011-12-19 14:07:24,848 DEBUG WebShopClient - OTPMW szerver url: https://www.otpbankdirekt.hu/mwaccesspublic/mwaccess
+2011-12-19 14:07:24,848 DEBUG WebShopClient - fizetesiTranzakcio indul...
+2011-12-19 14:07:24,848 FATAL WebShopClient - A privát kulcs fájl nem található: /customers/anaiz/storage/cbafitness.hu/config/pki/02200814.privKey.pem
+2011-12-19 14:07:24,848 INFO  WebShopClient - fizetesiTranzakcio keres: 02200814 / cbaf2547
+2011-12-19 14:07:24,848 DEBUG WebShopClient - fizetesiTranzakcio keres:
+<?xml version="1.0" encoding="UTF-8"?>
+<StartWorkflow><TemplateName>WEBSHOPFIZETES</TemplateName><Variables><isClientCode>WEBSHOP</isClientCode><isPOSID>02200814</isPOSID><isTransactionID>cbaf2547</isTransactionID><isAmount>18990</isAmount><isExchange>HUF</isExchange><isLanguageCode>hu</isLanguageCode><isNameNeeded>TRUE</isNameNeeded><isCountryNeeded>TRUE</isCountryNeeded><isCountyNeeded>TRUE</isCountyNeeded><isSettlementNeeded>TRUE</isSettlementNeeded><isZipcodeNeeded>TRUE</isZipcodeNeeded><isStreetNeeded>TRUE</isStreetNeeded><isMailAddressNeeded>TRUE</isMailAddressNeeded><isNarrationNeeded>TRUE</isNarrationNeeded><isConsumerReceiptNeeded>FALSE</isConsumerReceiptNeeded><isBackURL>http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&amp;posId=02200814&amp;tranzId=cbaf2547&amp;fizetesValasz=true&amp;tranzakcioAzonosito=cbaf2547</isBackURL><isShopComment>CBA Fitness vÃ¡sÃ¡rlÃ¡s: Squash 10 alkalmas 06-10h I.zÃ³na</isShopComment><isConsumerRegistrationNeeded></isConsumerRegistrationNeeded><isConsumerRegistrationID></isConsumerRegistrationID><isTwoStaged></isTwoStaged><isClientSignature></isClientSignature></Variables></StartWorkflow>
+
+2011-12-19 14:07:24,848 WARN  WebShopClient - A tranzakcio log konyvtar nem letezik: C:\Program Files\OTP WebShop 3.3\tranlogs_php
+2011-12-19 14:07:25,848 INFO  WebShopClient - fizetesiTranzakcio folyamat azonosito: 233597422
+2011-12-19 14:07:25,848 DEBUG WebShopClient - fizetesiTranzakcio valasz:
+<?xml version="1.0" encoding="utf-8"?>
+<answer><resultset><record><posid>02200814</posid><transactionid>cbaf2547</transactionid></record></resultset><messagelist><message>HIBASKLIENSALAIRAS</message></messagelist></answer>
+2011-12-19 14:07:25,848 WARN  WebShopClient - A tranzakcio log konyvtar nem letezik: C:\Program Files\OTP WebShop 3.3\tranlogs_php\fail
+2011-12-19 14:07:25,848 DEBUG WebShopClient - fizetesiTranzakcio befejezodott.
+2011-12-19 14:07:48,560 DEBUG WebShopClient - OTPWebShopService (PHP) példányosítás...
+2011-12-19 14:07:48,560 DEBUG WebShopClient - OTPMW szerver url: https://www.otpbankdirekt.hu/mwaccesspublic/mwaccess
+2011-12-19 14:07:48,560 DEBUG WebShopClient - fizetesiTranzakcio indul...
+2011-12-19 14:07:48,560 FATAL WebShopClient - A privát kulcs fájl nem található: /customers/anaiz/storage/cbafitness.hu/config/pki/02200814.privKey.pem
+2011-12-19 14:07:48,560 INFO  WebShopClient - fizetesiTranzakcio keres: 02200814 / cbaf2548
+2011-12-19 14:07:48,560 DEBUG WebShopClient - fizetesiTranzakcio keres:
+<?xml version="1.0" encoding="UTF-8"?>
+<StartWorkflow><TemplateName>WEBSHOPFIZETES</TemplateName><Variables><isClientCode>WEBSHOP</isClientCode><isPOSID>02200814</isPOSID><isTransactionID>cbaf2548</isTransactionID><isAmount>18990</isAmount><isExchange>HUF</isExchange><isLanguageCode>hu</isLanguageCode><isNameNeeded>TRUE</isNameNeeded><isCountryNeeded>TRUE</isCountryNeeded><isCountyNeeded>TRUE</isCountyNeeded><isSettlementNeeded>TRUE</isSettlementNeeded><isZipcodeNeeded>TRUE</isZipcodeNeeded><isStreetNeeded>TRUE</isStreetNeeded><isMailAddressNeeded>TRUE</isMailAddressNeeded><isNarrationNeeded>TRUE</isNarrationNeeded><isConsumerReceiptNeeded>FALSE</isConsumerReceiptNeeded><isBackURL>http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&amp;posId=02200814&amp;tranzId=cbaf2548&amp;fizetesValasz=true&amp;tranzakcioAzonosito=cbaf2548</isBackURL><isShopComment>CBA Fitness vÃ¡sÃ¡rlÃ¡s: Squash 10 alkalmas 06-10h I.zÃ³na</isShopComment><isConsumerRegistrationNeeded></isConsumerRegistrationNeeded><isConsumerRegistrationID></isConsumerRegistrationID><isTwoStaged></isTwoStaged><isClientSignature></isClientSignature></Variables></StartWorkflow>
+
+2011-12-19 14:07:54,560 INFO  WebShopClient - fizetesiTranzakcio folyamat azonosito: 233594735
+2011-12-19 14:07:54,560 DEBUG WebShopClient - fizetesiTranzakcio valasz:
+<?xml version="1.0" encoding="utf-8"?>
+<answer><resultset><record><posid>02200814</posid><transactionid>cbaf2548</transactionid></record></resultset><messagelist><message>HIBASKLIENSALAIRAS</message></messagelist></answer>
+2011-12-19 14:07:54,560 DEBUG WebShopClient - fizetesiTranzakcio befejezodott.
+2011-12-19 14:08:33,349 DEBUG WebShopClient - OTPWebShopService (PHP) példányosítás...
+2011-12-19 14:08:33,349 DEBUG WebShopClient - OTPMW szerver url: https://www.otpbankdirekt.hu/mwaccesspublic/mwaccess
+2011-12-19 14:08:33,349 DEBUG WebShopClient - fizetesiTranzakcio indul...
+2011-12-19 14:08:33,349 FATAL WebShopClient - A privát kulcs fájl nem található: /customers/anaiz/storage/cbafitness.hu/config/pki/02200814.privKey.pem
+2011-12-19 14:08:33,349 INFO  WebShopClient - fizetesiTranzakcio keres: 02200814 / cbaf2549
+2011-12-19 14:08:33,349 DEBUG WebShopClient - fizetesiTranzakcio keres:
+<?xml version="1.0" encoding="UTF-8"?>
+<StartWorkflow><TemplateName>WEBSHOPFIZETES</TemplateName><Variables><isClientCode>WEBSHOP</isClientCode><isPOSID>02200814</isPOSID><isTransactionID>cbaf2549</isTransactionID><isAmount>156000</isAmount><isExchange>HUF</isExchange><isLanguageCode>hu</isLanguageCode><isNameNeeded>TRUE</isNameNeeded><isCountryNeeded>TRUE</isCountryNeeded><isCountyNeeded>TRUE</isCountyNeeded><isSettlementNeeded>TRUE</isSettlementNeeded><isZipcodeNeeded>TRUE</isZipcodeNeeded><isStreetNeeded>TRUE</isStreetNeeded><isMailAddressNeeded>TRUE</isMailAddressNeeded><isNarrationNeeded>TRUE</isNarrationNeeded><isConsumerReceiptNeeded>FALSE</isConsumerReceiptNeeded><isBackURL>http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&amp;posId=02200814&amp;tranzId=cbaf2549&amp;fizetesValasz=true&amp;tranzakcioAzonosito=cbaf2549</isBackURL><isShopComment>CBA Fitness vÃ¡sÃ¡rlÃ¡s: KlubtagsÃ¡gi 12 hÃ³nap</isShopComment><isConsumerRegistrationNeeded></isConsumerRegistrationNeeded><isConsumerRegistrationID></isConsumerRegistrationID><isTwoStaged></isTwoStaged><isClientSignature></isClientSignature></Variables></StartWorkflow>
+
+2011-12-19 14:08:51,349 INFO  WebShopClient - fizetesiTranzakcio folyamat azonosito: 233600165
+2011-12-19 14:08:51,349 DEBUG WebShopClient - fizetesiTranzakcio valasz:
+<?xml version="1.0" encoding="utf-8"?>
+<answer><resultset><record><posid>02200814</posid><transactionid>cbaf2549</transactionid></record></resultset><messagelist><message>HIBASKLIENSALAIRAS</message></messagelist></answer>
+2011-12-19 14:08:51,349 DEBUG WebShopClient - fizetesiTranzakcio befejezodott.
+2011-12-20 13:30:25,820 DEBUG WebShopClient - OTPWebShopService (PHP) példányosítás...
+2011-12-20 13:30:25,820 DEBUG WebShopClient - OTPMW szerver url: https://www.otpbankdirekt.hu/mwaccesspublic/mwaccess
+2011-12-20 13:30:25,820 DEBUG WebShopClient - fizetesiTranzakcio indul...
+2011-12-20 13:30:25,820 FATAL WebShopClient - A privát kulcs fájl nem található: /customers/anaiz/storage/cbafitness.hu/config/pki/02200814.privKey.pem
+2011-12-20 13:30:25,820 INFO  WebShopClient - fizetesiTranzakcio keres: 02200814 / cbaf2550
+2011-12-20 13:30:25,820 DEBUG WebShopClient - fizetesiTranzakcio keres:
+<?xml version="1.0" encoding="UTF-8"?>
+<StartWorkflow><TemplateName>WEBSHOPFIZETES</TemplateName><Variables><isClientCode>WEBSHOP</isClientCode><isPOSID>02200814</isPOSID><isTransactionID>cbaf2550</isTransactionID><isAmount>10915</isAmount><isExchange>HUF</isExchange><isLanguageCode>hu</isLanguageCode><isNameNeeded>TRUE</isNameNeeded><isCountryNeeded>TRUE</isCountryNeeded><isCountyNeeded>TRUE</isCountyNeeded><isSettlementNeeded>TRUE</isSettlementNeeded><isZipcodeNeeded>TRUE</isZipcodeNeeded><isStreetNeeded>TRUE</isStreetNeeded><isMailAddressNeeded>TRUE</isMailAddressNeeded><isNarrationNeeded>TRUE</isNarrationNeeded><isConsumerReceiptNeeded>FALSE</isConsumerReceiptNeeded><isBackURL>http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&amp;posId=02200814&amp;tranzId=cbaf2550&amp;fizetesValasz=true&amp;tranzakcioAzonosito=cbaf2550</isBackURL><isShopComment>CBA Fitness vÃ¡sÃ¡rlÃ¡s: Squash 5 alkalmas 06-10h  I.zÃ³na</isShopComment><isConsumerRegistrationNeeded></isConsumerRegistrationNeeded><isConsumerRegistrationID></isConsumerRegistrationID><isTwoStaged></isTwoStaged><isClientSignature></isClientSignature></Variables></StartWorkflow>
+
+2011-12-20 13:30:26,820 INFO  WebShopClient - fizetesiTranzakcio folyamat azonosito: 235495607
+2011-12-20 13:30:26,820 DEBUG WebShopClient - fizetesiTranzakcio valasz:
+<?xml version="1.0" encoding="utf-8"?>
+<answer><resultset><record><posid>02200814</posid><transactionid>cbaf2550</transactionid></record></resultset><messagelist><message>HIBASKLIENSALAIRAS</message></messagelist></answer>
+2011-12-20 13:30:26,820 DEBUG WebShopClient - fizetesiTranzakcio befejezodott.
+2011-12-20 13:31:09,459 DEBUG WebShopClient - OTPWebShopService (PHP) példányosítás...
+2011-12-20 13:31:09,459 DEBUG WebShopClient - OTPMW szerver url: https://www.otpbankdirekt.hu/mwaccesspublic/mwaccess
+2011-12-20 13:31:09,459 DEBUG WebShopClient - fizetesiTranzakcio indul...
+2011-12-20 13:31:09,459 FATAL WebShopClient - A privát kulcs fájl nem található: /customers/anaiz/storage/cbafitness.hu/config/pki/02200814.privKey.pem
+2011-12-20 13:31:09,459 INFO  WebShopClient - fizetesiTranzakcio keres: 02200814 / cbaf2551
+2011-12-20 13:31:09,459 DEBUG WebShopClient - fizetesiTranzakcio keres:
+<?xml version="1.0" encoding="UTF-8"?>
+<StartWorkflow><TemplateName>WEBSHOPFIZETES</TemplateName><Variables><isClientCode>WEBSHOP</isClientCode><isPOSID>02200814</isPOSID><isTransactionID>cbaf2551</isTransactionID><isAmount>10915</isAmount><isExchange>HUF</isExchange><isLanguageCode>hu</isLanguageCode><isNameNeeded>TRUE</isNameNeeded><isCountryNeeded>TRUE</isCountryNeeded><isCountyNeeded>TRUE</isCountyNeeded><isSettlementNeeded>TRUE</isSettlementNeeded><isZipcodeNeeded>TRUE</isZipcodeNeeded><isStreetNeeded>TRUE</isStreetNeeded><isMailAddressNeeded>TRUE</isMailAddressNeeded><isNarrationNeeded>TRUE</isNarrationNeeded><isConsumerReceiptNeeded>FALSE</isConsumerReceiptNeeded><isBackURL>http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&amp;posId=02200814&amp;tranzId=cbaf2551&amp;fizetesValasz=true&amp;tranzakcioAzonosito=cbaf2551</isBackURL><isShopComment>CBA Fitness vÃ¡sÃ¡rlÃ¡s: Squash 5 alkalmas 06-10h  I.zÃ³na</isShopComment><isConsumerRegistrationNeeded></isConsumerRegistrationNeeded><isConsumerRegistrationID></isConsumerRegistrationID><isTwoStaged></isTwoStaged><isClientSignature></isClientSignature></Variables></StartWorkflow>
+
+2011-12-20 13:31:22,459 INFO  WebShopClient - fizetesiTranzakcio folyamat azonosito: 235510113
+2011-12-20 13:31:22,459 DEBUG WebShopClient - fizetesiTranzakcio valasz:
+<?xml version="1.0" encoding="utf-8"?>
+<answer><resultset><record><posid>02200814</posid><transactionid>cbaf2551</transactionid></record></resultset><messagelist><message>HIBASKLIENSALAIRAS</message></messagelist></answer>
+2011-12-20 13:31:22,459 DEBUG WebShopClient - fizetesiTranzakcio befejezodott.
+2011-12-20 13:36:27,531 DEBUG WebShopClient - OTPWebShopService (PHP) példányosítás...
+2011-12-20 13:36:27,531 DEBUG WebShopClient - OTPMW szerver url: https://www.otpbankdirekt.hu/mwaccesspublic/mwaccess
+2011-12-20 13:36:27,531 DEBUG WebShopClient - fizetesiTranzakcio indul...
+2011-12-20 13:36:27,531 FATAL WebShopClient - A privát kulcs fájl nem található: /customers/anaiz/storage/cbafitness.hu/config/pki/02200814.privKey.pem
+2011-12-20 13:36:27,531 INFO  WebShopClient - fizetesiTranzakcio keres: 02200814 / cbaf2552
+2011-12-20 13:36:27,531 DEBUG WebShopClient - fizetesiTranzakcio keres:
+<?xml version="1.0" encoding="UTF-8"?>
+<StartWorkflow><TemplateName>WEBSHOPFIZETES</TemplateName><Variables><isClientCode>WEBSHOP</isClientCode><isPOSID>02200814</isPOSID><isTransactionID>cbaf2552</isTransactionID><isAmount>10915</isAmount><isExchange>HUF</isExchange><isLanguageCode>hu</isLanguageCode><isNameNeeded>TRUE</isNameNeeded><isCountryNeeded>TRUE</isCountryNeeded><isCountyNeeded>TRUE</isCountyNeeded><isSettlementNeeded>TRUE</isSettlementNeeded><isZipcodeNeeded>TRUE</isZipcodeNeeded><isStreetNeeded>TRUE</isStreetNeeded><isMailAddressNeeded>TRUE</isMailAddressNeeded><isNarrationNeeded>TRUE</isNarrationNeeded><isConsumerReceiptNeeded>FALSE</isConsumerReceiptNeeded><isBackURL>http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&amp;posId=02200814&amp;tranzId=cbaf2552&amp;fizetesValasz=true&amp;tranzakcioAzonosito=cbaf2552</isBackURL><isShopComment>CBA Fitness vÃ¡sÃ¡rlÃ¡s: Squash 5 alkalmas 06-10h  I.zÃ³na</isShopComment><isConsumerRegistrationNeeded></isConsumerRegistrationNeeded><isConsumerRegistrationID></isConsumerRegistrationID><isTwoStaged></isTwoStaged><isClientSignature></isClientSignature></Variables></StartWorkflow>
+
+2011-12-20 13:36:27,531 INFO  WebShopClient - fizetesiTranzakcio folyamat azonosito: 235518577
+2011-12-20 13:36:27,531 DEBUG WebShopClient - fizetesiTranzakcio valasz:
+<?xml version="1.0" encoding="utf-8"?>
+<answer><resultset><record><posid>02200814</posid><transactionid>cbaf2552</transactionid></record></resultset><messagelist><message>HIBASKLIENSALAIRAS</message></messagelist></answer>
+2011-12-20 13:36:27,531 DEBUG WebShopClient - fizetesiTranzakcio befejezodott.

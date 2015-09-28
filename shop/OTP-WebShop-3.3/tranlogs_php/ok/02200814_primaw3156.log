@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.04.04. 14:01:40
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3156
+  osszeg: 8826
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Diák és Nyugd. Aerobik 12 alk. Egésznapos
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3156&fizetesValasz=true&tranzakcioAzonosito=primaw3156
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.04.04. 14:03:40
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3156
+  posValaszkod: 
+  authorizaciosKod: 355212
+  statuszKod: 
+  teljesites: 2012.04.04 14.03.40 674
+  nev: Kerékgyártó Judit
+  orszag: Magyarország
+  megye: Budapest
+  varos: Budapest
+  iranyitoszam: 1183
+  utcaHazszam: Csörötnek u. 2/b
+  mailCim: kerekgyarto.judit77@gmail.com
+  kozlemeny: bérlet vásárlás

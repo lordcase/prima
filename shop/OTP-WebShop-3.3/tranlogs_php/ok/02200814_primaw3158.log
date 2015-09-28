@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.04.05. 09:29:27
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3158
+  osszeg: 11391
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Aerobic-Spa 8 alkalmas Egésznap
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3158&fizetesValasz=true&tranzakcioAzonosito=primaw3158
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.04.05. 09:32:39
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3158
+  posValaszkod: 
+  authorizaciosKod: 666846
+  statuszKod: 
+  teljesites: 2012.04.05 09.32.38 480
+  nev: Drágus Richárd
+  orszag: magyar
+  megye: budapest
+  varos: Budapest
+  iranyitoszam: 1103
+  utcaHazszam: Noszlopy u. 45
+  mailCim: dragusr@gmail.com
+  kozlemeny: 

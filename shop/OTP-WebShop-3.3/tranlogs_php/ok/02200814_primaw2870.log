@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.02.24. 09:27:00
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2870
+  osszeg: 10916
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Squash 5 alkalmas 06-10h  I.zóna
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2870&fizetesValasz=true&tranzakcioAzonosito=primaw2870
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.02.24. 09:32:02
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2870
+  posValaszkod: 
+  authorizaciosKod: 054839
+  statuszKod: 
+  teljesites: 2012.02.24 09.31.58 025
+  nev: Kalina Zoltán
+  orszag: Magyarország
+  megye: Pest
+  varos: Biatorbágy
+  iranyitoszam: 2051
+  utcaHazszam: Kossuth L u. 6
+  mailCim: kalinazolka@gmail.com
+  kozlemeny: Fitness

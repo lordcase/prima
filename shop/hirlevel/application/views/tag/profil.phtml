@@ -1,0 +1,31 @@
+<h1>Felhasználói profil</h1>
+
+<form id="editor-form" method="post" action="admin.php?id=profil">
+
+    <div class="input-panel">
+        <label>Név:</label>
+        <p class="input"><?php echo $this->data['name'] ?></p>
+    </div>
+
+    <div class="input-panel">
+        <label>E-mail:</label>
+        <p class="input"><?php echo $this->data['email'] ?></p>
+    </div>
+
+    <div class="input-panel">
+        <label for="title">Jelszó: <br /><span class="info">Ha nem kívánja megváltoztatni, hagyja üresen.</span></label>
+        <input type="password" class="text" id="title" name="password" />
+    </div>
+
+    <div class="input-panel">
+        <label for="title">Jelszó megerősítése: <br /><span class="info">Meg kell hogy egyezzen az előbbi mezőbe beírt új jelszóval.</span></label>
+        <input type="password" class="text" id="title" name="password_confirm" />
+    </div>
+
+    <div class="button-panel">
+        <a class="submit-button" title="Űrlap elküldése" href="#editor-form">Mentés</a>
+        <a class="cancel-button" href="?id=cikkek">Mégsem</a>
+    </div>
+    
+</form>
+

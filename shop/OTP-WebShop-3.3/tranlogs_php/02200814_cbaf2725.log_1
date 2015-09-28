@@ -1,0 +1,24 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.01.30. 13:25:25
+
+Indito adatok
+  posId: 02200814
+  azonosito: cbaf2725
+  osszeg: 1416
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Fitness 1 alkalmas jegy Egésznap 
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=cbaf2725&fizetesValasz=true&tranzakcioAzonosito=cbaf2725
+  ketlepcsosFizetes: 

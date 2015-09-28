@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.03.28. 15:05:06
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw3103
+  osszeg: 5121
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Aerobik 4 alkalmas Egésznapos
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw3103&fizetesValasz=true&tranzakcioAzonosito=primaw3103
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.03.28. 15:08:12
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw3103
+  posValaszkod: 
+  authorizaciosKod: 854487
+  statuszKod: 
+  teljesites: 2012.03.28 15.08.08 427
+  nev: Gágyor Tímea
+  orszag: Magyarország
+  megye: Pest
+  varos: Budapest
+  iranyitoszam: 1183
+  utcaHazszam: Attila utca 15.
+  mailCim: tgagyor@yahoo.com
+  kozlemeny: 

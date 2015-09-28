@@ -1,0 +1,44 @@
+Haromszereplos fizetesi tranzakcio
+
+Inditas: 2012.02.18. 09:15:22
+
+Indito adatok
+  posId: 02200814
+  azonosito: primaw2847
+  osszeg: 13291
+  devizanem: HUF
+  nyelvkod: hu
+  nevKell: true
+  orszagKell: true
+  megyeKell: true
+  telepulesKell: true
+  iranyitoszamKell: true
+  utcaHazszamKell: true
+  mailCimKell: true
+  kozlemenyKell: true
+  vevoVisszaigazolasKell: false
+  ugyfelRegisztracioKell: 
+  regisztraltUgyfelId: 
+  shopMegjegyzes: Príma Wellness vásárlás: Príma korl. Aerobic egésznap + 8spa
+  backURL: http://shop.primawellness.hu:80/fiz3.php?func=fiz3%3FfizetesValasz%3Dtrue&posId=02200814&tranzId=primaw2847&fizetesValasz=true&tranzakcioAzonosito=primaw2847
+  ketlepcsosFizetes: 
+
+Befejezes: 2012.02.18. 09:21:34
+
+Valasz: SIKER
+
+Valasz adatok
+  posId: 02200814
+  azonosito: primaw2847
+  posValaszkod: 
+  authorizaciosKod: 233233
+  statuszKod: 
+  teljesites: 2012.02.18 09.21.30 762
+  nev: MÁK NORBERT
+  orszag: MAGYAR
+  megye: BUDAPEST
+  varos: BUDAPEST
+  iranyitoszam: 1103
+  utcaHazszam: ÓHEGY UTCA 16./C
+  mailCim: maknorbi@gmail.com
+  kozlemeny: 
