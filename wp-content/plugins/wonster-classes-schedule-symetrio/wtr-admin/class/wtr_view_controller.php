@@ -11,7 +11,7 @@ if ( ! class_exists( 'WTR_Cs_view' ) ) {
 
 		//FUNCTION
 		public function __construct(){
-			add_action( 'init', array( &$this, 'set_days_list' ) );
+			add_action( 'wp', array( &$this, 'set_days_list' ), 20 );
 		}//end __construct
 
 		public function set_days_list(){
@@ -20,12 +20,13 @@ if ( ! class_exists( 'WTR_Cs_view' ) ) {
 
 			$this->days_list = array(
 				$post_settings['wtr_TranslateClassesScheduleSHTMonday'],
-				$post_settings['wtr_TranslateClassesScheduleSHTTuesday'],
-				$post_settings['wtr_TranslateClassesScheduleSHTWednesday'],
-				$post_settings['wtr_TranslateClassesScheduleSHTThursday'],
-				$post_settings['wtr_TranslateClassesScheduleSHTFriday'],
-				$post_settings['wtr_TranslateClassesScheduleSHTSaturday'],
-				$post_settings['wtr_TranslateClassesScheduleSHTSunday'],
+//				__( 'Monday', 'Symetrioo' ),
+				__( 'Tuesday', 'Symetrioo' ),
+				__( 'Wednesday', 'Symetrioo' ),
+				__( 'Thursday', 'Symetrioo' ),
+				__( 'Friday', 'Symetrioo' ),
+				__( 'Saturday', 'Symetrioo' ),
+				__( 'Sunday', 'Symetrioo' )
 			);
 		} // end set_days_list
 
@@ -397,10 +398,10 @@ if ( ! class_exists( 'WTR_Cs_view' ) ) {
 
 							if( 'wtr_all_items' == $id_class ){
 								$result .= '<span class="wtrShtTimeTableBtn wtrRadius3 wtrTimetableFilterDataAll">';
-									$result .= $post_settings['wtr_TranslateClassesScheduleSHTShowAll'];
+									$result .= __( 'Show all', 'Symetrioo' );
 								$result .= '</span>';
 								$result .= '<a href="#modal" data-idx="'. esc_attr( $id ) .'" data-calendar="' . esc_attr( $calendar_data[ 'id_timetable' ] ) . '" data-type="' . esc_attr( $calendar_data[ 'type' ] ) . '" class="wtrShtTimeTableBtn wtrShtTimeTableBtnClasses wtrRadius3 wtrClassFilter">';
-									$result .= '<i class="fa fa-th"></i>' . $post_settings['wtr_TranslateClassesScheduleSHTSelectClasse'];
+									$result .= '<i class="fa fa-th"></i>' . __( 'Select classes', 'Symetrioo' );
 								$result .= '</a>';
 							}
 						$result .= '</div>';
@@ -439,7 +440,7 @@ if ( ! class_exists( 'WTR_Cs_view' ) ) {
 			$result = '<table class="wtrShtTimeTableItem">';
 				$result .= '<thead>';
 					$result .= '<tr>';
-						$result .= '<th style="width:200px !important;"><span class="wtrShtTimeTableHead">' . $post_settings['wtr_TranslateClassesScheduleSHTTimeDay'] . '</span></th>';
+						$result .= '<th style="width:200px !important;"><span class="wtrShtTimeTableHead">' . __( 'Time / Day', 'Symetrioo' ) . '</span></th>';
 						$result .= '<th><span class="wtrShtTimeTableDay">' . $this->days_list[ 0 ] . '</span></th>';
 						$result .= '<th><span class="wtrShtTimeTableDay">' . $this->days_list[ 1 ] . '</span></th>';
 						$result .= '<th><span class="wtrShtTimeTableDay">' . $this->days_list[ 2 ] . '</span></th>';
@@ -459,7 +460,7 @@ if ( ! class_exists( 'WTR_Cs_view' ) ) {
 				if( !count( $calendar_data[ 'instance_public' ] ) ){
 					$result .= '<tr class="wtrShtTimeTableNoResults">';
 						$result .= '<td colspan="8" >';
-							$result .= '<div class="wtrShtTimeTableNoResultsHeadline">' . $post_settings['wtr_TranslateClassesScheduleSHTSorry']  . '</div>';
+							$result .= '<div class="wtrShtTimeTableNoResultsHeadline">' . __( 'Sorry, no results in selected week', 'Symetrioo' )  . '</div>';
 						$result .= '</td>';
 					$result .= '</tr>';
 				}
@@ -591,8 +592,8 @@ if ( ! class_exists( 'WTR_Cs_view' ) ) {
 
 					$result .= '<div class="wtrDailyScheduleHeadlineColumn">';
 						$result .= '<div class="wtrDailyScheduleHeadlineMeta">';
-							$result .= '<div class="wtrDailyScheduleName wrtAltFontCharacter">' . $post_settings['wtr_TranslateDailyScheduleSHTText'] . '</div>';
-							$result .= '<div class="wtrDailyScheduleHeadline">' . $post_settings['wtr_TranslateDailyScheduleSHTText2'] . '</div>';
+							$result .= '<div class="wtrDailyScheduleName wrtAltFontCharacter">' . __( 'Symetrioo', 'Symetrioo' ) . '</div>';
+							$result .= '<div class="wtrDailyScheduleHeadline">' . __( 'Daily schedule', 'Symetrioo' ) . '</div>';
 							$result .= '<div class="wtrDailyScheduleHeadlineDate ">' . $date_c . '</div>';
 						$result .= '</div>';
 
@@ -718,7 +719,7 @@ if ( ! class_exists( 'WTR_Cs_view' ) ) {
 			foreach( $data[ 'category' ] as $id => $name ){
 				$category_c .= '<li class="wtrTimeTableModalListItem wtrTimetableFilterData" data-idx="' . esc_attr( $idx ) . '" data-filter="wtr-cat-' . esc_attr( $id ) . '">';
 					$category_c .= '<div class="wtrTimeTableClassesCategory">' .  $name ;
-					$category_c .= '<span>' . $post_settings['wtr_TranslateClassesScheduleSHTCategory'] . '</span></div>';
+					$category_c .= '<span>' . __( 'Category', 'Symetrioo' ) . '</span></div>';
 				$category_c .= '</li>';
 			}
 
@@ -726,7 +727,7 @@ if ( ! class_exists( 'WTR_Cs_view' ) ) {
 			foreach( $data[ 'classes' ] as $id => $name ){
 				$classes_c .= '<li class="wtrTimeTableModalListItem wtrTimetableFilterData" data-idx="' . esc_attr( $idx ) . '"  data-filter="wtr-class-' . esc_attr( $id ) . '">';
 					$classes_c .= '<div class="wtrTimeTableClasses">' .  $name ;
-					$classes_c .= '<span>' . $post_settings['wtr_TranslateClassesScheduleSHTClass'] . '</span></div>';
+					$classes_c .= '<span>' . __( 'Class', 'Symetrioo' ) . '</span></div>';
 				$classes_c .= '</li>';
 			}
 
@@ -734,15 +735,15 @@ if ( ! class_exists( 'WTR_Cs_view' ) ) {
 			$result = '<div class="wtrTimeTableModalContainer">';
 				$result .= '<div class="wtrTimeTableModalHeader">';
 					$result .= '<span class="wtrTimeTableModalClose close"></span>';
-					$result .= '<h4>' . $post_settings['wtr_TranslateClassesScheduleSHTSelectClasse'] . '</h4>';
+					$result .= '<h4>' . __( 'Select classes', 'Symetrioo' ) . '</h4>';
 				$result .= '</div>';
 				$result .= '<div class="wtrTimeTableModalTabs clearfix">';
 					$result .= '<ul class="wtrTimeTableModalTabsList resp-tabs-list clearfix">';
-						$result .= '<li class="wtrTimeTableModalTabsListItem">' . $post_settings['wtr_TranslateClassesScheduleSHTShowAll'] . '</li>';
+						$result .= '<li class="wtrTimeTableModalTabsListItem">' . __( 'Show all', 'Symetrioo' ) . '</li>';
 
 						if( $categoryC ){
-							$result .= '<li class="wtrTimeTableModalTabsListItem">' . $post_settings['wtr_TranslateClassesScheduleSHTCategories'] . '</li>';
-							$result .= '<li class="wtrTimeTableModalTabsListItem">' . $post_settings['wtr_TranslateClassesScheduleSHTClasses'] . '</li>';
+							$result .= '<li class="wtrTimeTableModalTabsListItem">' . __( 'Categories', 'Symetrioo' ) . '</li>';
+							$result .= '<li class="wtrTimeTableModalTabsListItem">' . __( 'Classes', 'Symetrioo' ) . '</li>';
 						}
 
 					$result .= '</ul>';
